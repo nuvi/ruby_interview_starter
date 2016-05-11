@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require 'ruby_interview_starter'
+require 'thor'
+
+module RubyInterviewStarter
+  class CLI < Thor
+    desc "execute", "Executes Interview Starter"
+    def execute
+      puts "This is the Ruby Interview Starter command line script"
+    end
+  end
+end
+
+::RubyInterviewStarter::CLI.start(ARGV)
