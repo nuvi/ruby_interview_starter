@@ -1,6 +1,9 @@
 require './test_helper.rb'
 require 'zip'
 require 'pry'
+require 'mechanize'
+require 'open-uri'
+require 'net/http'
 
 class NewsExtractorTest < Minitest::Test
   def text_can_extract_news_xml
@@ -21,7 +24,27 @@ def news
   end
 end
 
-news
-bindind.pry
+def download
+  b = 0
+  agent = Mechanize.new
+  page = agent.get('http://bitly.com/nuvi-plz')
+
+  page.links.each do |link|
+    filer(link, b)
+    b += 1
+  end
+
+  binding.pry
+end
+
+
+def filer(link, b)
+curlhttp://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/
+end
+
+
+# news
+
+download
 
 puts 'done'

@@ -3,5 +3,7 @@ source 'https://rubygems.org'
 gem 'rubyzip'
 gem 'pry'
 gem 'test_helper'
+gem 'mechanize'
+
 # Specify your gem's dependencies in ruby_interview_starter.gemspec
 gemspec
