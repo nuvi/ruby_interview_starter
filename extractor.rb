@@ -4,10 +4,15 @@ require 'zip'
 class Extractor
 	Zip::File.open('test/files/news.zip') do |zip_file|
 	  # Handle entries one by one
+		@fileStream = File.open('test/files/extract', 'a')
 		zip_file.each do |entry|
-	   	
+	   		#Show the user each file being extracted
 	   		puts "Extracting #{entry.name}"
-	    	entry.extract('test/files/extract')
+	   		#Write out from the entries to the stream
+	   		@fileStream.write(entry.get_input_stream.read)
+	   		
 		end
+		#clean up the file stream
+		@fileStream.close
 	end
 end
