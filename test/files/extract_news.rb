@@ -12,7 +12,7 @@ def extract
   #file = "hello_tester.rb"
   
   file = "news.zip"
-  get_file = File.open(file, "r"){ |file| file.read }
+  $get_file = File.open(file, "r"){ |file| file.read }
 
   if get_file  
      #puts get_file
@@ -22,7 +22,8 @@ def extract
     
      Dir.mkdir(new_dir) unless File.exists?(new_dir)
      
-      
+     output = File.open(new_dir, 'w')
+     output.write($get_file)       
   end
 end
 
