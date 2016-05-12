@@ -31,7 +31,6 @@ class NuviDownloader
     page.links.each do |link|
       next if !link.text.include?(".zip")
 
-      puts "getting #{final_url}#{link}..."
       mech.get("#{final_url}/#{link}").save("#{destination}/#{link.text}")
     end
   end

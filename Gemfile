@@ -5,3 +5,5 @@ gemspec
 
 gem 'rubyzip', '>= 1.0.0'
 gem 'mechanize'
+
+gem 'redis', '~>3.2'
