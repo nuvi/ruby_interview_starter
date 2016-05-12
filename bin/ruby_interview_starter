@@ -1,15 +1,26 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+#require 'ruby_interview_starter'
 require 'thor'
+require 'rubygems'
+require 'zip'
+require 'open-uri'
+require 'redis'
+require '../extractor'
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
-      puts "This is the Ruby Interview Starter command line script"
-    end
+      puts "Download initated"
+      zip_getter = Zip_Downloader.new
+      zip_getter.download_zips
+      puts "Download finshed, extracting XML and pushing to Redis Que"
+      send_to_Redis = Extract_And_Push.new
+      send_to_Redis.extract_data_and_push
+	end
   end
+
 end
 
 ::RubyInterviewStarter::CLI.start(ARGV)

@@ -17,8 +17,6 @@ class Extractor
 		   		file_stream.write(entry.get_input_stream.read)
 		   		
 			end
-			#clean up the file stream
-			file_stream.close
 		end
 	end
 	def extract_to_folder
@@ -40,6 +38,8 @@ end
 class Zip_Downloader
 
 	def download_zips
+		#Moves the directory back into root, needed for executing with the ruby_interview_starter
+		Dir.chdir("..")
 		#create a directory for the zip files if it doesnt exist
 		directory_name = 'test/files/downloads'
 		Dir.mkdir(directory_name) unless File.exists?(directory_name)
@@ -70,6 +70,8 @@ end
 class Extract_And_Push
 
 	def extract_data_and_push
+		#Moves the directory back into root, needed for executing with the ruby_interview_starter
+		Dir.chdir("..")
 		#keep track of how many XML files get pushed to the que
 		num_entries = 0
 		redis = Redis.new
@@ -91,6 +93,7 @@ class Extract_And_Push
 
 end
 
+#<--------Test Code-------------->
 #extractor = Extractor.new
 #extractor.extract_data
 #extractor.extract_to_folder
