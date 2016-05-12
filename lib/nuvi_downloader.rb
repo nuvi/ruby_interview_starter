@@ -29,6 +29,7 @@ class NuviDownloader
       rescue => error
         @logger.error"******  ERROR downloading file: #{final_url}/#{link}   #{error.message}"
       end
+      break
     end
   end
 end

@@ -1,8 +1,4 @@
 #!/usr/bin/env ruby
-
-
-
-
 require_relative '../lib/nuvi_downloader'
 require_relative '../lib/nuvi_redis_pusher'
 #require 'ruby_interview_starter'
