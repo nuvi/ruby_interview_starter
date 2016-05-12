@@ -4,8 +4,7 @@ class UnzipFile
     
     #having problems with cloud9's file system so this is theoretically correct but I havn't been able to debug it
     
-    @zip_location
-    @unzip_dest
+    
     
     def init
         # sets location and destination

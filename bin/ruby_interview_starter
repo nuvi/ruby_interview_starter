@@ -2,12 +2,22 @@
 
 require 'ruby_interview_starter'
 require 'thor'
+require 'unzip.rb'
+require 'download.rb'
+require 'push_to_redis.rb'
+
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+	  program = DownloadFromBitly.new 
+	  program.download   
+	  program = UnzipFile.new
+	  program.run
+      program = RedisEntry.new
+      program.push_to_redis
     end
   end
 end
