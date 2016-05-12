@@ -1,13 +1,26 @@
 #!/usr/bin/env ruby
-
-require 'ruby_interview_starter'
+require_relative '../lib/nuvi_downloader'
+require_relative '../lib/nuvi_redis_pusher'
+#require 'ruby_interview_starter'
 require 'thor'
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
-      puts "This is the Ruby Interview Starter command line script"
+      puts "This is the Ruby Interview Starter command line script."
+
+      destdir = 'test/files/downloads'
+      url = 'http://bitly.com/nuvi-plz'
+
+      downloader = NuviDownloader.new
+      downloader.download_files(url, destdir)
+
+      # iterate, unzip and push to redis (each files contents)
+      workdir = 'test/files/extract'
+
+      workobj = NuviRedisPusher.new
+      workobj.process_job(destdir, workdir)
     end
   end
 end
