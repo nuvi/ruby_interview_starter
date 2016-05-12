@@ -2,7 +2,7 @@ require 'open-uri'
 require 'mechanize'
 
 
-# The following code can be placed in a runner.rb file to test the class operation
+# The following code can be placed in a download_runner.rb file to test the class operation
 #
 # $LOAD_PATH << File.dirname(__FILE__)
 #
