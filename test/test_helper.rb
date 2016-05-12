@@ -1,4 +1,4 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
-require 'ruby_interview_starter'
 
+require 'ruby_interview_starter'
 require 'minitest/autorun'
