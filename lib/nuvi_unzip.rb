@@ -6,7 +6,6 @@ class NuviUnZip
   def self.unzip_file(fname)
     dirname = File.dirname(fname)
 
-    # Dir.mkdir "#{dirname}/extract/"   unless File.exists?("#{dirname}/extract/")
     dest_file = "#{dirname}/extract"
 
     Zip::File.open(fname) do |zip_file|

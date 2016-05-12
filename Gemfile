@@ -4,3 +4,4 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'rubyzip', '>= 1.0.0'
+gem 'mechanize'
