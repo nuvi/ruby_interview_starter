@@ -1,17 +1,28 @@
 require 'rubygems'
 require 'zip'
 
-folder = 'test/files/'
-input_dir = 'test/files/extract'
-zipfile_name = 'test/files/news.zip'
 
-Zip::File.open(zipfile_name, Zip::File::CREATE) do |zip_file|
+class Fly
+  def initialize(input_dir)
+    @input_dir = input_dir
+    make_directory
+  end
 
-  # never used this before by the way. :)
-
-  zip_file.each do |zip|
-    puts "extracting #{zip} file"
-    input_path = "#{input_dir}/#{zip}"
-    zip.extract(input_path)
+  def make_directory
+    Dir.mkdir(@input_dir) unless File.exists?(@input_dir)
   end  
-end  
+  
+  def unzip(zipfile)
+    Zip::File.open(zipfile, Zip::File::CREATE) do |zip_file|
+      zip_file.each do |zip|
+        puts "extracting #{zip} file"
+        input_path = "#{@input_dir}/#{zip}"
+        zip.extract(input_path)
+      end  
+    end  
+  end  
+end
+
+fly = Fly.new('test/files/extract')
+
+fly.unzip('test/files/news.zip')
