@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://rssfeeds.king5.com/_/20/109808350/king5/home</forum>
+<forum_title>KING - News</forum_title>
+<discussion_title>Alternate transportation during...</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.king5.com/news/local/viaduct-news/alternate-transportation-during-viaduct-closure/152726401</topic_url>
+<topic_text>
+Alternatives for your commute during Alaskan Way Viaduct closure If you don&apos;t want to sit in your car during the viaduct closure, the Water Taxi Alex Rozier , KING 6:55 AM. PDT April 25, 2016 The Spirtit of Kingsont a Seattle water taxis. CONNECT TWEET LINKEDIN GOOGLE+ PINTEREST 
+SEATTLE -- Transportation leaders throughout the city of Seattle have been working for many months on finding alternate transportation options for drivers during the upcoming two-week Alaskan Way Viaduct closure which begins April 29. 
+Metro Transit will re-route 12 bus routes that normally travel the viaduct through downtown and SODO. They want riders to expect delays throughout the system, but they also want them to know that they are doing everything they can to make sure the delays are as small as possible. 
+“When we’re re-routing 12 bus routes off the viaduct we’re also putting into play 22 operator assignments throughout the day. That means that those bus routes that face delays. We’re going to be able to put in standby buses to help maintain the schedule so we can help maintain the reliability as best we can even in the face of major traffic delays,” Metro spokesperson Jeff Switzer said. 
+Metro Transit also offers 1,500 volunteer vanpools and they hope you consider taking one of those as well. 
+“In places where those van pools have an extra seat we’re asking those riders to check in with co-workers, check in with neighbors to see, ‘Hey, do you want to have a free ride during the closure?’ and if we can fill those seats that’s going to take a couple cars off the road, maybe a couple dozen, maybe a couple hundred,” Switzer said. “If you go into this closure with a plan for your commute you’re going to be way better off. You’re going to be calmer. You’re going to feel more confident about how you get through the system. There’s going to be delays throughout the system no matter where you’re coming from, you should pad your schedule and bring patience to the table.” 
+Water Taxi leaders have also prepared for the viaduct closure. They will be adding sailings from Vashon Island and adding parking for those who want to take the route from West Seattle. 
+Water Taxi is adding five additional round trips during the closure on the 22-minute commute from Vashon Island to Seattle. On the 10-minute commute from West Seattle, Water Taxi will add more than 300 additional parking spots on the West Seattle side. Also, they plan to run a shuttle along the street with additional parking to pick up any travelers who may be interested in a ride. If you opt to take the Water Taxi you can pay with cash, credit card, or Orca Card. 
+If you have additional questions about the specifics of the changes, you can find more information online at 99closure.org. 
+We also have full coverage of the viaduct closure and its effects on KING5.com , the KING 5 App and Seattle Traffic App. 
+Copyright 2016 KING
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.king5.com/news/local/viaduct-news/alternate-transportation-during-viaduct-closure/152726401</post_url>
+<post_date>20160425</post_date>
+<post_time>1355</post_time>
+<username></username>
+<post>
+Alternatives for your commute during Alaskan Way Viaduct closure If you don&apos;t want to sit in your car during the viaduct closure, the Water Taxi Alex Rozier , KING 6:55 AM. PDT April 25, 2016 The Spirtit of Kingsont a Seattle water taxis. CONNECT TWEET LINKEDIN GOOGLE+ PINTEREST 
+SEATTLE -- Transportation leaders throughout the city of Seattle have been working for many months on finding alternate transportation options for drivers during the upcoming two-week Alaskan Way Viaduct closure which begins April 29. 
+Metro Transit will re-route 12 bus routes that normally travel the viaduct through downtown and SODO. They want riders to expect delays throughout the system, but they also want them to know that they are doing everything they can to make sure the delays are as small as possible. 
+“When we’re re-routing 12 bus routes off the viaduct we’re also putting into play 22 operator assignments throughout the day. That means that those bus routes that face delays. We’re going to be able to put in standby buses to help maintain the schedule so we can help maintain the reliability as best we can even in the face of major traffic delays,” Metro spokesperson Jeff Switzer said. 
+Metro Transit also offers 1,500 volunteer vanpools and they hope you consider taking one of those as well. 
+“In places where those van pools have an extra seat we’re asking those riders to check in with co-workers, check in with neighbors to see, ‘Hey, do you want to have a free ride during the closure?’ and if we can fill those seats that’s going to take a couple cars off the road, maybe a couple dozen, maybe a couple hundred,” Switzer said. “If you go into this closure with a plan for your commute you’re going to be way better off. You’re going to be calmer. You’re going to feel more confident about how you get through the system. There’s going to be delays throughout the system no matter where you’re coming from, you should pad your schedule and bring patience to the table.” 
+Water Taxi leaders have also prepared for the viaduct closure. They will be adding sailings from Vashon Island and adding parking for those who want to take the route from West Seattle. 
+Water Taxi is adding five additional round trips during the closure on the 22-minute commute from Vashon Island to Seattle. On the 10-minute commute from West Seattle, Water Taxi will add more than 300 additional parking spots on the West Seattle side. Also, they plan to run a shuttle along the street with additional parking to pick up any travelers who may be interested in a ride. If you opt to take the Water Taxi you can pay with cash, credit card, or Orca Card. 
+If you have additional questions about the specifics of the changes, you can find more information online at 99closure.org. 
+We also have full coverage of the viaduct closure and its effects on KING5.com , the KING 5 App and Seattle Traffic App. 
+Copyright 2016 KING
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://content.king5.com/photo/2016/04/25/Water%20Taxi_1461585183382_1910719_ver1.0_640_360.JPG</main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://najvesti.com/feed/index.rss</forum>
+<forum_title>NajVesti.com</forum_title>
+<discussion_title>Obveznice za dijasporu nisu opcija za Hrvatsku</discussion_title>
+<language>croatian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.najvesti.com/vesti-iz-srbije/vesti-ekonomija/3037122-Obveznice-za-dijasporu-nisu-opcija-za-Hrvatsku.html</topic_url>
+<topic_text>
+Obveznice za dijasporu nisu opcija za Hrvatsku 25.04.2016 20:42 Izvor vesti: SEEbiz RIJEKA - Hrvatskoj trebaju novi krediti da njima zatvori stare, ali i da pokrije tekuće dugove. To će se riješiti novim izdanjima obveznica, a prva, inozemna, najavljena je uskoro, u visini milijardu eura. Svojevremeno se govorilo o izdanju tzv. narodnih obveznica gdje bi u državne vrijednosne papire uložili građani. Ta se opcija više ne spominje, no iz svijeta stiže vijest koja bi mogla dati ideju našem ministru financija, a to su tzv. obveznice za dijasporu čije tržište sve više raste. Naime, sve veći broj zemalja okreće se svojim sunarodnjacima koji žive u inozemstvu i voljni su otkupiti dug domovine, te joj i na taj način pomoći. Kako pokazuju podaci Svjetske banke iz 2013., čak 250 milijuna ljudi, odnosno oko tri posto svjetsk...
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.najvesti.com/vesti-iz-srbije/vesti-ekonomija/3037122-Obveznice-za-dijasporu-nisu-opcija-za-Hrvatsku.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1842</post_time>
+<username></username>
+<post>
+Obveznice za dijasporu nisu opcija za Hrvatsku 25.04.2016 20:42 Izvor vesti: SEEbiz RIJEKA - Hrvatskoj trebaju novi krediti da njima zatvori stare, ali i da pokrije tekuće dugove. To će se riješiti novim izdanjima obveznica, a prva, inozemna, najavljena je uskoro, u visini milijardu eura. Svojevremeno se govorilo o izdanju tzv. narodnih obveznica gdje bi u državne vrijednosne papire uložili građani. Ta se opcija više ne spominje, no iz svijeta stiže vijest koja bi mogla dati ideju našem ministru financija, a to su tzv. obveznice za dijasporu čije tržište sve više raste. Naime, sve veći broj zemalja okreće se svojim sunarodnjacima koji žive u inozemstvu i voljni su otkupiti dug domovine, te joj i na taj način pomoći. Kako pokazuju podaci Svjetske banke iz 2013., čak 250 milijuna ljudi, odnosno oko tri posto svjetsk...
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.najvesti.com/files/images/artikli/54/2016-04-25/slika-25-04-20-42-08_fond_investicioni_0_0_468x10000.jpg</main_image>
+</document>

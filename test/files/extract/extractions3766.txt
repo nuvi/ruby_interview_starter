@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.napi.hu/feed/mindencikk.xml</forum>
+<forum_title>Napi.hu</forum_title>
+<discussion_title>Kutyával utazna? - Mutatjuk, mire számíthat</discussion_title>
+<language>hungarian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.napi.hu/magyar_gazdasag/kutyaval_utazna_mutatjuk_mire_szamithat.613757.html</topic_url>
+<topic_text>
+Ajánlom 
+Összesen 2466 darab hazai szálláshely adatait vették górcső alá, ebből 2172 szálloda, panzió, vendégház, fogadó illetve magán szálláshelyek volt kutyával is látogatható. A jelenleg érvényes, és az utazási portálokon 2162 esetben feltüntetett kutyaárak alapján átlagosan éjszakánként 1280 kell fizetni pluszban, ha kedvencünket is magunkkal visszük. 
+Mit kap ezért a kutya? 
+Egyes szálláshelyek kiemelt figyelemmel fordulnak a kutyával érkező vendégek felé, számos extra szolgáltatással kedveskedve a gazdinak és négylábú barátjának. Számos szálláshely biztosít erkélyes/teraszos/kertkapcsolatos szobát, és ajánl közeli kutyabarát kirándulóhelyeket, valamint felhívja a figyelmet a környéken található kutyaúsztatási lehetőségekre is. 
+A kutyabarát szolgáltatások palettáján megtalálható a kutyafuttató, és a kutyakozmetika is, sok helyen etető-, és itatótálat, kutyajátékot, plédet, kullancscsipeszt és ürülékszedő zacskót biztosítanak a vendégek részére, de olyan hely is van, ahol jutalomfalattal kedveskednek az ebeknek. 
+A kutatás adatai a kutyabarát.hu portálon részletesen is elérhetőek. Az összesítésben résztvevő portálok, ahol a kínálatban az adott szálláshelynél egyértelműen jelezve volt, hogy kutya (kisállat) vihető: Travelo.hu, Szállás.hu, Balatoni-szállás.hu, Szállodák.hu, Itthon.hu, Szállások.hu, Kutyás-szállodák.lap.hu, Trivgao.hu, Kutyabarát.hu. A többi, jelentősebb hazai utazási, szállásfoglaló portálokon nem volt külön jelölve, hogy kutya vihető-e, azonban az átfedések igen magasak voltak, tehát ugyanazon szálláshely esetében az egyik portálon jelölik, míg a másik portálon nem jelölik külön, hogy kutya vihető-e. Így a kutatás szempontjából irreleváns a többi szállásfoglaló portál, ahol nem jelzik adott szálláshelynél, hogy kutya vihető-e.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.napi.hu/magyar_gazdasag/kutyaval_utazna_mutatjuk_mire_szamithat.613757.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1830</post_time>
+<username></username>
+<post>
+Ajánlom 
+Összesen 2466 darab hazai szálláshely adatait vették górcső alá, ebből 2172 szálloda, panzió, vendégház, fogadó illetve magán szálláshelyek volt kutyával is látogatható. A jelenleg érvényes, és az utazási portálokon 2162 esetben feltüntetett kutyaárak alapján átlagosan éjszakánként 1280 kell fizetni pluszban, ha kedvencünket is magunkkal visszük. 
+Mit kap ezért a kutya? 
+Egyes szálláshelyek kiemelt figyelemmel fordulnak a kutyával érkező vendégek felé, számos extra szolgáltatással kedveskedve a gazdinak és négylábú barátjának. Számos szálláshely biztosít erkélyes/teraszos/kertkapcsolatos szobát, és ajánl közeli kutyabarát kirándulóhelyeket, valamint felhívja a figyelmet a környéken található kutyaúsztatási lehetőségekre is. 
+A kutyabarát szolgáltatások palettáján megtalálható a kutyafuttató, és a kutyakozmetika is, sok helyen etető-, és itatótálat, kutyajátékot, plédet, kullancscsipeszt és ürülékszedő zacskót biztosítanak a vendégek részére, de olyan hely is van, ahol jutalomfalattal kedveskednek az ebeknek. 
+A kutatás adatai a kutyabarát.hu portálon részletesen is elérhetőek. Az összesítésben résztvevő portálok, ahol a kínálatban az adott szálláshelynél egyértelműen jelezve volt, hogy kutya (kisállat) vihető: Travelo.hu, Szállás.hu, Balatoni-szállás.hu, Szállodák.hu, Itthon.hu, Szállások.hu, Kutyás-szállodák.lap.hu, Trivgao.hu, Kutyabarát.hu. A többi, jelentősebb hazai utazási, szállásfoglaló portálokon nem volt külön jelölve, hogy kutya vihető-e, azonban az átfedések igen magasak voltak, tehát ugyanazon szálláshely esetében az egyik portálon jelölik, míg a másik portálon nem jelölik külön, hogy kutya vihető-e. Így a kutatás szempontjából irreleváns a többi szállásfoglaló portál, ahol nem jelzik adott szálláshelynél, hogy kutya vihető-e.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>HU</country>
+<main_image>http://www.napi.hu/fototar/fototar/201604/orig/image1461600876.jpg/780/</main_image>
+</document>

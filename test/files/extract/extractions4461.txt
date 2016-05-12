@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.beckersasc.com/?format=feed</forum>
+<forum_title>Becker&apos;s ASC Review</forum_title>
+<discussion_title>Golden State Warriors&apos; Kevin Looney undergoes surgery at Vail Valley Surgery Center — 5 key points</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.beckersasc.com/asc-turnarounds-ideas-to-improve-performance/golden-state-warriors-kevin-looney-undergoes-surgery-at-vail-valley-surgery-center-5-key-points.html</topic_url>
+<topic_text>
+Golden State Warriors&apos; Kevin Looney undergoes surgery at Vail Valley Surgery Center — 5 key points Written by Mary Rechtoris | April 25, 2016 
+Golden State Warriors forward Kevin Looney underwent a left hip arthroscopy at Vail (Colo.) Valley Surgery Center, according to Basketball Insiders. 
+Here are five key points: 
+1. Marc Philippon, MD, performed the procedure. 
+2. Mr. Looney had the hip arthroscopy to repair a torn labrum. 
+3. Dr. Philippon is an orthopedic surgeon and hip specialist who practices at the Steadman Clinic in Vail. 
+4. He serves as the co-chairman and board member of the Steadman Philippon Research Institute. 
+5. After earning his medical degree from McMaster University Medical School in Hamilton, Ontario, Canada, Dr. Philippon underwent his orthopedic surgery residency at the University of Miami. 
+More articles on surgery centers:
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.beckersasc.com/asc-turnarounds-ideas-to-improve-performance/golden-state-warriors-kevin-looney-undergoes-surgery-at-vail-valley-surgery-center-5-key-points.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1857</post_time>
+<username></username>
+<post>
+Golden State Warriors&apos; Kevin Looney undergoes surgery at Vail Valley Surgery Center — 5 key points Written by Mary Rechtoris | April 25, 2016 
+Golden State Warriors forward Kevin Looney underwent a left hip arthroscopy at Vail (Colo.) Valley Surgery Center, according to Basketball Insiders. 
+Here are five key points: 
+1. Marc Philippon, MD, performed the procedure. 
+2. Mr. Looney had the hip arthroscopy to repair a torn labrum. 
+3. Dr. Philippon is an orthopedic surgeon and hip specialist who practices at the Steadman Clinic in Vail. 
+4. He serves as the co-chairman and board member of the Steadman Philippon Research Institute. 
+5. After earning his medical degree from McMaster University Medical School in Hamilton, Ontario, Canada, Dr. Philippon underwent his orthopedic surgery residency at the University of Miami. 
+More articles on surgery centers:
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

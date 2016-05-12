@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://feeds.feedburner.com/washingtonpost/hAWD</forum>
+<forum_title>Politics</forum_title>
+<discussion_title>The coming Republican demographic disaster, in 1 stunning chart</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>https://www.washingtonpost.com/news/the-fix/wp/2016/04/25/the-coming-republican-demographic-disaster-in-1-stunning-chart/</topic_url>
+<topic_text>
+By Chris Cillizza April 25 at 2:08 PM Follow @thefix Start here.
+
+
+That&apos;s a chart taken from a new Pew study of the Hispanic population in the United States . Here&apos;s what you need to pay attention to: Almost six in 10 Hispanics and 51 percent of African Americans are 33 years old or younger. Less than four in 10 whites are 33 or younger.
+What does this have to do with politics? A HUGE amount.
+Consider that in the 2012 election , Mitt Romney won just 27 percent of the Hispanic vote and just 6 percent of the black vote. In an electorate that was 72 percent white, Romney was able to stay competitive thanks to winning the white vote by 20 points. But, he still lost. And lost convincingly to President Obama.
+The Cook Political Report&apos;s David Wasserman explains the problem for Republicans well in this post for 538 :
+In 1980, Ronald Reagan won 56 percent of all white voters and won election in a 44-state landslide. In 2012, GOP nominee Mitt Romney carried 59 percent of all white voters yet lost decisively. What happened? African Americans, Latinos, Asians and other non-whites — all overwhelmingly Democratic-leaning groups — rose from 12 percent of voters in 1980 to 28 percent in 2012.
+The white vote as a percentage of the overall electorate has been in steady decline since the 1980s and, judging from birth patterns as illustrated by the Pew chart above, that trend seems very unlikely to change.
+Need more evidence of just how white the Republican party is today? In 2012, just one in every 10 people who voted for Mitt Romney was not white. Forty-four percent of the people who voted for Barack Obama weren&apos;t white.
+
+
+If you are a Republican party strategist trying to elect a president down the road, here&apos;s what you are faced with:
+1. The white vote, which you are increasingly dependent on, is getting older — and shrinking.
+2. The non-white vote, which is moving progressively further and further away from your party, is growing by leaps and bounds.
+At some point in the not too-distance future — 2016 may be that future — winning the white vote by 25 or even 30 points, which is very, very hard to do for any candidate, may not be enough to make up for the massive losses Republicans are experiencing among the growing contingent of non-white voters.
+Those basic demographic facts are why the 2012 Republican autopsy recommended that the party find a way to be for some form of comprehensive immigration reform. That the party not only hasn&apos;t done that but is well on its way to nominating a candidate who advocates building a wall across the southern border and making Mexico pay for it speaks to how damaging the 2016 campaign has been for the GOP.
+If nothing changes — in terms of the booming growth among non-white voters and the GOP&apos;s inability to communicate with them — the 2016 election may only be the tip of the demographic iceberg for Republicans. The 2020 and 2024 presidential elections could be blowouts.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>3</post_num>
+<post_id>post-3</post_id>
+<post_url>https://www.washingtonpost.com/news/the-fix/wp/2016/04/25/the-coming-republican-demographic-disaster-in-1-stunning-chart/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>MaryamtheProud</username>
+<post>
+Here&apos;s what that chart does NOT tell us: how many of those 33 and under are here ILLEGALLY and who have no right to be here, much less vote. Of course, the numbers also include &quot;Hispanics&quot; such as my in-laws who don&apos;t speak Spanish, are married to non Hispanic Whites, and who have &quot;All-American&quot; mutts for &quot;Hispanic&quot; children.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www.washingtonpost.com/blogs/the-fix/files/2016/04/Screen-Shot-2016-04-25-at-12.22.19-PM.png</main_image>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.guardian.co.uk/stage/rss</forum>
+<forum_title>Stage | The Guardian</forum_title>
+<discussion_title>Plan your week&apos;s theatre – top tickets | Stage</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.theguardian.com/stage/2016/apr/25/plan-your-weeks-theatre-top-tickets</topic_url>
+<topic_text>
+Monday Clybourne Park, Bruce Norris’ uncomfortable play about race, arrives at Richmond theatre in London . Laura Dean’s This Room, about her experience of living with obsessive-compulsive disorder, is at Battersea Arts Centre from tonight as part of A Nation’s Theatre, which this week also includes Lizi Patch’s Punching the Sky at London’s Soho theatre , Toby Hulse’s Bed Time at the Polka theatre, Wimbledon , i and Reckless Sleeper’s brilliant The Last Supper at the Southbank Centre . People, Places and Things is unmissable at Wyndham’s , and not just for Denise Gough’s superlative performance .
+
+Facebook Twitter Pinterest Bryony Kimmings and Tim Grayburn in Fake It ‘Til You Make It, in Harrogate this week. Photograph: Roberto Ricciuti/Getty Images Tuesday 
+The always watchable Analogue arrive at Shoreditch town hall with Stowaway, about a man whose body is found in the car park of a west London superstore. Pim and Theo at the Drum in Plymouth is a fearless piece which explores the limits of tolerance. An enticing couple of days at Warwick Arts Centre , includes Made in China’s Tonight I’m Gonna be the New Me , which I loved in Edinburgh (it heads to the Royal Exchange in Manchester on Thursday), and Prototype’s A Machine They’re Secretly Building. It’s your final chance for the old-fashioned but big-hearted The Herbal Bed which winds up its tour at the Rose in Kingston . This week makes for good viewing at Harrogate theatre where you can catch Best of the BE festival tonight and Bryony Kimmings’s show about male depression, Fake It ’Til You Make It on Thursday and Friday.
+
+Facebook Twitter Pinterest Smoke and Mirrors by The Ricochet Project, at the Junction in Cambridge this week. Photograph: Kate Russell Wednesday 
+Gary McNair’s wonderfully slippery Donald Robertson is Not a Stand-Up Comedian plays for one night only at Dundee Rep . An Odd Occasion at ARC in Stockton is a cabaret tea party around the theme of identity and difference. At the Finborough in West Brompton , London, Athena Stevens’s Schism follows an unlikely couple. Vanishing Point’s The Destroyed Room arrives at Battersea Arts Centre , also as part of A Nation’s Theatre. The high price of love is explored in The Ricochet Project’s exquisitely beautiful circus piece Smoke and Mirrors, at the Junction in Cambridge tonight.
+Thursday Joe Sellman-Leava’s thoughtful and engaging Labels is well worth seeing at the Theatre Royal Stratford East . Nearby at Stratford Circus , Extant’s version of Ionesco’s The Chairs, performed by two visually impaired actors, is playing today and tomorrow. Eden’s Displace Yourself about surviving in a world without forgiveness is at Theatre in the Mill in Bradford tonight.
+Friday and the weekend Tonight Melly Still’s revival of Cymbeline is in preview at the RST in Stratford-upon-Avon . The fairytale element of the play should be a perfect fit for Still’s style. Daniel Bye’s Edinburgh success Going Viral is at the Unity in Liverpool . On Sunday, Emma Rice’s highly anticipated Globe debut directing A Midsummer Night’s Dream takes to the stage. On Sunday, 2Magpie’s Ventoux, which restages Lance Armstrong and Marco Pantani’s duel during Stage 12 of the 2012 Tour de France, is at the Stephen Joseph in Scarborough.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>3</post_num>
+<post_id>post-3</post_id>
+<post_url>http://www.theguardian.com/stage/2016/apr/25/plan-your-weeks-theatre-top-tickets</post_url>
+<post_date>20160425</post_date>
+<post_time>1447</post_time>
+<username>cdonline</username>
+<post>
+Emma Rice seems more focused on her own publicity, I wonder if she might jettison Shakespeare&apos;s Globe over the doora and replace it with Emma Rice&apos;s Globe?
+Rarely, has somebody been less qualified to take over a job. I hope she is not as disappointing as evidenced by her history of lacklustre productions and manages to defy already low expectations.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>https://i.guim.co.uk/img/media/eb014e25621e6dd4210c798d1cd28d6fa73ce628/559_1284_4377_2626/4377.jpg?w=1200&amp;amp;q=55&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;s=1770a9f55375dccffd417174a8bd946a</main_image>
+</document>

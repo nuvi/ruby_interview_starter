@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.larena.it/cmlink/sport-altri-1.2691630</forum>
+<forum_title>L&apos;Arena - Sport - Altri</forum_title>
+<discussion_title>Milan: Brocchi, sconfitta che pesa</discussion_title>
+<language>italian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.larena.it/home/sport/altri/milan-brocchi-sconfitta-che-pesa-1.4814920</topic_url>
+<topic_text>
+@Seguici 
+(ANSA) - ROMA, 25 APR - &quot;Rappresento questa squadra ed è giusto che mi assumi le responsabilità di tutto. Non abbiamo fatto bene, abbiamo interpretato male la gara ed è arrivata una sconfitta che brucia e che ci dice che dobbiamo solo lavorare&quot;. Cristian Brocchi non si nasconde dopo il ko del Milan a Verona. &quot;Anche oggi si è spenta la luce e dobbiamo lavorare su questo in maniera che l&apos;interruttore non si spenga - ha aggiunto il tecnico -. Dobbiamo capire che dobbiamo giocare insieme perché se non stiamo uniti andiamo incontro a prestazioni come questa. La squadra deve dare la sensazione di essere squadra e per il momento questo è il nostro limite principale. Il colloquio con Galliani? E&apos; normale che ci sia un&apos;analisi con la società, c&apos;è una grandissima delusione ma in questo momento bisogna incassare questo colpo duro e dobbiamo solo rialzare la testa per venir fuori dalle difficoltà. Abbiamo fatto un passo indietro rispetto al match con il Carpi, ci siamo disuniti e non siamo riusciti a creare occasioni importanti&quot;. ROI  
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.larena.it/home/sport/altri/milan-brocchi-sconfitta-che-pesa-1.4814920</post_url>
+<post_date>20160425</post_date>
+<post_time>1823</post_time>
+<username></username>
+<post>
+@Seguici 
+(ANSA) - ROMA, 25 APR - &quot;Rappresento questa squadra ed è giusto che mi assumi le responsabilità di tutto. Non abbiamo fatto bene, abbiamo interpretato male la gara ed è arrivata una sconfitta che brucia e che ci dice che dobbiamo solo lavorare&quot;. Cristian Brocchi non si nasconde dopo il ko del Milan a Verona. &quot;Anche oggi si è spenta la luce e dobbiamo lavorare su questo in maniera che l&apos;interruttore non si spenga - ha aggiunto il tecnico -. Dobbiamo capire che dobbiamo giocare insieme perché se non stiamo uniti andiamo incontro a prestazioni come questa. La squadra deve dare la sensazione di essere squadra e per il momento questo è il nostro limite principale. Il colloquio con Galliani? E&apos; normale che ci sia un&apos;analisi con la società, c&apos;è una grandissima delusione ma in questo momento bisogna incassare questo colpo duro e dobbiamo solo rialzare la testa per venir fuori dalle difficoltà. Abbiamo fatto un passo indietro rispetto al match con il Carpi, ci siamo disuniti e non siamo riusciti a creare occasioni importanti&quot;. ROI  
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>IT</country>
+<main_image>http://www.larena.it/image/policy:1.4814921:1461609049/image.jpg?a=191%3A100&amp;w=1200&amp;$p$a$w=656ccdb</main_image>
+</document>

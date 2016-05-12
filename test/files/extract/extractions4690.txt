@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.lefigaro.fr/rss/figaro_societes.xml</forum>
+<forum_title>LE FIGARO - Le Figaro – Bourse de Paris : Actualité financière, cotations et cours en direct</forum_title>
+<discussion_title>SNCF: un mois de mai sous la menace des grèves</discussion_title>
+<language>french</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.lefigaro.fr/societes/2016/04/25/20005-20160425ARTFIG00300-sncf-un-mois-de-mai-sous-la-menace-des-greves.php</topic_url>
+<topic_text>
+Publié le 25/04/2016 à 20:03 
+Le représentant des conducteurs à l&apos;Unsa rappelle qu&apos;en fonction des négociations, l&apos;Euro 2016 pourrait être touché par un conflit dur. Crédits photo : PHILIPPE WOJAZER/REUTERS La négociation sociale en cours rencontre aussi l&apos;opposition des syndicats réformateurs. 
+La mobilisation des cheminots contre une convention collective du ferroviaire moins-disante socialement pourrait-elle remettre en question - ou en tout cas fortement perturber - l&apos;organisation de l&apos;Euro 2016 du 10 juin au 10 juillet? Les représentants de l&apos;Unsa-ferroviaire (24 %), l&apos;un des syndicats «réformateurs» avec la CFDT (15 %) à la SNCF, ne l&apos;ont pas exclu lundi. «Nous avons de nouvelles réunions avec l&apos;Union des transports publics (UTP) - l&apos;organisation patronale dans le transport ferroviaire - les 4, 10 et 11 mai prochains, a rappelé Marc Baucher, délégué général de l&apos;Unsa-ferroviaire. Si les négociations n&apos;évoluent pas, la situation va ... Cet article a été publié dans l&apos;édition du Figaro du 26/04/2016 .
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.lefigaro.fr/societes/2016/04/25/20005-20160425ARTFIG00300-sncf-un-mois-de-mai-sous-la-menace-des-greves.php</post_url>
+<post_date>20160425</post_date>
+<post_time>1803</post_time>
+<username></username>
+<post>
+Publié le 25/04/2016 à 20:03 
+Le représentant des conducteurs à l&apos;Unsa rappelle qu&apos;en fonction des négociations, l&apos;Euro 2016 pourrait être touché par un conflit dur. Crédits photo : PHILIPPE WOJAZER/REUTERS La négociation sociale en cours rencontre aussi l&apos;opposition des syndicats réformateurs. 
+La mobilisation des cheminots contre une convention collective du ferroviaire moins-disante socialement pourrait-elle remettre en question - ou en tout cas fortement perturber - l&apos;organisation de l&apos;Euro 2016 du 10 juin au 10 juillet? Les représentants de l&apos;Unsa-ferroviaire (24 %), l&apos;un des syndicats «réformateurs» avec la CFDT (15 %) à la SNCF, ne l&apos;ont pas exclu lundi. «Nous avons de nouvelles réunions avec l&apos;Union des transports publics (UTP) - l&apos;organisation patronale dans le transport ferroviaire - les 4, 10 et 11 mai prochains, a rappelé Marc Baucher, délégué général de l&apos;Unsa-ferroviaire. Si les négociations n&apos;évoluent pas, la situation va ... Cet article a été publié dans l&apos;édition du Figaro du 26/04/2016 .
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://i.f1g.fr/media/figaro/orig/2016/04/25/XVMc6446588-0af1-11e6-a431-4fe444eb0845.jpg</main_image>
+</document>

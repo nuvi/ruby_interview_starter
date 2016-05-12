@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://los40.com/rss/los40/portada.xml</forum>
+<forum_title>Los 40 Principales</forum_title>
+<discussion_title>Conoce a Marco Mengoni en 10 imágenes</discussion_title>
+<language>spanish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://los40.com/los40/2016/04/22/album/1461333276_491322.html</topic_url>
+<topic_text>
+Música 
+Hace unos años ya te presentamos en Los 40 a Marco Mengoni como uno de los solistas más prometedores de 2014 gracias a una canción redonda como era Incomparable , primer single de su álbum Pronto a Correre y uno de los temas que le abrió las puertas de Europa. 
+Ahora, el crooner italiano regresa con Liberando Palabras , su nuevo disco en castellano que ya es uno de lo más vendidos en Amazon España por encima de grandes como Adele. 
+Mengoni presenta sus nuevas canciones en directo el próximo 25 de mayo en el Teatro Barceló de Madrid. Entre otros temas, desgranará su single Invencible, que cuenta con este videoclip. Comentarios
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://los40.com/los40/2016/04/22/album/1461333276_491322.html</post_url>
+<post_date>20160422</post_date>
+<post_time>1354</post_time>
+<username>Los 40 Principales</username>
+<post>
+Música 
+Hace unos años ya te presentamos en Los 40 a Marco Mengoni como uno de los solistas más prometedores de 2014 gracias a una canción redonda como era Incomparable , primer single de su álbum Pronto a Correre y uno de los temas que le abrió las puertas de Europa. 
+Ahora, el crooner italiano regresa con Liberando Palabras , su nuevo disco en castellano que ya es uno de lo más vendidos en Amazon España por encima de grandes como Adele. 
+Mengoni presenta sus nuevas canciones en directo el próximo 25 de mayo en el Teatro Barceló de Madrid. Entre otros temas, desgranará su single Invencible, que cuenta con este videoclip. Comentarios
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>ES</country>
+<main_image>http://los40es00.epimg.net/los40/imagenes/2016/04/22/album/1461333276_491322_1461334000_album_normal.jpg</main_image>
+</document>

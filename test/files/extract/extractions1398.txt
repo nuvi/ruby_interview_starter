@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://shacknews.com//rss?recent_articles=1</forum>
+<forum_title>Shacknews Recent Articles</forum_title>
+<discussion_title>Gears of War 4 Ultimate Edition details surface including early access</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.shacknews.com/article/94310/gears-of-war-4-ultimate-edition-details-surface-including-early-access</topic_url>
+<topic_text>
+Gears of War 4 Ultimate Edition details surface including early access 25 News Details surrounding the Gears of War 4 Ultimate Edition have surfaced, including information on how to gain early access to the full game, season pass info, and more. 
+Gears of War 4 is launching exclusively on the Xbox One on October 11, but those who purchase the Ultimate Edition will be able to jump into the game four days prior to its official release on October 7, according to its official Xbox.com listing . 
+The Gears of War 4 Ultimate Edition retails for $99.99 and will include its Season Pass and additional playable characters for both Gears of War: Ultimate Edition and Gears of War 4. The season pass will include a total of 24 multiplayer maps, additional character skins, access to a VIP playlist, six Gear Packs, and more. 
+Here’s everything listed in the Gears of War 4 season pass: 
+Five exclusive digital items as part of the Vintage VIP Pack, including the Vintage JD character skin, Vintage Gnasher and Dropshot weapon skins, Vintage JD Emblem and Vintage JD Bounty for extra XP; permanent DLC map ownership of over 24 additional maps (two per month for a year) for private play on dedicated servers; an exclusive VIP &quot;Early Access&quot; Playlist that grants a preview to upcoming modes, maps and variants; and six Gear Packs which unlock special character and weapon skins, equipment and abilities, and XP boosting bounties. 
+While we’re big fans of the Gears of War series, we can’t imagine anyone spending $40 just to gain access to the game the weekend prior to its official release. To purchase the Gears of War 4 Ultimate Edition in order to gain access to its Season Pass as well as receive exclusive in-game content is one thing, but those who want to purchase it just to gain access to the game four days early really need to consider what $40 means to them. Daniel Perez Senior Editor 
+Daniel has worked across a variety of online publications that include 1UP, Ubergizmo and FileFront. He works as an editor at Shacknews.com and reports on the latest news as well as publishing previews, reviews and thought-provoking features. He would also totally kill for a burrito right about now. 
+Follow him on Twitter @xBBx to read his ramblings on video games, anime, and technology. Filed Under
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.shacknews.com/article/94310/gears-of-war-4-ultimate-edition-details-surface-including-early-access</post_url>
+<post_date>20160425</post_date>
+<post_time>1437</post_time>
+<username>Daniel Perez</username>
+<post>
+Gears of War 4 Ultimate Edition details surface including early access 25 News Details surrounding the Gears of War 4 Ultimate Edition have surfaced, including information on how to gain early access to the full game, season pass info, and more. 
+Gears of War 4 is launching exclusively on the Xbox One on October 11, but those who purchase the Ultimate Edition will be able to jump into the game four days prior to its official release on October 7, according to its official Xbox.com listing . 
+The Gears of War 4 Ultimate Edition retails for $99.99 and will include its Season Pass and additional playable characters for both Gears of War: Ultimate Edition and Gears of War 4. The season pass will include a total of 24 multiplayer maps, additional character skins, access to a VIP playlist, six Gear Packs, and more. 
+Here’s everything listed in the Gears of War 4 season pass: 
+Five exclusive digital items as part of the Vintage VIP Pack, including the Vintage JD character skin, Vintage Gnasher and Dropshot weapon skins, Vintage JD Emblem and Vintage JD Bounty for extra XP; permanent DLC map ownership of over 24 additional maps (two per month for a year) for private play on dedicated servers; an exclusive VIP &quot;Early Access&quot; Playlist that grants a preview to upcoming modes, maps and variants; and six Gear Packs which unlock special character and weapon skins, equipment and abilities, and XP boosting bounties. 
+While we’re big fans of the Gears of War series, we can’t imagine anyone spending $40 just to gain access to the game the weekend prior to its official release. To purchase the Gears of War 4 Ultimate Edition in order to gain access to its Season Pass as well as receive exclusive in-game content is one thing, but those who want to purchase it just to gain access to the game four days early really need to consider what $40 means to them. Daniel Perez Senior Editor 
+Daniel has worked across a variety of online publications that include 1UP, Ubergizmo and FileFront. He works as an editor at Shacknews.com and reports on the latest news as well as publishing previews, reviews and thought-provoking features. He would also totally kill for a burrito right about now. 
+Follow him on Twitter @xBBx to read his ramblings on video games, anime, and technology. Filed Under
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>https://s3-us-west-1.amazonaws.com/shacknews/assets/article/2016/04/25/rsz_gears-of-war-4-ultimate-edition-details_1200x500.jpg</main_image>
+</document>

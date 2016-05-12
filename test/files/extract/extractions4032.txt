@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.lr-online.de/storage/rss/rss/politik.xml</forum>
+<forum_title>Politik rss LR-online.de</forum_title>
+<discussion_title>April extrem: Wetterkapriolen mitten im Frühling</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.lr-online.de/nachrichten/Aktuell-April-extrem-Wetterkapriolen-mitten-im-Fruehling;art310292,5454288</topic_url>
+<topic_text>
+Kommentare (0) April extrem: Wetterkapriolen mitten im Frühling Berlin (dpa) Mit Kälte, Schnee, Hagel und Graupel ist der Winter zurückgekommen. Beim Wetter macht der launische April was er will - bisweilen auch extrem. Wetterkapriolen zwischen Schlottern und Schwitzen: Blick auf die überflutete Gemeinde Kleinjena am 15. April 1994: Damals ließ das Tief &quot;Pallas&quot; Teile Deutschlands in Regen und Schnee versinken. Foto: Hirndorf/Archiv 
+Mit Kälte, Schnee, Hagel und Graupel ist der Winter zurückgekommen. Beim Wetter macht der launische April was er will - bisweilen auch extrem. Wetterkapriolen zwischen Schlottern und Schwitzen: 
+KÄLTE: 1986 bibberten die Menschen mitten im Frühling fast in ganz Deutschland bei Dauerfrost und Schnee. In Magdeburg erreichte die Kälte in der Nacht zum 12. April minus 6,9 Grad, in Hamburg minus 6,5 Grad. Den kältesten Apriltag seit Beginn der Aufzeichnungen erlebten die Menschen auf der Schwäbischen Alb am 12. April mit einer Tageshöchsttemperatur von minus 4,7 Grad. 
+REGEN: Extreme Niederschläge brachte der 12. April 1994 im thüringischen Martinsroda: Innerhalb nur eines Tages prasselten dort 101,6 Liter pro Quadratmeter nieder. Das sind umgerechnet rund zehn volle Wassereimer auf einem durchschnittlichen Wohnzimmertisch. 
+TROCKENHEIT: 2010 war der sonst wechselhafte Monat besonders trocken. Meteorologen registrierten im April mit 23 Litern Regen pro Quadratmeter nur 39 Prozent des langjährigen Mittels. Ausgerechnet das sonst eher für regnerisches Schmuddelwetter bekannte Hamburg war mit nur 12 Litern je Quadratmeter das trockenste aller Bundesländer. 
+HITZE: Hochsommerliche 30,6 Grad wurden am 14. April 2007 in Köln-Porz und Perl-Nennig (Saarland) gemessen. Auch im Jahr 2012 schwitzten viele bei 30 Grad und mehr.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.lr-online.de/nachrichten/Aktuell-April-extrem-Wetterkapriolen-mitten-im-Fruehling;art310292,5454288</post_url>
+<post_date>20160425</post_date>
+<post_time>1731</post_time>
+<username></username>
+<post>
+Kommentare (0) April extrem: Wetterkapriolen mitten im Frühling Berlin (dpa) Mit Kälte, Schnee, Hagel und Graupel ist der Winter zurückgekommen. Beim Wetter macht der launische April was er will - bisweilen auch extrem. Wetterkapriolen zwischen Schlottern und Schwitzen: Blick auf die überflutete Gemeinde Kleinjena am 15. April 1994: Damals ließ das Tief &quot;Pallas&quot; Teile Deutschlands in Regen und Schnee versinken. Foto: Hirndorf/Archiv 
+Mit Kälte, Schnee, Hagel und Graupel ist der Winter zurückgekommen. Beim Wetter macht der launische April was er will - bisweilen auch extrem. Wetterkapriolen zwischen Schlottern und Schwitzen: 
+KÄLTE: 1986 bibberten die Menschen mitten im Frühling fast in ganz Deutschland bei Dauerfrost und Schnee. In Magdeburg erreichte die Kälte in der Nacht zum 12. April minus 6,9 Grad, in Hamburg minus 6,5 Grad. Den kältesten Apriltag seit Beginn der Aufzeichnungen erlebten die Menschen auf der Schwäbischen Alb am 12. April mit einer Tageshöchsttemperatur von minus 4,7 Grad. 
+REGEN: Extreme Niederschläge brachte der 12. April 1994 im thüringischen Martinsroda: Innerhalb nur eines Tages prasselten dort 101,6 Liter pro Quadratmeter nieder. Das sind umgerechnet rund zehn volle Wassereimer auf einem durchschnittlichen Wohnzimmertisch. 
+TROCKENHEIT: 2010 war der sonst wechselhafte Monat besonders trocken. Meteorologen registrierten im April mit 23 Litern Regen pro Quadratmeter nur 39 Prozent des langjährigen Mittels. Ausgerechnet das sonst eher für regnerisches Schmuddelwetter bekannte Hamburg war mit nur 12 Litern je Quadratmeter das trockenste aller Bundesländer. 
+HITZE: Hochsommerliche 30,6 Grad wurden am 14. April 2007 in Köln-Porz und Perl-Nennig (Saarland) gemessen. Auch im Jahr 2012 schwitzten viele bei 30 Grad und mehr.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.lr-online.de/storage/pic/dpa/infoline_rs/thema/aktuell/3680826_1_urn-newsml-dpa-com-20090101-160425-99-718387_large_4_3.jpg?version=1461598281</main_image>
+</document>

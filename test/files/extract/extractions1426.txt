@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.thenorthernecho.co.uk/sport/football/sunderland/news_articles/rss/</forum>
+<forum_title>The Northern Echo | News</forum_title>
+<discussion_title>Sunderland forward Beth Mead delighted with top honour</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.thenorthernecho.co.uk/sport/football/sunderland/news_articles/14450932.Sunderland_forward_Beth_Mead_delighted_with_top_honour/?ref=rss</topic_url>
+<topic_text>
+Sunderland forward Beth Mead delighted with top honour Impressive: Beth Mead was crowned young player of the year 
+  
+Sunderland AFC Ladies striker Beth Mead is thrilled after being crowned the Professional Footballers’ Association Women’s Young Player of the Year. 
+The 20-year-old was recognised by her fellow professionals on Sunday night. 
+Mead marked her debut season in FA Women’s Super League 1, England’s top-flight, by scoring 12 goals in 14 league games, making her the division’s top scorer. 
+  
+Those goals guided Sunderland to a fourth-place finish and earned Mead a place in the PFA Women’s Team of the Year. 
+Mead said: “It’s a huge honour to be recognised by your peers and this award means a lot to me. 
+“It caps a really great year but I couldn’t have achieved any of this without my teammates and everybody at the club who have supported me and believed in me.” 
+Mead and the rest of her teammates are in home action this week when they host Manchester City in WSL1 action on Friday night. 
+The game at the Eppleton Colliery Welfare Ground (Hetton Centre), kicks-off at 7.45pm on Friday, April 29. Tickets are available online or from turnstiles on the day of the game. See www.safc.com for full details. Share:
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.thenorthernecho.co.uk/sport/football/sunderland/news_articles/14450932.Sunderland_forward_Beth_Mead_delighted_with_top_honour/?ref=rss</post_url>
+<post_date>20160425</post_date>
+<post_time>1611</post_time>
+<username></username>
+<post>
+Sunderland forward Beth Mead delighted with top honour Impressive: Beth Mead was crowned young player of the year 
+  
+Sunderland AFC Ladies striker Beth Mead is thrilled after being crowned the Professional Footballers’ Association Women’s Young Player of the Year. 
+The 20-year-old was recognised by her fellow professionals on Sunday night. 
+Mead marked her debut season in FA Women’s Super League 1, England’s top-flight, by scoring 12 goals in 14 league games, making her the division’s top scorer. 
+  
+Those goals guided Sunderland to a fourth-place finish and earned Mead a place in the PFA Women’s Team of the Year. 
+Mead said: “It’s a huge honour to be recognised by your peers and this award means a lot to me. 
+“It caps a really great year but I couldn’t have achieved any of this without my teammates and everybody at the club who have supported me and believed in me.” 
+Mead and the rest of her teammates are in home action this week when they host Manchester City in WSL1 action on Friday night. 
+The game at the Eppleton Colliery Welfare Ground (Hetton Centre), kicks-off at 7.45pm on Friday, April 29. Tickets are available online or from turnstiles on the day of the game. See www.safc.com for full details. Share:
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>http://www.thenorthernecho.co.uk/resources/images/4573063/</main_image>
+</document>

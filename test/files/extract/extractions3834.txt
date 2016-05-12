@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.wilx.com//home/headlines/index.rss2</forum>
+<forum_title>WILX - HomePage - Headlines</forum_title>
+<discussion_title>Boy with inoperable brain tumor gets a Special Space</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.wilx.com/home/headlines/Boy-with-inoperable-brain-tumor-gets-a-Special-Space-376967491.html</topic_url>
+<topic_text>
+Boy with inoperable brain tumor gets a Special Space By: Casey Wheeless Posted: Mon 2:42 PM, Apr 25, 2016 By: Casey Wheeless Special Spaces 
+KNOXVILLE, Tenn. (WVLT) -- It&apos;s not every day you see a 5-year-old excited about new decorations in a room, but A.J. Cucksey is not your every day boy. He&apos;s stronger, braver and more dedicated than kids his age. A.J. is living with an inoperable brain tumor. 
+&quot;We had some tough times and through those times A.J.&apos;s motto was always keep smiling,&quot; said John Cucksey, A.J.&apos;s father. 
+Diagnosed with an inoperable brain tumor, A.J. doesn&apos;t let it slow him down. 
+Special Spaces of Knoxville, Tennessee wanted to give A.J. and his family a break. 
+&quot;We got here at about 8 in the morning and we sent A.J. and his family off for a day of fun,&quot; said Steve Winfree with Special Spaces. 
+When they came back, the group of volunteers designed a new play room for A.J. and his sister Gia. 
+UT Quarterback Josh Dobbs helped paint a checkerboard on A.J.&apos;s wall. 
+&quot;I&apos;ve known A.J. for a couple of years now and Special Spaces reached out to me,&quot; said Dobbs. 
+&quot;There&apos;s a lot of kids who look up to people in my position and it&apos;s always a joy for me to meet them and reach out to them,&quot; he said. 
+It will give A.J. a place to be a normal kid: a kid who is &apos;Tennessee Tough&apos;. 
+&quot;Just knowing that people care about him, it helps him stay positive,&quot; said John. 
+Special Spaces partnered with Coldwell Banker; they raised all the money for the room. iHome Improvement donated their time and skills. Sentencing today in murder of Jeffrey Kebler of Clinton County
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.wilx.com/home/headlines/Boy-with-inoperable-brain-tumor-gets-a-Special-Space-376967491.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1842</post_time>
+<username></username>
+<post>
+Boy with inoperable brain tumor gets a Special Space By: Casey Wheeless Posted: Mon 2:42 PM, Apr 25, 2016 By: Casey Wheeless Special Spaces 
+KNOXVILLE, Tenn. (WVLT) -- It&apos;s not every day you see a 5-year-old excited about new decorations in a room, but A.J. Cucksey is not your every day boy. He&apos;s stronger, braver and more dedicated than kids his age. A.J. is living with an inoperable brain tumor. 
+&quot;We had some tough times and through those times A.J.&apos;s motto was always keep smiling,&quot; said John Cucksey, A.J.&apos;s father. 
+Diagnosed with an inoperable brain tumor, A.J. doesn&apos;t let it slow him down. 
+Special Spaces of Knoxville, Tennessee wanted to give A.J. and his family a break. 
+&quot;We got here at about 8 in the morning and we sent A.J. and his family off for a day of fun,&quot; said Steve Winfree with Special Spaces. 
+When they came back, the group of volunteers designed a new play room for A.J. and his sister Gia. 
+UT Quarterback Josh Dobbs helped paint a checkerboard on A.J.&apos;s wall. 
+&quot;I&apos;ve known A.J. for a couple of years now and Special Spaces reached out to me,&quot; said Dobbs. 
+&quot;There&apos;s a lot of kids who look up to people in my position and it&apos;s always a joy for me to meet them and reach out to them,&quot; he said. 
+It will give A.J. a place to be a normal kid: a kid who is &apos;Tennessee Tough&apos;. 
+&quot;Just knowing that people care about him, it helps him stay positive,&quot; said John. 
+Special Spaces partnered with Coldwell Banker; they raised all the money for the room. iHome Improvement donated their time and skills. Sentencing today in murder of Jeffrey Kebler of Clinton County
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://gray-uploads.s3.amazonaws.com/captures/54B/F00/54BF00C3D19B4E668AB0477EDD96E174</main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.lemag.ma/xml/syndication.rss</forum>
+<forum_title>Lemag.ma : Application et Newsletter sur le Maroc</forum_title>
+<discussion_title>CP. Tahar Ben Jelloun expose à la Galerie Tindouf</discussion_title>
+<language>french</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.lemag.ma/CP-Tahar-Ben-Jelloun-expose-a-la-Galerie-Tindouf_a98784.html</topic_url>
+<topic_text>
+Galerie Tindouf   10:35 CP. Tahar Ben Jelloun expose à la Galerie Tindouf A proximité CP. &quot;Concours Nouvellesfrancophones&quot; L’évènement littéraire au Maroc Dans le cadre le Biennale de Marrakech, la Galerie Tindouf a le plaisir d’inviter, une fois encore, le grand écrivain Tahar Ben Jelloun à présenter ses dernières toiles. Cette rencontre offrira un moment idéal d’échange et de partage avec l’artiste. L’exposition vous fera voyager dans l’imaginaire coloré et ludique de Tahar Ben Jelloun et vous permettra également de découvrir le lien entre son œuvre littéraire et sa création artistique. Rencontre le Vendredi 29 Avril a 19h à la Galerie Tindouf. Exposition de 29 Avril au 20 Mai 2016.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.lemag.ma/CP-Tahar-Ben-Jelloun-expose-a-la-Galerie-Tindouf_a98784.html</post_url>
+<post_date>20160425</post_date>
+<post_time>0935</post_time>
+<username>Galerie Tindouf</username>
+<post>
+Galerie Tindouf   10:35 CP. Tahar Ben Jelloun expose à la Galerie Tindouf A proximité CP. &quot;Concours Nouvellesfrancophones&quot; L’évènement littéraire au Maroc Dans le cadre le Biennale de Marrakech, la Galerie Tindouf a le plaisir d’inviter, une fois encore, le grand écrivain Tahar Ben Jelloun à présenter ses dernières toiles. Cette rencontre offrira un moment idéal d’échange et de partage avec l’artiste. L’exposition vous fera voyager dans l’imaginaire coloré et ludique de Tahar Ben Jelloun et vous permettra également de découvrir le lien entre son œuvre littéraire et sa création artistique. Rencontre le Vendredi 29 Avril a 19h à la Galerie Tindouf. Exposition de 29 Avril au 20 Mai 2016.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://www.lemag.ma/photo/art/grande/9368146-14993210.jpg?v=1461575869</main_image>
+</document>

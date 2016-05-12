@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Davutoğlu, Murat Çetinkaya ile görüştü - GÜNDEM - Türkiyenin En İyi ve Yeni Haber Sitesi</discussion_title>
+<language>turkish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.sahibindencom.com/davutoglu-murat-cetinkaya-ile-gorustu/30254/</topic_url>
+<topic_text>
+Davutoğlu, Murat Çetinkaya ile görüştü Tarih: 25-04-2016 16:15:00 Ahmet Davutoğlu, Merkez Bankası&apos;nın yeni Başkanı ile görüştü 
+Başbakan Ahmet Davutoğlu, Merkez Bankası Başkanı Murat Çetinkaya&apos;yı kabul etti. 
+Çankaya Köşkü&apos;nde basına kapalı gerçekleştirilen kabul, yaklaşık 1 saat sürdü. 
+AA Teknoloji devleri bir bir çöküyor! Bir dönemin en iyileriydi... MAGAZİN HABERLERİ Sevgilisinden korkusuna her yerini örttü! Müge Anlı&apos;yı zora sokacak suçlama Müge Anlı&apos;da çözülen Mehmet Avcı cinayetinin tutuklu sanığı, &quot;Yakınlarım ve eşim.. Hadise için yapılan israf pes dedirtti 1,2 milyon lira aldığı reklam filminin çekimleri için kamera karşısına geçen Had.. SİYASET HABERLERİ HDP İl Örgütü: Nevroz&apos;u kutlayacağız! HDP Bingöl İl Örgütü, valiliğin yasaklamasına rağmen Nevruz’u kutlayacaklarını b.. Yeni dönem: 15 bin polis alınacak! Hükümet 15 bin yeni polis kadrosu ihdas edilmesine dair tasarıyı Meclis Başkanlı.. Asılsız görevden alma iddiası yalanlandı Medyada yer alan, &quot;Bakan Bozdağ&apos;ın Karaman’da cinsel istismar soruşturmasını yür.. MHP&apos;li belediye başkanı istifa etti! Zonguldak’ın Karaman Beldesi Belediye Başkanı MHP’li Mustafa Kalaycı, partisinde.. SPOR HABERLERİ 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.sahibindencom.com/davutoglu-murat-cetinkaya-ile-gorustu/30254/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Davutoğlu, Murat Çetinkaya ile görüştü Tarih: 25-04-2016 16:15:00 Ahmet Davutoğlu, Merkez Bankası&apos;nın yeni Başkanı ile görüştü 
+Başbakan Ahmet Davutoğlu, Merkez Bankası Başkanı Murat Çetinkaya&apos;yı kabul etti. 
+Çankaya Köşkü&apos;nde basına kapalı gerçekleştirilen kabul, yaklaşık 1 saat sürdü. 
+AA Teknoloji devleri bir bir çöküyor! Bir dönemin en iyileriydi... MAGAZİN HABERLERİ Sevgilisinden korkusuna her yerini örttü! Müge Anlı&apos;yı zora sokacak suçlama Müge Anlı&apos;da çözülen Mehmet Avcı cinayetinin tutuklu sanığı, &quot;Yakınlarım ve eşim.. Hadise için yapılan israf pes dedirtti 1,2 milyon lira aldığı reklam filminin çekimleri için kamera karşısına geçen Had.. SİYASET HABERLERİ HDP İl Örgütü: Nevroz&apos;u kutlayacağız! HDP Bingöl İl Örgütü, valiliğin yasaklamasına rağmen Nevruz’u kutlayacaklarını b.. Yeni dönem: 15 bin polis alınacak! Hükümet 15 bin yeni polis kadrosu ihdas edilmesine dair tasarıyı Meclis Başkanlı.. Asılsız görevden alma iddiası yalanlandı Medyada yer alan, &quot;Bakan Bozdağ&apos;ın Karaman’da cinsel istismar soruşturmasını yür.. MHP&apos;li belediye başkanı istifa etti! Zonguldak’ın Karaman Beldesi Belediye Başkanı MHP’li Mustafa Kalaycı, partisinde.. SPOR HABERLERİ 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>TR</country>
+<main_image>http://www.sahibindencom.com/images/2016/04/25/davutoglu-murat-cetinkaya-ile-gorustu.jpg</main_image>
+</document>

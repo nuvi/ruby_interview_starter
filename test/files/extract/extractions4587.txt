@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.herault-tribune.com/rss-actu.xml</forum>
+<forum_title>Hérault Tribune</forum_title>
+<discussion_title>AGDE - Deux reportages ont été consacrés à Agde les 21 et 24 avril 2016 dans les JT de 13 heures sur TFI</discussion_title>
+<language>french</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.herault-tribune.com/articles/35239/agde-deux-reportages-ont-ete-consacres-a-agde-les-21-et-24-avril-2016-dans-les-jt-de-13-heures-sur-tfi/</topic_url>
+<topic_text>
+Tweeter AGDE - Deux reportages ont été consacrés à Agde les 21 et 24 avril 2016 dans les JT de 13 heures sur TFI Vous pouvez retrouver dans la rubrique &quot; La presse en parle &quot; d&apos;Hérault Tribune, les évènements et les actualités concernant la vie locale ou régionale relayés par les médias locaux ou nationaux. 
+Ce jeudi 21 avril 2016 dans l’édition présentée par Jean-Pierre Pernaut, sur ce que l’on peut faire dans un camping en cas de mauvais temps À Agde, les vacances prennent l&apos;eau 
+Sous le ciel menaçant, les imperméables sont de sortie dans ce camping d’Agde, dans l’Hérault. Le mercure affiche 15 degrés, résultat, les vacanciers réorganisent leurs activités. Mais quand le temps se gâte, les campeurs peuvent compter sur la bonne humeur des animateurs. Ce lundi 24 avril dans l’édition présentée par Jacques Legros, reportage intitulé« Une seconde vie pour le Fort de Brescou » qui fait suite à l’accueil des journalistes en mars dernier au sujet de la souscription pour sa restauration. 
+Un appel aux dons lancé pour sauver le Fort de Brescou au Cap d&apos;Agde Depuis 50 ans, aucune rénovation n’a été faîte au fort de Brescou au Cap d’Agde. Aujourd’hui, il est rongé par la mer au grand dam des habitants et de la mairie. Pour sauver le monument, un appel aux dons a été lancé. 
+HERAULT TRIBUNE - LA PRESSE EN PARLE (25-04-16)
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.herault-tribune.com/articles/35239/agde-deux-reportages-ont-ete-consacres-a-agde-les-21-et-24-avril-2016-dans-les-jt-de-13-heures-sur-tfi/</post_url>
+<post_date>20160424</post_date>
+<post_time>2200</post_time>
+<username></username>
+<post>
+Tweeter AGDE - Deux reportages ont été consacrés à Agde les 21 et 24 avril 2016 dans les JT de 13 heures sur TFI Vous pouvez retrouver dans la rubrique &quot; La presse en parle &quot; d&apos;Hérault Tribune, les évènements et les actualités concernant la vie locale ou régionale relayés par les médias locaux ou nationaux. 
+Ce jeudi 21 avril 2016 dans l’édition présentée par Jean-Pierre Pernaut, sur ce que l’on peut faire dans un camping en cas de mauvais temps À Agde, les vacances prennent l&apos;eau 
+Sous le ciel menaçant, les imperméables sont de sortie dans ce camping d’Agde, dans l’Hérault. Le mercure affiche 15 degrés, résultat, les vacanciers réorganisent leurs activités. Mais quand le temps se gâte, les campeurs peuvent compter sur la bonne humeur des animateurs. Ce lundi 24 avril dans l’édition présentée par Jacques Legros, reportage intitulé« Une seconde vie pour le Fort de Brescou » qui fait suite à l’accueil des journalistes en mars dernier au sujet de la souscription pour sa restauration. 
+Un appel aux dons lancé pour sauver le Fort de Brescou au Cap d&apos;Agde Depuis 50 ans, aucune rénovation n’a été faîte au fort de Brescou au Cap d’Agde. Aujourd’hui, il est rongé par la mer au grand dam des habitants et de la mairie. Pour sauver le monument, un appel aux dons a été lancé. 
+HERAULT TRIBUNE - LA PRESSE EN PARLE (25-04-16)
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://www.herault-tribune.com/logo_ht.png</main_image>
+</document>

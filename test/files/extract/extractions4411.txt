@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Ciclista investito, è grave / Cronaca / Home - Vita Trentina Editrice</discussion_title>
+<language>italian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.vitatrentina.it/Cronaca/Ciclista-investito-e-grave</topic_url>
+<topic_text>
+
+Duecento studenti impegnati in attività di volontariato in comune e negli esercizi commerciali. In cambio riceveranno un’offerta che finanzierà un progetto di cooperazione allo sviluppo in Perù 23/03/2016 
+L&apos;atteso volume dal titolo “L&apos;anima del tempo”, stampato dalle edizioni Osiride. Il sottotitolo - “Appunti sul culto mariano dal XVI al XX secolo nel santuario di Monte Albano e nelle chiese filiali della Parrocchia di Santo Stefano in Mori” 18/03/2016 
+Stasera alle 20.30 al Teatro di Brentonico andrà in scena lo spettacolo teatrale sulla guerra civile che sta insanguinato il Burundi. Evento organizzato da cinque associazioni trentine che operano nel paese africano. 17/03/2016 “Il suo lavoro non finiva con il suono della campanella...” 
+Giovedì 17 marzo moltissime persone hanno voluto dire addio a Fiammetta Tevini, 54enne insegnante delle elementari di Mori, animatrice dei corsi prematrimoniali e fondatrice della Rete trentina “Genitori Rainbow”. Fiammetta, moglie di Mario Caproni, assistente sociale, anche lui impegnato nel volontariato, è scomparsa a causa di un male incurabile, contro il quale ha lottato sempre con positività, lasciando un vuoto nella sua famiglia, soprattutto per i figli Lorenzo e Maria, e nella comunità. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.vitatrentina.it/Cronaca/Ciclista-investito-e-grave</post_url>
+<post_date>20160418</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+
+Duecento studenti impegnati in attività di volontariato in comune e negli esercizi commerciali. In cambio riceveranno un’offerta che finanzierà un progetto di cooperazione allo sviluppo in Perù 23/03/2016 
+L&apos;atteso volume dal titolo “L&apos;anima del tempo”, stampato dalle edizioni Osiride. Il sottotitolo - “Appunti sul culto mariano dal XVI al XX secolo nel santuario di Monte Albano e nelle chiese filiali della Parrocchia di Santo Stefano in Mori” 18/03/2016 
+Stasera alle 20.30 al Teatro di Brentonico andrà in scena lo spettacolo teatrale sulla guerra civile che sta insanguinato il Burundi. Evento organizzato da cinque associazioni trentine che operano nel paese africano. 17/03/2016 “Il suo lavoro non finiva con il suono della campanella...” 
+Giovedì 17 marzo moltissime persone hanno voluto dire addio a Fiammetta Tevini, 54enne insegnante delle elementari di Mori, animatrice dei corsi prematrimoniali e fondatrice della Rete trentina “Genitori Rainbow”. Fiammetta, moglie di Mario Caproni, assistente sociale, anche lui impegnato nel volontariato, è scomparsa a causa di un male incurabile, contro il quale ha lottato sempre con positività, lasciando un vuoto nella sua famiglia, soprattutto per i figli Lorenzo e Maria, e nella comunità. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>IT</country>
+<main_image></main_image>
+</document>

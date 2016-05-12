@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://rss.donga.com/sports.xml</forum>
+<forum_title>동아닷컴 : 동아일보 스포츠 뉴스</forum_title>
+<discussion_title>[오늘의 경기/4월26일]프로야구 外</discussion_title>
+<language>korean</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://news.donga.com/3/05/20160426/77777562/1</topic_url>
+<topic_text>
+기사공유 | ▽프로야구 △잠실: SK 켈리-두산 니퍼트(SBS스포츠) △대전: KIA 양현종-한화 마에스트리(MBC스포츠플러스) △대구: LG 우규민-삼성 웹스터(SPOTV) △마산: 넥센 하영민-NC 스튜어트(SKY스포츠) △수원: 롯데 레일리-kt 밴와트(KBSN·이상 18시 30분) ▽수영 동아대회 겸 2016 리우 올림픽 국가대표 2차 선발전(9시·광주 남부대 국제수영장) ▽컬링 KB금융한국컬링선수권(9시·의성컬링센터)
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://news.donga.com/3/05/20160426/77777562/1</post_url>
+<post_date>20160425</post_date>
+<post_time>1800</post_time>
+<username></username>
+<post>
+기사공유 | ▽프로야구 △잠실: SK 켈리-두산 니퍼트(SBS스포츠) △대전: KIA 양현종-한화 마에스트리(MBC스포츠플러스) △대구: LG 우규민-삼성 웹스터(SPOTV) △마산: 넥센 하영민-NC 스튜어트(SKY스포츠) △수원: 롯데 레일리-kt 밴와트(KBSN·이상 18시 30분) ▽수영 동아대회 겸 2016 리우 올림픽 국가대표 2차 선발전(9시·광주 남부대 국제수영장) ▽컬링 KB금융한국컬링선수권(9시·의성컬링센터)
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>KR</country>
+<main_image>http://image.donga.com/donga2013/images/common/donga_icon.png</main_image>
+</document>

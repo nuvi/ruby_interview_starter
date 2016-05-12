@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Lyhyet videopätkät näyttävät maratonin hauskassa valossa - katso - Ilmiöt - Voice.fi</discussion_title>
+<language>finnish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.voice.fi/pop/ilmiot/lyhyet-videopatkat-nayttavat-maratonin-hauskassa-valossa-katso-103435</topic_url>
+<topic_text>
+Lyhyet videopätkät näyttävät maratonin hauskassa valossa - katso 25.04.2016 19:30 - Iiro Myllymäki - Luettu 283 kertaa Maratonilla voi törmätä vaikka Paavo Pesusieneen. 
+Sunnuntaina Lontoon kadut täyttyivät maratoonareista, joten juoksutrikoot ja urheilutopit olivat näkyvässä roolissa katukuvassa. Maratonia ilahduttivat kuitenkin myös toisenlaiset ilmestykset, mikä näkyy Sam Swannin Twitteriin lataamilla videoilla. Näiden videoiden perusteella maraton ei näyttäydy aivan niin totisena puurtamisena kuin voisi kuvitella. 
+Yhteen videoon Swann on koonnut kuvamateriaalia näkemistään erikoisiin asuihin pukeutuneista juoksijoista. Maratoonareiden keskuudessa nähtiin niin Paavo Pesusieneksi, Karhuherra Paddingtoniksi, Star Wars -sotilaaksi kuin strutsiksikin pukeutuneet juoksijat. — Sam Swann (@SamGSwann) April 24, 2016 
+Lisäksi Swann tallensi kameralle materiaalia eräästä ohi juoksevia maratoonareita härnäävästä lapsesta. Lapsi vaikutti haluavansa antaa ylävitoset vastaan tuleville juoksijoille, mutta juuri ennen oletettua läpsäystä vetikin kätensä pois – vain toistaakseen saman jäynän seuraavalla juoksijalla. This little shit is a legend #LondonMarathon https://t.co/kb2xJwSKw4 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.voice.fi/pop/ilmiot/lyhyet-videopatkat-nayttavat-maratonin-hauskassa-valossa-katso-103435</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>- Iiro Myllym Ki</username>
+<post>
+Lyhyet videopätkät näyttävät maratonin hauskassa valossa - katso 25.04.2016 19:30 - Iiro Myllymäki - Luettu 283 kertaa Maratonilla voi törmätä vaikka Paavo Pesusieneen. 
+Sunnuntaina Lontoon kadut täyttyivät maratoonareista, joten juoksutrikoot ja urheilutopit olivat näkyvässä roolissa katukuvassa. Maratonia ilahduttivat kuitenkin myös toisenlaiset ilmestykset, mikä näkyy Sam Swannin Twitteriin lataamilla videoilla. Näiden videoiden perusteella maraton ei näyttäydy aivan niin totisena puurtamisena kuin voisi kuvitella. 
+Yhteen videoon Swann on koonnut kuvamateriaalia näkemistään erikoisiin asuihin pukeutuneista juoksijoista. Maratoonareiden keskuudessa nähtiin niin Paavo Pesusieneksi, Karhuherra Paddingtoniksi, Star Wars -sotilaaksi kuin strutsiksikin pukeutuneet juoksijat. — Sam Swann (@SamGSwann) April 24, 2016 
+Lisäksi Swann tallensi kameralle materiaalia eräästä ohi juoksevia maratoonareita härnäävästä lapsesta. Lapsi vaikutti haluavansa antaa ylävitoset vastaan tuleville juoksijoille, mutta juuri ennen oletettua läpsäystä vetikin kätensä pois – vain toistaakseen saman jäynän seuraavalla juoksijalla. This little shit is a legend #LondonMarathon https://t.co/kb2xJwSKw4 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FI</country>
+<main_image>http://www.voice.fi/files/media/image/2016_25_04_571e1cf30d7e2.jpg/1000</main_image>
+</document>

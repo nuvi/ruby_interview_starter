@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.dailymail.co.uk/news/articles.rss</forum>
+<forum_title>News Articles | Mail Online</forum_title>
+<discussion_title>US flies F-22 fighter jets to Romania in a show of strength against Russia as tensions run high</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.dailymail.co.uk/news/article-3557803/US-flies-F-22s-Romania-strength-Russia.html</topic_url>
+<topic_text>
+6 shares 29
+View
+comments
+Two highly advanced US fighter jets flew to Romania on Monday in a show of strength to deter Russia&apos;s intervention in Ukraine.
+The F-22 Raptor fighter jets with sophisticated sensors allowing the pilot to track, identify, shoot and kill air-to-air threats before being detected landed at the Mihail Kogalniceanu air base in southeast Romania.
+President Barack Obama promised in 2014 to bolster the defenses of NATO&apos;s eastern members, unnerved by Russia&apos;s annexation of Ukraine&apos;s Crimea and the Kremlin&apos;s backing for pro-Russian forces in eastern Ukraine.
+Two US F-22 Raptor fighter jets with sophisticated sensors allowing the pilot to track, identify, shoot and kill air-to-air threats before being detected flew to Romania on Monday as a show of strength against Russia
+The F-22s are almost impossible to detect on radar and are so advanced that the U.S. Congress has banned Lockheed Martin from selling them abroad
+President Barack Obama (left) promised in 2014 to bolster NATO&apos;s eastern members, unnerved by Russia&apos;s annexation of Ukraine&apos;s Crimea (right, Vladimir Putin)
+Russia-backed separatists have been fighting government troops in Ukraine since April 2014, leaving at least 9,100 dead.
+The conflict has left many neighboring countries in Central and Eastern Europe jittery about Russia&apos;s intentions in the region.
+U.S. Ambassador Hans G. Klemm blamed &apos;the aggression by Russia&apos; for bringing &apos;so much instability to this part of the world over the past two to three years&apos;.
+&apos;We&apos;re here today to demonstrate our capability to take the F-22 anywhere needed in NATO or across Europe. We want to ... actually fly the aircraft and train with our NATO allies,&apos; said Squadron commander Daniel Lehoski.
+ Next Did a Ukrainian fighter jet shoot down MH17? BBC documentary... Russia drafts in latest military defence tactics - five... The F-22s are almost impossible to detect on radar and are so advanced that the U.S. Congress has banned Lockheed Martin from selling them abroad. The U.S. has deployed 12 of them at a British base in eastern England.
+&apos;The increased size of the 2016 deployment ... allows U.S. Forces to assert their presence more widely across the eastern frontier,&apos; said U.S. Air Force spokeswoman Major Sheryll Klinkel.
+&apos;We want to be able to operate out of multiple locations. We want to be able to keep our adversary guessing where we&apos;re going to go next.&apos;
+The West is seeking to strengthen the defenses of its eastern flank and reassure eastern European NATO members - such as Poland, the Baltic states and Czech republic which spent decades under Soviet dominance - without provoking the Kremlin by stationing large forces permanently.
+The US fighter jets, which arrived from Britain, will leave Romania later Monday. They are part of the Operation Atlantic Resolve, a U.S. commitment to NATO&apos;s collective security and regional stability.
+Last week, a USS Donald Cook (pictured on April 12) sailed near Russia&apos;s border in the Baltics, prompting accusations of intimidation as Russia warned their military would respond to future incidents
+Secretary of State John Kerry said the Navy ship could have opened fire on the Russian military jets that buzzed around it (pictured, A Russian Sukhoi Su-24 attack aircraft makes a very low altitude pass by USS Donald Cook)
+Tensions are rising and Russia says the NATO build-up is stoking a dangerous situation.
+Just last week, a US naval destroyer USS Cook sailed near Russia&apos;s border in the Baltics, prompting accusations of intimidation as Russia warned their military would respond with &apos;all necessary measures&apos; to any future incidents.
+The United States has said the guided missile destroyer was on routine business near Poland when it was harassed by Russian jets.
+&apos;We were in international waters,&apos; a NATO diplomat reported Lute as telling Grushko during the NATO-Russia council meeting.
+Secretary of State John Kerry said the Navy ship could have opened fire on the Russian military jets that buzzed around it.
+Speaking after a meeting between NATO envoys and Russia, their first in almost two years, Moscow&apos;s ambassador to NATO said the April 11 maritime incident showed there could be no improvement in ties until the US-led alliance withdrew from Russia&apos;s borders.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>21</post_num>
+<post_id>post-21</post_id>
+<post_url>http://www.dailymail.co.uk/news/article-3557803/US-flies-F-22s-Romania-strength-Russia.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1923</post_time>
+<username>TheRightOne</username>
+<post>
+All these show of strength strategies may have worked during WW2 or earlier. These days I&apos;m sure these powerful nations have a clear idea what the other countries has.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>http://i.dailymail.co.uk/i/pix/2016/04/25/18/3387391700000578-0-image-a-84_1461606367171.jpg</main_image>
+</document>

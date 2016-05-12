@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://bostonherald.com/sports/red_sox</forum>
+<forum_title>Red Sox | Boston Herald</forum_title>
+<discussion_title>Farrell: Josh Rutledge &apos;became a different hitter&apos; since Red Sox acquired him</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://bostonherald.com/sports/red_sox/clubhouse_insider/2016/04/farrell_josh_rutledge_became_a_different_hitter_since_red</topic_url>
+<topic_text>
+Farrell: Josh Rutledge &apos;became a different hitter&apos; since Red Sox acquired him Jason Mastrodonato Sunday, April 24, 2016 Credit: Associated Press Josh Rutledge comments Tweet HOUSTON -- If Red Sox hitting coach Chili Davis and assistant chili coach Victor Rodriguez really fixed Josh Rutledge’s swing, it’s a good thing he cleared waivers.
+The Red Sox might have themselves another utility man.
+Since being acquired from the Los Angeles Angels in the trade for Shane Victorino late last year, Rutledge is quietly hitting .304 with a .741 OPS in 90 plate appearances with the Sox.
+“I felt like especially last year, after I got traded, working with Chili and Vic over here I feel like I’ve really found something,” the 27-year-old Rutledge said. “I feel a lot more comfortable in the box as far as my stance and keeping my swing where it needs to be every day following a routine. That’s really helped. They’ve done a good job helping me stay there.”
+He’s 3-for-5 with three doubles this year, including two doubles in pinch-hitting appearances.
+He came off the bench to hit for Chris Young against a right-handed pitcher in the eighth inning on Saturday and smoked an RBI double down the left-field line.
+Rutledge, who hit .259 with a .711 OPS in parts of three seasons as the shortstop for the Colorado Rockies, said he’s become comfortable coming off the bench, a key point the Red Sox will have to consider if and when Pablo Sandoval is ready to come back from the 15-day disabled list.
+“I think a lot of it has to do with starting in the National League,” Rutledge said. “That’s the same way as far as at-bats go. If you’re not really playing every day, there’s a chance you’re going to get to pinch-hit at some time in that game. Over the years I feel like I’ve kind of gotten a better mindset on how to attack those at-bats and how to get ready for them. I think that’s really helped.”
+Designated for assignment on Nov. 30, Rutledge could’ve been claimed by any other team.
+Nobody took a chance on him and the Sox stashed him in Triple-A Pawtucket. When Sandoval got hurt, Rutledge joined the Red Sox. He&apos;s trying to carve out a role as an extra utility man along with Brock Holt, who has been starting most games in left field.
+Rutledge plays shortstop, second base, third base and recently began taking grounders at first base.
+But his offensive ability might be his most valuable asset.
+“To come off the bench, where you haven&apos;t been in the flow of the game, and address mid-90s, it&apos;s a very direct swing,” manager John Farrell said. “When you think about what he did when he first came over in the trade last year, the work he&apos;s done with Chili, there&apos;s been an adjustment with his hands. The final 3-4 weeks of last season he became a different hitter. That&apos;s continued through spring training and now.”
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://bostonherald.com/sports/red_sox/clubhouse_insider/2016/04/farrell_josh_rutledge_became_a_different_hitter_since_red</post_url>
+<post_date>20160425</post_date>
+<post_time>0200</post_time>
+<username>bostonherald.com</username>
+<post>
+Farrell: Josh Rutledge &apos;became a different hitter&apos; since Red Sox acquired him Jason Mastrodonato Sunday, April 24, 2016 Credit: Associated Press Josh Rutledge comments Tweet HOUSTON -- If Red Sox hitting coach Chili Davis and assistant chili coach Victor Rodriguez really fixed Josh Rutledge’s swing, it’s a good thing he cleared waivers.
+The Red Sox might have themselves another utility man.
+Since being acquired from the Los Angeles Angels in the trade for Shane Victorino late last year, Rutledge is quietly hitting .304 with a .741 OPS in 90 plate appearances with the Sox.
+“I felt like especially last year, after I got traded, working with Chili and Vic over here I feel like I’ve really found something,” the 27-year-old Rutledge said. “I feel a lot more comfortable in the box as far as my stance and keeping my swing where it needs to be every day following a routine. That’s really helped. They’ve done a good job helping me stay there.”
+He’s 3-for-5 with three doubles this year, including two doubles in pinch-hitting appearances.
+He came off the bench to hit for Chris Young against a right-handed pitcher in the eighth inning on Saturday and smoked an RBI double down the left-field line.
+Rutledge, who hit .259 with a .711 OPS in parts of three seasons as the shortstop for the Colorado Rockies, said he’s become comfortable coming off the bench, a key point the Red Sox will have to consider if and when Pablo Sandoval is ready to come back from the 15-day disabled list.
+“I think a lot of it has to do with starting in the National League,” Rutledge said. “That’s the same way as far as at-bats go. If you’re not really playing every day, there’s a chance you’re going to get to pinch-hit at some time in that game. Over the years I feel like I’ve kind of gotten a better mindset on how to attack those at-bats and how to get ready for them. I think that’s really helped.”
+Designated for assignment on Nov. 30, Rutledge could’ve been claimed by any other team.
+Nobody took a chance on him and the Sox stashed him in Triple-A Pawtucket. When Sandoval got hurt, Rutledge joined the Red Sox. He&apos;s trying to carve out a role as an extra utility man along with Brock Holt, who has been starting most games in left field.
+Rutledge plays shortstop, second base, third base and recently began taking grounders at first base.
+But his offensive ability might be his most valuable asset.
+“To come off the bench, where you haven&apos;t been in the flow of the game, and address mid-90s, it&apos;s a very direct swing,” manager John Farrell said. “When you think about what he did when he first came over in the trade last year, the work he&apos;s done with Chili, there&apos;s been an adjustment with his hands. The final 3-4 weeks of last season he became a different hitter. That&apos;s continued through spring training and now.”
+</post>
+<signature>
+
+</signature>
+<external_links>
+<external_link>https://twitter.com/share?text=Farrell%3A+Josh+Rutledge+%27became+a+different+hitter%27+since+Red+Sox+acquired+him</external_link>
+</external_links>
+<country>US</country>
+<main_image>http://www.bostonherald.com/sites/default/files/blog_posts/rutledge.jpg</main_image>
+</document>

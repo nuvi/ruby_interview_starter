@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>食べ比べしたい！東京で絶品の『フルーツサンド』が食べられるお店 - NAVER まとめ</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://matome.naver.jp/odai/2144654779798511201</topic_url>
+<topic_text>
+
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://matome.naver.jp/odai/2144654779798511201</post_url>
+<post_date>20151102</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>JP</country>
+<main_image>http://rr.img.naver.jp:80/mig?src=https%3A%2F%2Fwww.ehills.co.jp%2Frp%2Fdfw%2FEHILLS%2Fgourmet%2Fomotase%2F155%2Fmain.jpg&amp;amp;twidth=200&amp;amp;theight=200&amp;amp;qlt=80&amp;amp;res_format=jpg&amp;amp;op=r</main_image>
+</document>

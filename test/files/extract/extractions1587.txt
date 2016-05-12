@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.lavanguardia.com/series</forum>
+<forum_title>Series</forum_title>
+<discussion_title>¿Qué pasa con la Montaña? Aquí la teoría más popular</discussion_title>
+<language>spanish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.lavanguardia.com/series/20160424/401327783863/la-montana-juego-de-tronos.html</topic_url>
+<topic_text>
+Ser Gregor Clegane, apodado la Montaña por sus descomunales dimensiones, es uno de los personajes más célebres de Juego de tronos porque r epresenta el lado más brutal y despiadado de la serie .
+Fiel servidor de Joffrey, pasa después a proteger a su madre, Cersei, siendo el campeón que se enfrenta a Oberyn Martell en el juicio por combate de Tyrion Lannister, al final de la cuarta temporada. Oberyn quería vengarse del hombre que había matado a su hermana Elia, mujer de Rhaegar Targaryen, cuando el rey Aerys fue derrocado, pero con la Montaña uno nunca puede confiarse.
+La identidad de ese gigantesco Guardia Real que acoge a Cersei cuando completa su paseo de expiación en la quinta temporada de Juego de tronos ha sido motivo de gran especulación entre los fans de la serie durante todos estos meses de hiato, pero lo cierto es que nadie duda de que es la Montaña.
+Clegane quedó malherido de su combate con Oberyn y, en realidad, debería haber muerto, pero las misteriosas y oscuras artes del maestre Qyburn lo “resucitan” . Desde entonces, siempre oculta su cara con el yelmo de su armadura y en Desembarco del Rey todos lo conocen como Ser Robert Strong.
+La montaña quedó malherido de su combate con Oberyn (HBO) ¿Qué papel va a jugar para Cersei en la sexta temporada? La repuesta reina madre de Tommen parece que va a contraatacar con fuerza contra el poder del Gorrión Supremo , pero en Juego de tronos ’ puede pasar de todo.
+Lo que sí está claro es que no podrían haber encontrado un actor mejor para dar vida a la Montaña, porque el islandés Hafthór Júlíus Björnsson, de 2,06 metros de altura y casi 180 kilos de peso, ha ganado en dos ocasiones el título de Hombre más Fuerte de Europa , y ha sido subcampeón en la misma competición nivel mundial en 2014.
+Björnsson es, en realidad, el tercer intérprete de la Montaña . Entró en la serie en la cuarta temporada, sustituyendo a Conan Stevens e Ian Whyte, y parece que va a ser el actor definitivo para mostrar en pantalla la enorme presencia física de Clegane, hermano de Sandor, “el Perro”, y su brutalidad y obediencia ciega de Cersei. La alianza entre ella y Qyburn, maestre repudiado por su entrega a las artes mágicas, resucita a la Montaña y puede ser aún más importante en la sexta temporada.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.lavanguardia.com/series/20160424/401327783863/la-montana-juego-de-tronos.html</post_url>
+<post_date>20160425</post_date>
+<post_time>0100</post_time>
+<username>Marina Such</username>
+<post>
+Ser Gregor Clegane, apodado la Montaña por sus descomunales dimensiones, es uno de los personajes más célebres de Juego de tronos porque r epresenta el lado más brutal y despiadado de la serie .
+Fiel servidor de Joffrey, pasa después a proteger a su madre, Cersei, siendo el campeón que se enfrenta a Oberyn Martell en el juicio por combate de Tyrion Lannister, al final de la cuarta temporada. Oberyn quería vengarse del hombre que había matado a su hermana Elia, mujer de Rhaegar Targaryen, cuando el rey Aerys fue derrocado, pero con la Montaña uno nunca puede confiarse.
+La identidad de ese gigantesco Guardia Real que acoge a Cersei cuando completa su paseo de expiación en la quinta temporada de Juego de tronos ha sido motivo de gran especulación entre los fans de la serie durante todos estos meses de hiato, pero lo cierto es que nadie duda de que es la Montaña.
+Clegane quedó malherido de su combate con Oberyn y, en realidad, debería haber muerto, pero las misteriosas y oscuras artes del maestre Qyburn lo “resucitan” . Desde entonces, siempre oculta su cara con el yelmo de su armadura y en Desembarco del Rey todos lo conocen como Ser Robert Strong.
+La montaña quedó malherido de su combate con Oberyn (HBO) ¿Qué papel va a jugar para Cersei en la sexta temporada? La repuesta reina madre de Tommen parece que va a contraatacar con fuerza contra el poder del Gorrión Supremo , pero en Juego de tronos ’ puede pasar de todo.
+Lo que sí está claro es que no podrían haber encontrado un actor mejor para dar vida a la Montaña, porque el islandés Hafthór Júlíus Björnsson, de 2,06 metros de altura y casi 180 kilos de peso, ha ganado en dos ocasiones el título de Hombre más Fuerte de Europa , y ha sido subcampeón en la misma competición nivel mundial en 2014.
+Björnsson es, en realidad, el tercer intérprete de la Montaña . Entró en la serie en la cuarta temporada, sustituyendo a Conan Stevens e Ian Whyte, y parece que va a ser el actor definitivo para mostrar en pantalla la enorme presencia física de Clegane, hermano de Sandor, “el Perro”, y su brutalidad y obediencia ciega de Cersei. La alianza entre ella y Qyburn, maestre repudiado por su entrega a las artes mágicas, resucita a la Montaña y puede ser aún más importante en la sexta temporada.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>ES</country>
+<main_image>http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/04/24/Recortada/img_msanoja_20160424-150758_imagenes_lv_otras_fuentes_mountain-1-k1vH-U401327783863lHE-992x558@LaVanguardia-Web.jpg</main_image>
+</document>

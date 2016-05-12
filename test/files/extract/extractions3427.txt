@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.pennenergy.com/rssfeed/pipelines-transportation-news.html</forum>
+<forum_title>Pipelines &amp; Transportation News</forum_title>
+<discussion_title>Petroecuador restarts Esmeraldas refinery</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.pennenergy.com/articles/ogj/2016/04/petroecuador-restarts-esmeraldas-refinery.html</topic_url>
+<topic_text>
+By Robert Brelsford OGJ Downstream Technology Editor 
+Ecuador’s state-owned Petroecuador has restarted its 110,000-b/d Esmeraldas refinery following a precautionary shutdown of the plant in the wake of an Apr. 16 earthquake in the region. 
+The refinery, which began preliminary restart activities on Apr. 18, had returned to full operating rates as of Apr. 23, Petroecuador said. 
+Petroecuador suspended operations at the refinery to allow for technical inspections of equipment to ensure the 7.8-magnitude earthquake did not cause damage to industrial structures at the plant and that all units were operating properly, the company said. 
+With sufficient stocks already on hand at the refinery, fuel supplies were not interrupted as a result of the incident. 
+The incident also had no impact on a project under way at the refinery to build three additional storage tanks, Petroecuador said on Apr. 22.   
+While Petroecuador confirmed the three new tanks each will have a storage capacity of 200,000 bbl, it did not disclose a timeline for project’s completion. 
+Esmeraldas rehabilitation 
+Petroecuador also announced the official completion of its long-planned Esmeraldas rehabilitation and modernization program, which was designed to equip the refinery to run at 100% of its nameplate operational and production capacity as well as at reduced emissions levels that conform to national and international standards ( OGJ, Jan. 7, 2013, p. 109 ; OGJ Online, Oct. 2, 2014 ; Aug. 7, 2008 ). 
+Initially scheduled as a “gradual and progressive” rehabilitation and modernization to be executed between July 2014 and August 2015, the revamp focused on expanding the refinery’s fluid catalytic cracking unit, as well as modernization works at Crude Unit 1, Vacuum Unit 1, and Visbreaking Unit ( OGJ Online, July 15, 2014 ). 
+Work on the FCC, which include replacing the unit’s regenerator and reactor in order to boost its processing capacity to 20,000 b/d from a previous 18,000 b/d, has improved the quality of finished products and enabled the unit to operate at a throughput rate of 21,800 b/d, or 110% of its new capacity, Petroecuador said in a Mar. 24 release. 
+In addition to equipping the refinery to operate at 115% of its overall capacity, the rehabilitation program at Esmeraldas has allowed Ecuador to reduce imports of gasoline by 17%, diesel by 15%, and LPG by 10% to result in savings of $305 million/year savings in fuel import costs for the country, according to a Mar. 29 release from the company. 
+Following its rehabilitation, the refinery has expanded its diesel and gasoline production by 270,000 gal/year and can now meet 27% of Ecuador’s domestic demand for LPG, according to Petroecuador. 
+Contact Robert Brelsford at . 
+Sponsored Content is made possible by our sponsor; it does not necessarily reflect the views of our editorial staff. Did You Like this Article? Get All the Energy Industry News Delivered to Your Inbox 
+Subscribe to an email newsletter today at no cost and receive the latest news and information. Subscribe Now
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.pennenergy.com/articles/ogj/2016/04/petroecuador-restarts-esmeraldas-refinery.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1506</post_time>
+<username></username>
+<post>
+By Robert Brelsford OGJ Downstream Technology Editor 
+Ecuador’s state-owned Petroecuador has restarted its 110,000-b/d Esmeraldas refinery following a precautionary shutdown of the plant in the wake of an Apr. 16 earthquake in the region. 
+The refinery, which began preliminary restart activities on Apr. 18, had returned to full operating rates as of Apr. 23, Petroecuador said. 
+Petroecuador suspended operations at the refinery to allow for technical inspections of equipment to ensure the 7.8-magnitude earthquake did not cause damage to industrial structures at the plant and that all units were operating properly, the company said. 
+With sufficient stocks already on hand at the refinery, fuel supplies were not interrupted as a result of the incident. 
+The incident also had no impact on a project under way at the refinery to build three additional storage tanks, Petroecuador said on Apr. 22.   
+While Petroecuador confirmed the three new tanks each will have a storage capacity of 200,000 bbl, it did not disclose a timeline for project’s completion. 
+Esmeraldas rehabilitation 
+Petroecuador also announced the official completion of its long-planned Esmeraldas rehabilitation and modernization program, which was designed to equip the refinery to run at 100% of its nameplate operational and production capacity as well as at reduced emissions levels that conform to national and international standards ( OGJ, Jan. 7, 2013, p. 109 ; OGJ Online, Oct. 2, 2014 ; Aug. 7, 2008 ). 
+Initially scheduled as a “gradual and progressive” rehabilitation and modernization to be executed between July 2014 and August 2015, the revamp focused on expanding the refinery’s fluid catalytic cracking unit, as well as modernization works at Crude Unit 1, Vacuum Unit 1, and Visbreaking Unit ( OGJ Online, July 15, 2014 ). 
+Work on the FCC, which include replacing the unit’s regenerator and reactor in order to boost its processing capacity to 20,000 b/d from a previous 18,000 b/d, has improved the quality of finished products and enabled the unit to operate at a throughput rate of 21,800 b/d, or 110% of its new capacity, Petroecuador said in a Mar. 24 release. 
+In addition to equipping the refinery to operate at 115% of its overall capacity, the rehabilitation program at Esmeraldas has allowed Ecuador to reduce imports of gasoline by 17%, diesel by 15%, and LPG by 10% to result in savings of $305 million/year savings in fuel import costs for the country, according to a Mar. 29 release from the company. 
+Following its rehabilitation, the refinery has expanded its diesel and gasoline production by 270,000 gal/year and can now meet 27% of Ecuador’s domestic demand for LPG, according to Petroecuador. 
+Contact Robert Brelsford at . 
+Sponsored Content is made possible by our sponsor; it does not necessarily reflect the views of our editorial staff. Did You Like this Article? Get All the Energy Industry News Delivered to Your Inbox 
+Subscribe to an email newsletter today at no cost and receive the latest news and information. Subscribe Now
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www.pennenergy.com/content/dam/ogj/online-articles/2016/04/Petroecuador Esmeraldas.jpg</main_image>
+</document>

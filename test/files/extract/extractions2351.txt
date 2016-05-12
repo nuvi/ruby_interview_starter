@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://rss.digitalmediaonlineinc.com/createRss.jsp?pageid=675&amp;limit=10</forum>
+<forum_title>Tutorial Finder-news</forum_title>
+<discussion_title>Frequency Electronics Inc. Awarded Major Satellite Payload Contract</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.TutorialFinder.com/articles/viewarticle.jsp?id=4393818</topic_url>
+<topic_text>
+ 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.TutorialFinder.com/articles/viewarticle.jsp?id=4393818</post_url>
+<post_date>20160425</post_date>
+<post_time>1900</post_time>
+<username></username>
+<post>
+ 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

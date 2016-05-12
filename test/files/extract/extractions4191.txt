@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.businessinsider.sg/feed/</forum>
+<forum_title>Business Insider</forum_title>
+<discussion_title>17 things every modern gentleman should have in his closet</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.businessinsider.sg/mens-closet-essentials-2016-4/</topic_url>
+<topic_text>
+Another great casual option is the ubiquitous polo shirt. 
+It’s another piece that looks classier than a t-shirt, but is just as easy to wear. 
+Polo Ralph Lauren makes the iconic version, but pretty much everyone makes one nowadays – even Uniqlo . 
+Polo Ralph Lauren Polo Shirt ($85) A pair of casual chinos. 
+For that gray area of formality, chinos are perfect. Wear them with a polo for a casual look, or a button-up and blazer to dress it up. 
+These slim-fit garment-dyed Brooks Brothers chinos are a good choice, but we recommend putting the effort into finding a pair that’ll fit your particular body and budget. 
+Brooks Brothers Milano Fit Garment-Dyed Chinos ($98) A pair of dark denim jeans. 
+You don’t have to be a denimhead to appreciate the clean aesthetic of a dark denim. Dressed up or down, they’re always clean, and a well-made pair will have your back in all casual environments for years to come. 
+Originally you could only get a pair from reproduction companies in Japan, but in recent years American companies, like the pictured Rogue Territory, have sprouted up in response to increased demand stateside. 
+Then again, there’s nothing wrong with the standard Levi’s. 
+Rogue Territory SK 11 oz ($220) A high-quality t-shirt that fits perfectly. 
+This one is non-negotiable. Even if you don’t see yourself as a type of guy that wears a t-shirt casually, some situations just call for being comfortable. 
+White is the most versatile color there is, but this is no undershirt. 
+This is another case of finding one that works for your body type. Ones to try include the pictured Uniqlo , American Apparel , and even Target’s Mossimo brand . 
+Uniqlo Supima Cotton Short Sleeve T-shirt ($10) A pair of boots for after-work drinks. 
+Every man needs a pair of super-versatile shoes that look neither dressed up nor casual. They fill that nebulous space between dress shoes and sneakers. 
+Many guys’ go-to is Clarks’ ever-popular Desert Boot , but there are plenty of more expensive options. 
+Clarks Desert Boots ($130) A pair of weekend casual sneakers. 
+Sneakers are more acceptable in more places than ever before. Wear them all weekend, and give your dress shoes a rest. 
+There are a ton of great options from New Balance , Nike , and Adidas.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.businessinsider.sg/mens-closet-essentials-2016-4/</post_url>
+<post_date>20160425</post_date>
+<post_time>1724</post_time>
+<username>Dennis Green</username>
+<post>
+Another great casual option is the ubiquitous polo shirt. 
+It’s another piece that looks classier than a t-shirt, but is just as easy to wear. 
+Polo Ralph Lauren makes the iconic version, but pretty much everyone makes one nowadays – even Uniqlo . 
+Polo Ralph Lauren Polo Shirt ($85) A pair of casual chinos. 
+For that gray area of formality, chinos are perfect. Wear them with a polo for a casual look, or a button-up and blazer to dress it up. 
+These slim-fit garment-dyed Brooks Brothers chinos are a good choice, but we recommend putting the effort into finding a pair that’ll fit your particular body and budget. 
+Brooks Brothers Milano Fit Garment-Dyed Chinos ($98) A pair of dark denim jeans. 
+You don’t have to be a denimhead to appreciate the clean aesthetic of a dark denim. Dressed up or down, they’re always clean, and a well-made pair will have your back in all casual environments for years to come. 
+Originally you could only get a pair from reproduction companies in Japan, but in recent years American companies, like the pictured Rogue Territory, have sprouted up in response to increased demand stateside. 
+Then again, there’s nothing wrong with the standard Levi’s. 
+Rogue Territory SK 11 oz ($220) A high-quality t-shirt that fits perfectly. 
+This one is non-negotiable. Even if you don’t see yourself as a type of guy that wears a t-shirt casually, some situations just call for being comfortable. 
+White is the most versatile color there is, but this is no undershirt. 
+This is another case of finding one that works for your body type. Ones to try include the pictured Uniqlo , American Apparel , and even Target’s Mossimo brand . 
+Uniqlo Supima Cotton Short Sleeve T-shirt ($10) A pair of boots for after-work drinks. 
+Every man needs a pair of super-versatile shoes that look neither dressed up nor casual. They fill that nebulous space between dress shoes and sneakers. 
+Many guys’ go-to is Clarks’ ever-popular Desert Boot , but there are plenty of more expensive options. 
+Clarks Desert Boots ($130) A pair of weekend casual sneakers. 
+Sneakers are more acceptable in more places than ever before. Wear them all weekend, and give your dress shoes a rest. 
+There are a ton of great options from New Balance , Nike , and Adidas.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>SG</country>
+<main_image>https://static-ssl.businessinsider.com/image/571d870f91058425008be960-960-960/6190_1036974236333948_6220057828771189640_n.jpg</main_image>
+</document>

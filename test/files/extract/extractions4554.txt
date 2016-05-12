@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Which Mortgage Rate Surveys Are The Most Accurate?</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://themortgagereports.com/18574/mortgage-rate-survey-interest-rates-accurate-gina-pogol</topic_url>
+<topic_text>
+Which Mortgage Rate Surveys Are The Most Accurate? Which Mortgage Rate &quot;Survey&quot; Is Best? 
+It&apos;s hard to window shop for mortgage rates anymore. Markets have changed and so do rates -- sometimes four or five times per day. 
+So, when you&apos;re looking for &quot;ballpark mortgage rate&quot;, where do you do turn? 
+A great mortgage lender will want your information before giving you a quote because great lenders know that rate quotes mean nothing without context. 
+And, bad lenders -- well, nobody wants to work with a bad lender . 
+Because it&apos;s so hard to get real-time mortgage rate information, a cottage industry of sorts has sprouted. There are now tens of places where you can find &quot;mortgage rate surveys&quot; online, each purporting to tell you where interest rates are at today. 
+However, mortgage rates often vary by as much as 50 basis points (0.50%) between mortgage rate surveys, and rates are rarely in-line with an actual rate quote from an actual mortgage lender. 
+So, why the differences? Why do mortgage rate surveys show so such different rates? And which can you believe? Click to see today&apos;s rates (Apr 25th, 2016) What Is A Mortgage Rate Survey? 
+A mortgage rate is the rate of interest paid on a home loan. Mortgage rates are &quot;charged&quot; by banks and paid by homeowners. 
+In this way, a mortgage rate quantifies the risk that a particular borrower represents to its lender. Borrowers who present with high risk pay higher rates than borrower who present with low risk. 
+Risk comes in many forms. 
+Risk may come in the form of credit score, or state of residence, or disposition of the property (i.e. primary home, vacation home, investment property). 
+Risk can also vary by loan type. 
+VA loans, for example, are guaranteed by the Department of Veterans Affairs which means that banks are unlikely to take a loss. By contrast, conventional loans are not guaranteed. 
+This is why VA mortgage rates have been the lowest rates available and why a conversation with a lender is required to find the specific mortgage rate for which you&apos;re eligible. 
+You are different from your neighbor, after all, so your loan will be different from your neighbor. 
+But that won&apos;t appease you. You just want a &quot;ballpark&quot; rate. To get it, you turn to the internet where mortgage rate surveys proliferate. 
+What&apos;s a mortgage rate survey? 
+It&apos;s a report which shows (1) an average mortgage rate, (2) for a specific mortgage borrower type, (3) for a given period of time. 
+For example, a mortgage rate survey may show the mortgage rate for an FHA borrower with a 600 FICO score buying a $200,000 single-family home with 3.5% down in Washington State as 3.75% for last Tuesday. 
+Yes, the surveys are that specific in their assumptions. And you may not meet those particular assumptions which, in truth, means that the rate survey doesn&apos;t actually help you. 
+Your mortgage rate may be higher or lower than what you find online. 
+Furthermore, mortgage rates change all the time -- several times daily, even. So, even if you meet the assumptions made by mortgage rate survey online, you&apos;re going to miss the timing of it. 
+The rate you see online has already expired. The rate you get &quot;right now&quot; is the rate you can take to the bank. Click to see today&apos;s rates (Apr 25th, 2016) Some Popular Mortgage Rate Surveys 
+There are a large number of mortgage rate surveys available online and in print. This is a review of some of the more common ones. Freddie Mac Primary Mortgage Market Survey (PMMS) 
+Freddie Mac is a government- backed entity which buys mortgages from banks and sells them as mortgage-backed securities. 
+And, because of its role in the mortgage market, then, Freddie Mac is highly qualified to tell you &quot;what are today&apos;s mortgage rates&quot;. 
+Here&apos;s how they do it. 
+Each week, Freddie Mac surveys about 125 lenders and asks them about their going rate for mortgage borrowers making a home purchase with 20% down on a conventional loan; with excellent credit scores; and, whom are purchasing a detached single-family home. 
+Freddie Mac rates are quoted with discount points included. Discount points are an optional closing cost which lowers a quoted mortgage rate. 
+In general, each point lowers are mortgage rate quote by 25 basis points (0.25%). 
+Most banks reply to Freddie Mac no later than Tuesday afternoon. Results are published Thursday morning. This 2-day delay introduces some well-documented issues . 
+Freddie Mac data doesn&apos;t apply to low-downpayment loans -- only to loans with twenty percent down. This is relevant to home buyers with little or nothing to put down. Mortgage Bankers Association (MBA) Mortgage Rate Survey 
+The Mortgage Bankers Association (MBA) is the largest mortgage banker trade group and, since 1990, it too, has produced a rate survey. 
+However, the MBA does its survey a little differently. 
+For the MBA&apos;s mortgage rate survey, actual mortgage application information is collected from member banks over the course of a week which, for survey purposes, runs Saturday through Friday. 
+The MBA then calculates the &quot;average contract rate&quot; over a wide array of loan types including fixed-rate and adjustable mortgages; conforming mortgages; jumbo mortgages; and, government-backed mortgages including FHA loans and VA loans. 
+According to the trade group, &quot;more than 75% of U.S. mortgage applications&quot; make it into their weekly survey. 
+The survey is released Wednesdays after a 5-day delay. 
+The MBA survey is notable because it includes many different loan types so there&apos;s a god chance you&apos;ll see your preferred loan type in its survey. However, it&apos;s sourced from loan applications and not loans closed . 
+Mortgage rates can change between the point of application and the date of closing. 
+The MBA survey is also released with discount points. However, the typical number of discount points is lower with the MBA as compared to Freddie Mac which causes the MBA&apos;s rates to appear higher (even though they aren&apos;t). 
+This is because Freddie Mac&apos;s 4.00% rate with 1 point is roughly equivalent to the MBA&apos;s 4.125% rate with 0.5 points. Ellie Mae Origination Insight Report 
+Mortgage-software provider Ellie Mae publishes a mortgage rate report, too, known as the Origination Insight Report. 
+Using data from the millions of mortgage applications it helps mortgage lenders to process each year, Ellie Mae publishes average rates for actual closed mortgage loans for most common borrower types, and for many popular products. 
+For example, the Origination Insight Report shows the average rate FHA borrowers received; and VA borrowers received; and, rates for conventional mortgage loans, too. 
+As compared to Freddie Mac and the MBA survey, Ellie Mae&apos;s published rates are often the highest and that&apos;s because mortgage borrowers tend to close loans without paying points. 
+Loans with no points come with higher rates than loans with them. 
+Freddie Mac&apos;s 4.00% rate with 1 point is roughly equivalent to Ellie Mae&apos;s 4.25% rate with 0 points. 
+Of all the published surveys, the Origination Insight Report is likely the most accurate report but rates don&apos;t get published until 1-2 months later. Click to see today&apos;s rates (Apr 25th, 2016) Popular Consumer News Websites 
+Daily and weekly mortgage rates can also be found on common consumer news websites such as Bankrate.com, HSH.com, Zillow, and in the sidebar of just about every personal finance business out there. 
+These rates are typically &quot;advertised&quot; mortgage rates, though, and -- like the MBA survey -- don&apos;t account for actual rates on closed loans. 
+That said, for ballpark shoppers, advertised rates can be more helpful than &quot;closed rates&quot;. When you want to know &quot; what are mortgage rates doing today &quot;, tracking real-time changes can let you know if rates are rising or falling, at least. 
+Caveat: Be sure to check assumptions! 
+Sometimes, online mortgage rate advertisements get &quot;loose&quot; with their interest rate assumptions. If you&apos;re shopping for a low-downpayment loan, make sure your preferred online site isn&apos;t showing you a loan for 20% down. 
+Mortgage rates can vary wildly. What Are Today&apos;s Mortgage Rates? 
+It can be tough to shop for mortgage rates online and the proliferation of mortgage rate surveys does little to simplify the process. It&apos;s often best to right to the source. 
+Get today&apos;s live mortgage rates now. Your social security number is not required to get started, and all quotes come with access to your live mortgage credit scores. Click to see today&apos;s rates (Apr 25th, 2016) 
+The information contained on The Mortgage Reports website is for informational purposes only and is not an advertisement for products offered by Full Beaker. The views and opinions expressed herein are those of the author and do not reflect the policy or position of Full Beaker, its officers, parent, or affiliates. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://themortgagereports.com/18574/mortgage-rate-survey-interest-rates-accurate-gina-pogol</post_url>
+<post_date>20151203</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Which Mortgage Rate Surveys Are The Most Accurate? Which Mortgage Rate &quot;Survey&quot; Is Best? 
+It&apos;s hard to window shop for mortgage rates anymore. Markets have changed and so do rates -- sometimes four or five times per day. 
+So, when you&apos;re looking for &quot;ballpark mortgage rate&quot;, where do you do turn? 
+A great mortgage lender will want your information before giving you a quote because great lenders know that rate quotes mean nothing without context. 
+And, bad lenders -- well, nobody wants to work with a bad lender . 
+Because it&apos;s so hard to get real-time mortgage rate information, a cottage industry of sorts has sprouted. There are now tens of places where you can find &quot;mortgage rate surveys&quot; online, each purporting to tell you where interest rates are at today. 
+However, mortgage rates often vary by as much as 50 basis points (0.50%) between mortgage rate surveys, and rates are rarely in-line with an actual rate quote from an actual mortgage lender. 
+So, why the differences? Why do mortgage rate surveys show so such different rates? And which can you believe? Click to see today&apos;s rates (Apr 25th, 2016) What Is A Mortgage Rate Survey? 
+A mortgage rate is the rate of interest paid on a home loan. Mortgage rates are &quot;charged&quot; by banks and paid by homeowners. 
+In this way, a mortgage rate quantifies the risk that a particular borrower represents to its lender. Borrowers who present with high risk pay higher rates than borrower who present with low risk. 
+Risk comes in many forms. 
+Risk may come in the form of credit score, or state of residence, or disposition of the property (i.e. primary home, vacation home, investment property). 
+Risk can also vary by loan type. 
+VA loans, for example, are guaranteed by the Department of Veterans Affairs which means that banks are unlikely to take a loss. By contrast, conventional loans are not guaranteed. 
+This is why VA mortgage rates have been the lowest rates available and why a conversation with a lender is required to find the specific mortgage rate for which you&apos;re eligible. 
+You are different from your neighbor, after all, so your loan will be different from your neighbor. 
+But that won&apos;t appease you. You just want a &quot;ballpark&quot; rate. To get it, you turn to the internet where mortgage rate surveys proliferate. 
+What&apos;s a mortgage rate survey? 
+It&apos;s a report which shows (1) an average mortgage rate, (2) for a specific mortgage borrower type, (3) for a given period of time. 
+For example, a mortgage rate survey may show the mortgage rate for an FHA borrower with a 600 FICO score buying a $200,000 single-family home with 3.5% down in Washington State as 3.75% for last Tuesday. 
+Yes, the surveys are that specific in their assumptions. And you may not meet those particular assumptions which, in truth, means that the rate survey doesn&apos;t actually help you. 
+Your mortgage rate may be higher or lower than what you find online. 
+Furthermore, mortgage rates change all the time -- several times daily, even. So, even if you meet the assumptions made by mortgage rate survey online, you&apos;re going to miss the timing of it. 
+The rate you see online has already expired. The rate you get &quot;right now&quot; is the rate you can take to the bank. Click to see today&apos;s rates (Apr 25th, 2016) Some Popular Mortgage Rate Surveys 
+There are a large number of mortgage rate surveys available online and in print. This is a review of some of the more common ones. Freddie Mac Primary Mortgage Market Survey (PMMS) 
+Freddie Mac is a government- backed entity which buys mortgages from banks and sells them as mortgage-backed securities. 
+And, because of its role in the mortgage market, then, Freddie Mac is highly qualified to tell you &quot;what are today&apos;s mortgage rates&quot;. 
+Here&apos;s how they do it. 
+Each week, Freddie Mac surveys about 125 lenders and asks them about their going rate for mortgage borrowers making a home purchase with 20% down on a conventional loan; with excellent credit scores; and, whom are purchasing a detached single-family home. 
+Freddie Mac rates are quoted with discount points included. Discount points are an optional closing cost which lowers a quoted mortgage rate. 
+In general, each point lowers are mortgage rate quote by 25 basis points (0.25%). 
+Most banks reply to Freddie Mac no later than Tuesday afternoon. Results are published Thursday morning. This 2-day delay introduces some well-documented issues . 
+Freddie Mac data doesn&apos;t apply to low-downpayment loans -- only to loans with twenty percent down. This is relevant to home buyers with little or nothing to put down. Mortgage Bankers Association (MBA) Mortgage Rate Survey 
+The Mortgage Bankers Association (MBA) is the largest mortgage banker trade group and, since 1990, it too, has produced a rate survey. 
+However, the MBA does its survey a little differently. 
+For the MBA&apos;s mortgage rate survey, actual mortgage application information is collected from member banks over the course of a week which, for survey purposes, runs Saturday through Friday. 
+The MBA then calculates the &quot;average contract rate&quot; over a wide array of loan types including fixed-rate and adjustable mortgages; conforming mortgages; jumbo mortgages; and, government-backed mortgages including FHA loans and VA loans. 
+According to the trade group, &quot;more than 75% of U.S. mortgage applications&quot; make it into their weekly survey. 
+The survey is released Wednesdays after a 5-day delay. 
+The MBA survey is notable because it includes many different loan types so there&apos;s a god chance you&apos;ll see your preferred loan type in its survey. However, it&apos;s sourced from loan applications and not loans closed . 
+Mortgage rates can change between the point of application and the date of closing. 
+The MBA survey is also released with discount points. However, the typical number of discount points is lower with the MBA as compared to Freddie Mac which causes the MBA&apos;s rates to appear higher (even though they aren&apos;t). 
+This is because Freddie Mac&apos;s 4.00% rate with 1 point is roughly equivalent to the MBA&apos;s 4.125% rate with 0.5 points. Ellie Mae Origination Insight Report 
+Mortgage-software provider Ellie Mae publishes a mortgage rate report, too, known as the Origination Insight Report. 
+Using data from the millions of mortgage applications it helps mortgage lenders to process each year, Ellie Mae publishes average rates for actual closed mortgage loans for most common borrower types, and for many popular products. 
+For example, the Origination Insight Report shows the average rate FHA borrowers received; and VA borrowers received; and, rates for conventional mortgage loans, too. 
+As compared to Freddie Mac and the MBA survey, Ellie Mae&apos;s published rates are often the highest and that&apos;s because mortgage borrowers tend to close loans without paying points. 
+Loans with no points come with higher rates than loans with them. 
+Freddie Mac&apos;s 4.00% rate with 1 point is roughly equivalent to Ellie Mae&apos;s 4.25% rate with 0 points. 
+Of all the published surveys, the Origination Insight Report is likely the most accurate report but rates don&apos;t get published until 1-2 months later. Click to see today&apos;s rates (Apr 25th, 2016) Popular Consumer News Websites 
+Daily and weekly mortgage rates can also be found on common consumer news websites such as Bankrate.com, HSH.com, Zillow, and in the sidebar of just about every personal finance business out there. 
+These rates are typically &quot;advertised&quot; mortgage rates, though, and -- like the MBA survey -- don&apos;t account for actual rates on closed loans. 
+That said, for ballpark shoppers, advertised rates can be more helpful than &quot;closed rates&quot;. When you want to know &quot; what are mortgage rates doing today &quot;, tracking real-time changes can let you know if rates are rising or falling, at least. 
+Caveat: Be sure to check assumptions! 
+Sometimes, online mortgage rate advertisements get &quot;loose&quot; with their interest rate assumptions. If you&apos;re shopping for a low-downpayment loan, make sure your preferred online site isn&apos;t showing you a loan for 20% down. 
+Mortgage rates can vary wildly. What Are Today&apos;s Mortgage Rates? 
+It can be tough to shop for mortgage rates online and the proliferation of mortgage rate surveys does little to simplify the process. It&apos;s often best to right to the source. 
+Get today&apos;s live mortgage rates now. Your social security number is not required to get started, and all quotes come with access to your live mortgage credit scores. Click to see today&apos;s rates (Apr 25th, 2016) 
+The information contained on The Mortgage Reports website is for informational purposes only and is not an advertisement for products offered by Full Beaker. The views and opinions expressed herein are those of the author and do not reflect the policy or position of Full Beaker, its officers, parent, or affiliates. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://images.mortgageimages.com/wp-content/uploads/2015/12/finding-todays-mortgage-rates-online.jpg</main_image>
+</document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Baltimore Mayoral Candidates Make Final Push Ahead of Primary Day « CBS Baltimore</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://baltimore.cbslocal.com/2016/04/25/baltimore-mayoral-candidates-make-final-push-ahead-of-primary-day/</topic_url>
+<topic_text>
+Baltimore Mayoral Candidates Make Final Push Ahead of Primary Day April 25, 2016 1:50 PM By Mike Schuh 
+BALTIMORE (WJZ) — Less than 24 hours from now, the polls will open in Baltimore, and residents will start the process of deciding who will be the city’s next mayor. 
+WJZ’s Mike Schuh followed some of the Democratic candidates this morning to find out how they’re feeling ahead of the big day. 
+While there are also five republicans in the primary, the city has 288,000 registered Democrats and only 30,000 registered Republicans, so it’s expected that whoever wins on Tuesday will win the city’s top office in November. 
+Former Mayor Sheila Dixon started the morning trying to get her old job back, waving to commuters at the Mondawmin Metro Station as they made their way to work. 
+“I am the only candidate that can really get in there and get things moving,” she said. “I know it, I’ve embraced the community, I’ve worked in the community.” 
+In Baltimore, the tradition before the primary or the general election to go to Jimmy’s Restaurant in Fells Point. 
+That’s where Carl Stokes and Catherine Pugh could be found Monday morning. 
+Stokes is not leading in the polls, but “we feel that people have changed their mind and are coming to the Carl Stokes campaign,” he told WJZ. 
+Just a few feet away, frontrunner Pugh said private polls show her gaining traction, but she said she takes nothing for granted. 
+“Doors are still being knocked and people are still being talked to and again, we are excited,” she said. 
+Follow @CBSBaltimore on Twitter and like WJZ-TV | CBS Baltimore on Facebook Mike Schuh Mike Schuh joined WJZ Eyewitness News as a general assignment reporter in 1993. During his time at WJZ, he’s received awards for a wide range of news stories. His 11 Emmy Awards were earned in the “Best Reporter,” “Writing,” “Hard News... 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://baltimore.cbslocal.com/2016/04/25/baltimore-mayoral-candidates-make-final-push-ahead-of-primary-day/</post_url>
+<post_date>20160408</post_date>
+<post_time></post_time>
+<username>Mike Schuh</username>
+<post>
+Baltimore Mayoral Candidates Make Final Push Ahead of Primary Day April 25, 2016 1:50 PM By Mike Schuh 
+BALTIMORE (WJZ) — Less than 24 hours from now, the polls will open in Baltimore, and residents will start the process of deciding who will be the city’s next mayor. 
+WJZ’s Mike Schuh followed some of the Democratic candidates this morning to find out how they’re feeling ahead of the big day. 
+While there are also five republicans in the primary, the city has 288,000 registered Democrats and only 30,000 registered Republicans, so it’s expected that whoever wins on Tuesday will win the city’s top office in November. 
+Former Mayor Sheila Dixon started the morning trying to get her old job back, waving to commuters at the Mondawmin Metro Station as they made their way to work. 
+“I am the only candidate that can really get in there and get things moving,” she said. “I know it, I’ve embraced the community, I’ve worked in the community.” 
+In Baltimore, the tradition before the primary or the general election to go to Jimmy’s Restaurant in Fells Point. 
+That’s where Carl Stokes and Catherine Pugh could be found Monday morning. 
+Stokes is not leading in the polls, but “we feel that people have changed their mind and are coming to the Carl Stokes campaign,” he told WJZ. 
+Just a few feet away, frontrunner Pugh said private polls show her gaining traction, but she said she takes nothing for granted. 
+“Doors are still being knocked and people are still being talked to and again, we are excited,” she said. 
+Follow @CBSBaltimore on Twitter and like WJZ-TV | CBS Baltimore on Facebook Mike Schuh Mike Schuh joined WJZ Eyewitness News as a general assignment reporter in 1993. During his time at WJZ, he’s received awards for a wide range of news stories. His 11 Emmy Awards were earned in the “Best Reporter,” “Writing,” “Hard News... 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>https://cbsbaltimore.files.wordpress.com/2016/04/8385703d74e3421a9a79c05f4bea714d.jpg?w=1280</main_image>
+</document>

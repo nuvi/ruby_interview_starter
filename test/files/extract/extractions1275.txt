@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>神农架野生金丝猴雪趣_许昌网</discussion_title>
+<language>chinese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.21xc.com/content/201604/21/c59934.html</topic_url>
+<topic_text>
+
+许昌日报社 版权所有 未经允许 请勿转载地址：许昌市八一路东段 邮编：461000 豫ICP备：05010577号 
+业务电话：0374-4399669 值班电话：0374-4399669 邮箱：cn.21xc@foxmail.com × 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.21xc.com/content/201604/21/c59934.html</post_url>
+<post_date>20160421</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+
+许昌日报社 版权所有 未经允许 请勿转载地址：许昌市八一路东段 邮编：461000 豫ICP备：05010577号 
+业务电话：0374-4399669 值班电话：0374-4399669 邮箱：cn.21xc@foxmail.com × 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country></country>
+<main_image></main_image>
+</document>

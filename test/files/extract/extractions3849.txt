@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.br.de/franken/franken100~rss.xml</forum>
+<forum_title>Die Homepage für Franken</forum_title>
+<discussion_title>Geheimnisvoller Tunnel: Der unterirdische Versorgungsgang in Schweinfurt</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.br.de/mediathek/video/sendungen/frankenschau-aktuell/geheinnisvoller-tunnel-schweinfurt-100.html</topic_url>
+<topic_text>
+Der unterirdische Versorgungsgang in Schweinfurt 25.04.2016, 17:30 Uhr, online bis 25.04.2017, 19:11 Uhr Bewerten Bitte klicken Sie in eines der Felder und kopieren Sie den Link in Ihre Zwischenablage. Link versenden Hinweis Die E-Mail-Adressen dienen ausschließlich der Benachrichtigung des Empfängers. Sie werden nicht gespeichert. Spamschutz * Bitte geben Sie das Ergebnis der folgenden Aufgabe als Zahl ein: Acht minus fünf ergibt? Senden Info zum Video 
+Zwei Meter breit und zwei Meter hoch misst ein Bauwerk, das nur wenige überhaupt kennen. Unter dem SKF-Verwaltungsgebäude in Schweinfurt erstreckt sich in acht Metern Tiefe ein geheimnisvoller Versorgungstunnel. 
+Moderation: Karin Schubert
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.br.de/mediathek/video/sendungen/frankenschau-aktuell/geheinnisvoller-tunnel-schweinfurt-100.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1711</post_time>
+<username></username>
+<post>
+Der unterirdische Versorgungsgang in Schweinfurt 25.04.2016, 17:30 Uhr, online bis 25.04.2017, 19:11 Uhr Bewerten Bitte klicken Sie in eines der Felder und kopieren Sie den Link in Ihre Zwischenablage. Link versenden Hinweis Die E-Mail-Adressen dienen ausschließlich der Benachrichtigung des Empfängers. Sie werden nicht gespeichert. Spamschutz * Bitte geben Sie das Ergebnis der folgenden Aufgabe als Zahl ein: Acht minus fünf ergibt? Senden Info zum Video 
+Zwei Meter breit und zwei Meter hoch misst ein Bauwerk, das nur wenige überhaupt kennen. Unter dem SKF-Verwaltungsgebäude in Schweinfurt erstreckt sich in acht Metern Tiefe ein geheimnisvoller Versorgungstunnel. 
+Moderation: Karin Schubert
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.br.de/import/audiovideo/standbilder/geheinnisvoller-tunnel-schweinfurt-bild-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=0fedb</main_image>
+</document>

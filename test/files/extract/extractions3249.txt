@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://il.fashionmag.com/rss/feed/il,1.xml</forum>
+<forum_title>News - FashionMag.com Israel</forum_title>
+<discussion_title>Duro Olowo curates new London art exhibition</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://il.fashionmag.com/news/Duro-Olowo-curates-new-London-art-exhibition,686130.html</topic_url>
+<topic_text>
+Print Duro Olowo curates new London art exhibition Duro Olowu, the Nigerian-born, London-based fashion designer, has been chosen to curate the upcoming art exhibition &quot;Making &amp; Unmaking&quot; at the Camden Arts Centre in London. Leonce Raphael Agbodjelou, Untitled (Musclemen series) - Jack Bell Gallery The exhibition will feature 50 international artists and focus on themes including sexuality, gender and portraiture. The artists showing include Glenn Ligon, Yinka Shonibare MBE, Sheila Hicks and Brent Wadden, and all were chosen because their work articulates a complex and rich relationship to fabric and textiles.“Duro Olowu’s talk with Glenn Ligon at Tate Modern early last year was inspirational; their shared passion for textiles connected a richly pictorial conversation about pattern, repetition, politics and process. This take on art and making, formed from a unique understanding of the relationship of fabric to the body, underpins the choices Olowu has made in shaping this exhibition,” said Jenni Lomax, Director.Previous artist-selected shows at the centre have included exhibitions by Turner Prize winner Simon Starling, Paulina Olowska, Tacita Dean and Richard Wentworth.“The more I looked at a work that I was considering for the show – not necessarily textile based or straight-forward painting – the more the intricacy and the beauty of an artist discovering and realising what they are capable of on an intuitive level, came through. I am attracted to specific pieces that take the artist in a direction outside what is regarded as their signature style, things that even they may have overlooked or disregarded. There is an immediacy in many of these examples in which the hand of the artist is felt,&quot; Duro Olowu commented.Making &amp; Unmaking is on between June 19 - September 18.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://il.fashionmag.com/news/Duro-Olowo-curates-new-London-art-exhibition,686130.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1711</post_time>
+<username>cajsa.lykke.carlson@fashionnework.com ( Cajsa Lykke Carlson)</username>
+<post>
+Print Duro Olowo curates new London art exhibition Duro Olowu, the Nigerian-born, London-based fashion designer, has been chosen to curate the upcoming art exhibition &quot;Making &amp; Unmaking&quot; at the Camden Arts Centre in London. Leonce Raphael Agbodjelou, Untitled (Musclemen series) - Jack Bell Gallery The exhibition will feature 50 international artists and focus on themes including sexuality, gender and portraiture. The artists showing include Glenn Ligon, Yinka Shonibare MBE, Sheila Hicks and Brent Wadden, and all were chosen because their work articulates a complex and rich relationship to fabric and textiles.“Duro Olowu’s talk with Glenn Ligon at Tate Modern early last year was inspirational; their shared passion for textiles connected a richly pictorial conversation about pattern, repetition, politics and process. This take on art and making, formed from a unique understanding of the relationship of fabric to the body, underpins the choices Olowu has made in shaping this exhibition,” said Jenni Lomax, Director.Previous artist-selected shows at the centre have included exhibitions by Turner Prize winner Simon Starling, Paulina Olowska, Tacita Dean and Richard Wentworth.“The more I looked at a work that I was considering for the show – not necessarily textile based or straight-forward painting – the more the intricacy and the beauty of an artist discovering and realising what they are capable of on an intuitive level, came through. I am attracted to specific pieces that take the artist in a direction outside what is regarded as their signature style, things that even they may have overlooked or disregarded. There is an immediacy in many of these examples in which the hand of the artist is felt,&quot; Duro Olowu commented.Making &amp; Unmaking is on between June 19 - September 18.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://media.fashionmag.com/m/ef77/63d5/f4b8/c70a/006a/9bef/6a40/ebab/4946/f974/510x800/f974.jpg</main_image>
+</document>

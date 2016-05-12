@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.liverpoolecho.co.uk/rss.xml</forum>
+<forum_title>liverpoolecho - Home</forum_title>
+<discussion_title>96 Candles Burn Bright</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://hillsborough.liverpoolecho.co.uk</topic_url>
+<topic_text>
+96 Candles Burn Bright By Dan Kay 
+To the people who loved them, they were always more than just a number. And when the new Hillsborough inquests began, their families were finally able to share with the world warm and cherished memories of the 96 precious souls who had been taken from them in 1989: their lives, loves, passions, hopes and dreams. 
+After eleven profoundly moving days filled with painful tears and affectionate laughter, the Coroner addressed the jury, saying: “It’s been both very upsetting and yet uplifting, has it not?” while Michael Mansfield QC, representing families, suggested the tributes “provided a permanent testament to the dignity of the human spirit”. 
+As many courageously delivering the heartfelt tributes pointed out, no amount of words could truly do justice to those lost but we republish some of them here in respectful honour of their memory. 
+Rest In Peace. You’ll Never Walk Alone.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://hillsborough.liverpoolecho.co.uk</post_url>
+<post_date>20160425</post_date>
+<post_time>1822</post_time>
+<username>Dan Kay</username>
+<post>
+96 Candles Burn Bright By Dan Kay 
+To the people who loved them, they were always more than just a number. And when the new Hillsborough inquests began, their families were finally able to share with the world warm and cherished memories of the 96 precious souls who had been taken from them in 1989: their lives, loves, passions, hopes and dreams. 
+After eleven profoundly moving days filled with painful tears and affectionate laughter, the Coroner addressed the jury, saying: “It’s been both very upsetting and yet uplifting, has it not?” while Michael Mansfield QC, representing families, suggested the tributes “provided a permanent testament to the dignity of the human spirit”. 
+As many courageously delivering the heartfelt tributes pointed out, no amount of words could truly do justice to those lost but we republish some of them here in respectful honour of their memory. 
+Rest In Peace. You’ll Never Walk Alone.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>IE</country>
+<main_image>http://hillsborough.liverpoolecho.co.uk//media/vigil-banner-sky-b-lr.jpg</main_image>
+</document>

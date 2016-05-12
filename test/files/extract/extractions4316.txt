@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.replicaonline.ro/video/</forum>
+<forum_title>Video</forum_title>
+<discussion_title>Bombardamente în Siria. Cel puţin 19 morţi şi 120 de răniţi în Alep</discussion_title>
+<language>romanian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.replicaonline.ro/bombardamente-in-siria-cel-putin-19-morti-si-120-de-raniti-in-alep-272578/</topic_url>
+<topic_text>
+Bombardamente în Siria. Cel puţin 19 morţi şi 120 de răniţi în Alep
+Bombardamentele rebelilor din Alep, în cartierele unde se află reprezentanţi ai regimului sirian s-au soldat cu moartea a cel puţin 19 persoane şi rănirea a 120, informează OSDO (Observatorul Sirian pentru Drepturile Omului), citat de presa belgiană.
+Grupările rebele din Alep au tras cu obuze, luni, în mai multe cartiere controlate de regimul de la Damasc. Printre cei 19 morţi se află şi patru copii, a informat directorul OSDO, Rami Abdel Rahmane.
+Agenţia oficială de presă Sana a informat că au fost 16 morţi şi 86 de răniţi în urma &quot;tirurilor grupărilor teroriste ale Frontului Al-Nosra (ramura siriană a Al-Qaida) şi a aliaţilor acesteia.
+OSDO a mai informat că ziua de luni a fost cea mai sângeroasă, cu 23 de morţi. În total, de vineri şi până luni, 86 de civili şi-au pierdut viaţa în atacuri în acest oraş care este împărţit în două, din 2012, potrivit RTv.net .
+luni, 25 aprilie 2016 15
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.replicaonline.ro/bombardamente-in-siria-cel-putin-19-morti-si-120-de-raniti-in-alep-272578/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>replicaonline.ro</username>
+<post>
+Bombardamente în Siria. Cel puţin 19 morţi şi 120 de răniţi în Alep
+Bombardamentele rebelilor din Alep, în cartierele unde se află reprezentanţi ai regimului sirian s-au soldat cu moartea a cel puţin 19 persoane şi rănirea a 120, informează OSDO (Observatorul Sirian pentru Drepturile Omului), citat de presa belgiană.
+Grupările rebele din Alep au tras cu obuze, luni, în mai multe cartiere controlate de regimul de la Damasc. Printre cei 19 morţi se află şi patru copii, a informat directorul OSDO, Rami Abdel Rahmane.
+Agenţia oficială de presă Sana a informat că au fost 16 morţi şi 86 de răniţi în urma &quot;tirurilor grupărilor teroriste ale Frontului Al-Nosra (ramura siriană a Al-Qaida) şi a aliaţilor acesteia.
+OSDO a mai informat că ziua de luni a fost cea mai sângeroasă, cu 23 de morţi. În total, de vineri şi până luni, 86 de civili şi-au pierdut viaţa în atacuri în acest oraş care este împărţit în două, din 2012, potrivit RTv.net .
+luni, 25 aprilie 2016 15
+</post>
+<signature>
+
+</signature>
+<external_links>
+<external_link>http://www.romaniatv.net/bombardamente-in-siria-cel-putin-19-morti-si-120-de-raniti-in-urma-bombardamentelor-din-alep_288865.html</external_link>
+</external_links>
+<country>US</country>
+<main_image>http://www.replicaonline.ro/thu-272578.jpg</main_image>
+</document>

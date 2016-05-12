@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://seattletimes.com/rss/seattletimes.xml</forum>
+<forum_title>The Seattle Times The Seattle Times</forum_title>
+<discussion_title>New cast members announced for ‘Twin Peaks’ revival: Eddie Vedder, Naomi Watts, Laura Dern and more</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.seattletimes.com/entertainment/tv/new-cast-members-announced-for-twin-peaks-revival-eddie-vedder-naomi-watts-laura-dern-and-more/</topic_url>
+<topic_text>
+A full cast list was released today by Showtime for its much-buzzed “Twin Peaks” revival, directed by David Lynch and filmed partly in the Northwest .
+It’s a big list, and includes many names new to the “Twin Peaks” world. Among them: Eddie Vedder, Naomi Watts (who appeared in Lynch’s “Mulholland Drive”), Laura Dern (in Lynch’s “Blue Velvet,” opposite Kyle “Agent Dale Cooper” MacLachlan), Michael Cera, Monica Bellucci, Ernie Hudson, Tim Roth, Jennifer Jason Leigh and Amanda Seyfried. Returning cast members include MacLachlan, Grace Zabriskie, Russ Tamblyn, Harry Dean Stanton, Sherilyn Fenn, and Lynch himself — indicating that he’ll play a role, perhaps?
+Look closely and you’ll spot some local actors on the list, such as John Billingsley, Laura Kenny and Allen Galli. It’s a long list, and in keeping with the mysterious nature of the project, no details are given as to what characters these actors will be playing. Principal photography has been completed for the series, which is scheduled to air in 2017 “ on-air, on demand and over the internet .” As always, stay tuned.
+Moira Macdonald : mmacdonald@seattletimes.com ; on Twitter: @moiraverse . Moira Macdonald is the movie critic at The Seattle Times.  
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.seattletimes.com/entertainment/tv/new-cast-members-announced-for-twin-peaks-revival-eddie-vedder-naomi-watts-laura-dern-and-more/</post_url>
+<post_date>20160425</post_date>
+<post_time>1145</post_time>
+<username>Moira Macdonald</username>
+<post>
+A full cast list was released today by Showtime for its much-buzzed “Twin Peaks” revival, directed by David Lynch and filmed partly in the Northwest .
+It’s a big list, and includes many names new to the “Twin Peaks” world. Among them: Eddie Vedder, Naomi Watts (who appeared in Lynch’s “Mulholland Drive”), Laura Dern (in Lynch’s “Blue Velvet,” opposite Kyle “Agent Dale Cooper” MacLachlan), Michael Cera, Monica Bellucci, Ernie Hudson, Tim Roth, Jennifer Jason Leigh and Amanda Seyfried. Returning cast members include MacLachlan, Grace Zabriskie, Russ Tamblyn, Harry Dean Stanton, Sherilyn Fenn, and Lynch himself — indicating that he’ll play a role, perhaps?
+Look closely and you’ll spot some local actors on the list, such as John Billingsley, Laura Kenny and Allen Galli. It’s a long list, and in keeping with the mysterious nature of the project, no details are given as to what characters these actors will be playing. Principal photography has been completed for the series, which is scheduled to air in 2017 “ on-air, on demand and over the internet .” As always, stay tuned.
+Moira Macdonald : mmacdonald@seattletimes.com ; on Twitter: @moiraverse . Moira Macdonald is the movie critic at The Seattle Times.  
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://static.seattletimes.com/wp-content/uploads/2016/01/3a5a5bc4-b987-11e5-bd0d-79a5d41852f6-1560x1174.jpg</main_image>
+</document>

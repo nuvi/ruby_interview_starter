@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.bignewsnetwork.com/index.php/nav/rss/71df8d33cd2a30df</forum>
+<forum_title>Latest Big News Network RSS Feeds</forum_title>
+<discussion_title>Engineering Graduates Wait Up To 1 Year To Find Work</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.bignewsnetwork.com/news/243476027/engineering-graduates-wait-up-to-1-year-to-find-work</topic_url>
+<topic_text>
+HuffPost Canada Monday 25th April, 2016 He came to Calgary to look for work after finishing classes at Halifax&apos;s Dalhousie University in December, hoping to find something in Alberta&apos;s oilsands with his co-op work experience at Syncrude last summer. But postings are slim, and he hasn&apos;t heard anything back after applying for 50 or so jobs in recent weeks.&quot;I&apos;m applying everywhere, but I haven&apos;t heard back from anybody yet, not even an email that says: &apos;Sorry, this position has been filled,&apos;&apos;&apos; said Hashem. &quot;That&apos;s very frustrating.&apos;&apos; ...
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.bignewsnetwork.com/news/243476027/engineering-graduates-wait-up-to-1-year-to-find-work</post_url>
+<post_date>20160425</post_date>
+<post_time>0733</post_time>
+<username></username>
+<post>
+HuffPost Canada Monday 25th April, 2016 He came to Calgary to look for work after finishing classes at Halifax&apos;s Dalhousie University in December, hoping to find something in Alberta&apos;s oilsands with his co-op work experience at Syncrude last summer. But postings are slim, and he hasn&apos;t heard anything back after applying for 50 or so jobs in recent weeks.&quot;I&apos;m applying everywhere, but I haven&apos;t heard back from anybody yet, not even an email that says: &apos;Sorry, this position has been filled,&apos;&apos;&apos; said Hashem. &quot;That&apos;s very frustrating.&apos;&apos; ...
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www.bignewsnetwork.com/images/big-news-network-slogan.jpg</main_image>
+</document>

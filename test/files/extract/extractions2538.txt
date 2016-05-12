@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://chimbotenlinea.com/rss.xml</forum>
+<forum_title>Chimbotenlinea.com</forum_title>
+<discussion_title>Invasiones en Nuevo Chimbote ya llegan al peaje de Besique y las autoridades no se pronuncian</discussion_title>
+<language>spanish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://chimbotenlinea.com/nuevo-chimbote/25/04/2016/invasiones-en-nuevo-chimbote-ya-llegan-al-peaje-de-besique-y-las</topic_url>
+<topic_text>
+Invasiones en Nuevo Chimbote ya llegan al peaje de Besique y las autoridades no se pronuncian Lunes, 25 Abril 2016 - 1:41pm Comentar Chimbote en Línea .- El juez de Paz de Los Cedros, Armando Caballero Magán, denunció que siguen apareciendo más invasiones en la zona sur de Nuevo Chimbote, incluso dijo que algunas están llegando al peaje de Besique y otras a la vía de acceso al campamento Atahualpa. “En los últimos meses han aparecido cuatro invasiones, están ocupando más de las 308 hectáreas del proyecto especial Chinecas, incluso hay una invasión a 400 metros del peaje y otra frente a la vía de acceso al Campamento Atahualpa”, declaró. Caballero hizo un llamado a los alcaldes Julio Cortez Rojas de la provincia del Santa y Valentín Fernández Bazán de Nuevo Chimbote para que se pronuncien sobre el tráfico de terrenos y las invasiones en dicho distrito. “Necesitamos que los alcaldes así como piden 45 días más de estado de emergencia sean firmes en decir que no se entregará títulos de propiedad y constancia de posesión a los invasores, tal vez eso frene este grave problema social. Chinecas está en peligro, están invadiendo más de sus 308 hectáreas, hay ranchos instalados en sus zonas de uso exclusivo para la agricultura”, remarcó. El juez de Paz informó que en las nuevas invasiones han cercado terrenos de 500 y 1,000 metros cuadrados y constató también que varias personas están apropiándose de 10 supuestos lotes, “eso evidencia del tráfico de terrenos, la fiscalía debe de oficio iniciar una investigación al respecto”, refirió. Finalmente cuestionó que Valentín Fernández desde el 2005 haya entregado constancias de posesión a invasores en Nuevo Chimbote “cuando no es su facultad, sino de la comuna provincial del Santa”, agregó. (Redacción Central) Comentarios
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://chimbotenlinea.com/nuevo-chimbote/25/04/2016/invasiones-en-nuevo-chimbote-ya-llegan-al-peaje-de-besique-y-las</post_url>
+<post_date>20160425</post_date>
+<post_time>1841</post_time>
+<username>Lindberg.cruzado</username>
+<post>
+Invasiones en Nuevo Chimbote ya llegan al peaje de Besique y las autoridades no se pronuncian Lunes, 25 Abril 2016 - 1:41pm Comentar Chimbote en Línea .- El juez de Paz de Los Cedros, Armando Caballero Magán, denunció que siguen apareciendo más invasiones en la zona sur de Nuevo Chimbote, incluso dijo que algunas están llegando al peaje de Besique y otras a la vía de acceso al campamento Atahualpa. “En los últimos meses han aparecido cuatro invasiones, están ocupando más de las 308 hectáreas del proyecto especial Chinecas, incluso hay una invasión a 400 metros del peaje y otra frente a la vía de acceso al Campamento Atahualpa”, declaró. Caballero hizo un llamado a los alcaldes Julio Cortez Rojas de la provincia del Santa y Valentín Fernández Bazán de Nuevo Chimbote para que se pronuncien sobre el tráfico de terrenos y las invasiones en dicho distrito. “Necesitamos que los alcaldes así como piden 45 días más de estado de emergencia sean firmes en decir que no se entregará títulos de propiedad y constancia de posesión a los invasores, tal vez eso frene este grave problema social. Chinecas está en peligro, están invadiendo más de sus 308 hectáreas, hay ranchos instalados en sus zonas de uso exclusivo para la agricultura”, remarcó. El juez de Paz informó que en las nuevas invasiones han cercado terrenos de 500 y 1,000 metros cuadrados y constató también que varias personas están apropiándose de 10 supuestos lotes, “eso evidencia del tráfico de terrenos, la fiscalía debe de oficio iniciar una investigación al respecto”, refirió. Finalmente cuestionó que Valentín Fernández desde el 2005 haya entregado constancias de posesión a invasores en Nuevo Chimbote “cuando no es su facultad, sino de la comuna provincial del Santa”, agregó. (Redacción Central) Comentarios
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

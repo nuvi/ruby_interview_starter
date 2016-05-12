@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://newsok.com//rss/home</forum>
+<forum_title>NewsOK.com RSS - home</forum_title>
+<discussion_title>Why Merriam-Webster Finally Added &apos;Genderqueer&apos; and &apos;Transphobia&apos; to the Dictionary</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://newsok.com/why-merriam-webster-finally-added-genderqueer-and-transphobia-to-the-dictionary/article/5494045</topic_url>
+<topic_text>
+Updated: 9 seconds ago 0 shares A participant attends the fourth Delhi Queer Pride parade, an event promoting gay, lesbian, bisexual and transgender rights in New Delhi November 27, 2011. Hundreds of participants on Sunday took part in a parade seeking the Indian government to end discrimination against their community, participants said. REUTERS/Adnan Abidi (INDIA - Tags: SOCIETY) - RTR2UJKQ - See this story on www.theatlantic.com 
+Last week, Merriam-Webster added a handful of new words to its unabridged dictionary as part of a routine update. Although April’s additions weren’t all related to sexuality and gender, a number of them might have been pulled from a Women and Gender Studies textbook: transphobia, nonbinary, cis, cisgender, genderqueer, gender reassignment, gender-fluid. The word Mx., an honorific sometimes preferred in lieu of Mr. or Mrs., also made the list. 
+What’s distinctive about these words—more so than some of this year’s other entries, such as Bitcoin and cold case—is that they describe somewhat controversial ideas about the essential nature of gender and sexuality. “We have the North Carolina bathroom bill in the news, and Caitlyn Jenner’s story was such a big part of the national conversation,” said Peter Sokolowski, the editor at large of Merriam-Webster. To the Mississippi legislature—which recently passed a bill which defines “man” and “woman” as “an individual’s immutable biological sex as objectively determined by anatomy and genetics at time of birth”—genderqueer and gender-fluid may not seem like valid concepts that describe the world as they see it. With baritone pronunciation guides and carefully crafted definitions, Merriam Webster has stepped into the middle of America’s culture war. 
+This is the delicate job of the lexicographer: to watch culture and decide when its words are worth recording. Sometimes, that includes words that describe controversial ideas. “The dictionary is not a political document,” Sokolowski said. With these new gender-related words, “we’re not defining what a person is. We’re defining what the label used to refer to that person is. We’re describing the word and how it’s used in the language.” Because gender and sexuality have been the subject of Supreme Court decisions and Amazon specials in the last several years, newspapers and magazines have been using gender-and-sexuality words more frequently. “That’s the gold standard of lexicography: If a word is likely to be encountered by an adult, it’s time for that word to go into the dictionary,” Sokolowski said.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://newsok.com/why-merriam-webster-finally-added-genderqueer-and-transphobia-to-the-dictionary/article/5494045</post_url>
+<post_date>20160425</post_date>
+<post_time>1841</post_time>
+<username></username>
+<post>
+Updated: 9 seconds ago 0 shares A participant attends the fourth Delhi Queer Pride parade, an event promoting gay, lesbian, bisexual and transgender rights in New Delhi November 27, 2011. Hundreds of participants on Sunday took part in a parade seeking the Indian government to end discrimination against their community, participants said. REUTERS/Adnan Abidi (INDIA - Tags: SOCIETY) - RTR2UJKQ - See this story on www.theatlantic.com 
+Last week, Merriam-Webster added a handful of new words to its unabridged dictionary as part of a routine update. Although April’s additions weren’t all related to sexuality and gender, a number of them might have been pulled from a Women and Gender Studies textbook: transphobia, nonbinary, cis, cisgender, genderqueer, gender reassignment, gender-fluid. The word Mx., an honorific sometimes preferred in lieu of Mr. or Mrs., also made the list. 
+What’s distinctive about these words—more so than some of this year’s other entries, such as Bitcoin and cold case—is that they describe somewhat controversial ideas about the essential nature of gender and sexuality. “We have the North Carolina bathroom bill in the news, and Caitlyn Jenner’s story was such a big part of the national conversation,” said Peter Sokolowski, the editor at large of Merriam-Webster. To the Mississippi legislature—which recently passed a bill which defines “man” and “woman” as “an individual’s immutable biological sex as objectively determined by anatomy and genetics at time of birth”—genderqueer and gender-fluid may not seem like valid concepts that describe the world as they see it. With baritone pronunciation guides and carefully crafted definitions, Merriam Webster has stepped into the middle of America’s culture war. 
+This is the delicate job of the lexicographer: to watch culture and decide when its words are worth recording. Sometimes, that includes words that describe controversial ideas. “The dictionary is not a political document,” Sokolowski said. With these new gender-related words, “we’re not defining what a person is. We’re defining what the label used to refer to that person is. We’re describing the word and how it’s used in the language.” Because gender and sexuality have been the subject of Supreme Court decisions and Amazon specials in the last several years, newspapers and magazines have been using gender-and-sexuality words more frequently. “That’s the gold standard of lexicography: If a word is likely to be encountered by an adult, it’s time for that word to go into the dictionary,” Sokolowski said.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://cdn2.newsok.biz/cache/r960-5d1a1270da357f10299a22c6da2e8ff2.jpg</main_image>
+</document>
