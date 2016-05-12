@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'zip'
 class UnzipFile
     
@@ -8,24 +9,23 @@ class UnzipFile
     
     def init
         # sets location and destination
-        @zip_location = 'ruby_interview_starter/test/files/new.zip'
-        @unzip_dest = 'ruby_interview_starter/test/files/extract'
+        @zip_location = "test/files/new.zip"
+        @unzip_dest = 'test/files/extract'
+        
     end
         
     def run
         # for each file in the location extract
-        Zip::File.open(@zip_location) do |zip_file|
+        Zip::File.open("test/files/news.zip") do |zip_file|            
             zip_file.each do |entry|
                 puts "Extracting #{entry.name}"
-                entry.extract(@unzip_dest)
-                #read through an IS
-                content = entry.get_input_stream.read
+                entry.extract('test/files/extract' + entry.name)
             end
-            
-            #extension .csv
-            entry = zip_file.glob('*.csv').first
-            puts entry.get_input_stream.read
+
+            puts "Completed!"
         end
-    
     end
 end
+
+ye_olde_unzip = UnzipFile.new
+ye_olde_unzip.run
