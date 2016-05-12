@@ -19,7 +19,7 @@ class UnzipFile
         Zip::File.open("test/files/news.zip") do |zip_file|            
             zip_file.each do |entry|
                 puts "Extracting #{entry.name}"
-                entry.extract('test/files/extract' + entry.name)
+                entry.extract('test/files/extract/' + entry.name)
             end
 
             puts "Completed!"
