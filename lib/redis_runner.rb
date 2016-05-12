@@ -7,4 +7,5 @@ require 'nuvi_redis_pusher'
 srcdir = 'test/files'
 workdir = 'test/files/extract'
 
-NuviRedisPusher.process_job(srcdir, workdir)
+redis_pusher = NuviRedisPusher.new
+redis_pusher.process_job(srcdir, workdir)

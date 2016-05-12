@@ -7,4 +7,5 @@ require 'nuvi_downloader'
 destdir = 'test/files/downloads'
 url = 'http://bitly.com/nuvi-plz'
 
-NuviDownloader.download_files(url, destdir)
+downloader = NuviDownloader.new
+downloader.download_files(url, destdir)
