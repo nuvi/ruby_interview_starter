@@ -13,7 +13,7 @@ module DataManipulator
       site = agent.get(url)
       links = site.links
       links.each_with_index do |l, i|
-        if i >= 5
+        if i >= 5 && i <= 20
           if i%5 == 0
             puts 'still downloading'
           end
