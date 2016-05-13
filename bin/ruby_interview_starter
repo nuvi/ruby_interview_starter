@@ -1,13 +1,27 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+require './lib/ruby_interview_starter'
 require 'thor'
 
 module RubyInterviewStarter
+  include DataManipulator
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
-      puts "This is the Ruby Interview Starter command line script"
+      directory = 'test/files/downloads'
+        DataManipulator::FileManager.download('http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/', directory)
+      dir = Dir.open(directory)
+      # binding.pry
+      destination = 'test/files/extract'
+      dir.each do |file|
+        extension = file.split('.').last
+        if extension == 'zip'
+          # binding.pry
+          DataManipulator::FileManager.unzip("#{directory}/#{file}", destination)
+        end
+      end
+      # binding.pry
+      DataManipulator::FileManager.redis_loader(destination)
     end
   end
 end
