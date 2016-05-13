@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>SimpliVity 3-2-1 Backups » vHersey - VCDX Two to the Seventh Power (#128)</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.vhersey.com/2016/04/simplivity-3-2-1-backups/</topic_url>
+<topic_text>
+by vHersey 
+The SimpliVity Data Virtualization Platform (DVP) provides native data protection including policy based backup, replication, and recovery. The backup policy engine and the backup catalog are part of the SimpliVity DVP. We are able to easily provide a data protection solution which aligns with a traditional and proven 3-2-1 Backup Strategy: 3 copies, 2 independent media sets, and 1 off-site copy.​ 
+Here is an example of a simple SimpliVity backup policy: In this policy there are two rules: the first rule creates a backup every 4 hours, retains the backup for 7 days, and stores the backup in the Raleigh Datacenter; the second rule creates a backup every 4 hours, retains the backup for 14 days, and stores the backup in the Tampa Datacenter. Each SimpliVity backup policy can be configured with up to 16 rules. So if we also wanted to take a backup every Sunday which we retain for 1 year, we can simply create another rule. If we want to replicate a monthly backup to another datacenter which we retain for 7 years, just create another rule. Backup policies are VM-centric, this allows for a policy to be applied directly to a VM based on that VM’s RPO. 
+So what happens when we take a SimpliVity backup and how can we claim to follow the 3-2-1 strategy? The SimpliVity Data Virtualization Platform (DVP) which is comprised of the SimpliVity File System and Object Store (SVTFS) enables the efficient storage and protection of data by deduplicating, compressing, and optimizing all data, at inception, once and forever, across all tiers, and across all sites. A deeper dive into the SVTFS and how it deduplicates and protects data can be found in Ron Singler’s ( @rsingler_ ) post Deduplication, You Must Unlearn What you Have Learned (Definitely worth a read). 
+First things first, SimpliVity backups are NOT snapshots. A snapshot has some dependency on the original. Snapshots are deltas of the original and maintain a dependency on the original, when the original VM is deleted the snapshots are useless for recovery. A SimpliVity backup of a VM is a full, completely independent (independent is the keyword here and one which will be repeated often throughout this post), copy of the references to data stored on disk (the VM’s metadata – this metadata is an abstraction of the physical dataset – again unlearn what you have learned ). The physical data set is protected within the node and across nodes within the same logical datacenter. Data which is needed for a virtual machine is not removed from a datacenter until all references to the data are removed, this includes the primary and any backups. 
+A properly designed SimpliVity Federation can easily have 3 or more independent copies of data across independent sets of media. A backup can be stored on 2 or more separate standalone independent disk subsystems, managed by separate independent controllers, with separate independent metadata indexes, across multiple sites. 
+Here is a simple example of a SimpliVity Federation comprised of two datacenters: 
+When we take a local backup (manual or policy based) of VM2 in the Primary Datacenter we create a full independent copy of the object across two independent nodes in the datacenter. The data for the VM already exist in the physical dataset so we do not need to recreate any of the data for the point-in-time in which we take the backup. No IO or capacity is consumed but we do have 2 independent, point-in-time copies, of the data across two nodes in the Primary Datacenter. 
+When we backup VM2 and replicate the backup to the Remote Datacenter, the same process happens. A point-in-time independent copy of the VM’s metadata is transferred to the Remote Datacenter. The SimpliVity DVP is globally aware of all data in the environment and only the unique data required for the backup is transferred between the sites (In this case VM2 requires blocks B and C, the remote site already has block C so only block B is transferred). That data is protected within the node at the Remote Datacenter and if the Remote Datacenter has multiple SimpliVity nodes the data is protected across nodes. 
+We now have two copies of the backup in the Production Datacenter and one copy of the backup in the Remote Datacenter. The VM is independently protected across two nodes in the Primary Datacenter with an independent offsite backup in the Remote Datacenter. 
+So what happens when we have to restore a VM? 
+The process is very similar to a backup, we create an independent copy from the backup and present it up through the DVP, to the datastore, and into the hypervisor inventory as a virtual machine. Since the restore is also an independent copy the original point-in-time independent backup is not modified. 
+Delete the source VM and we can quickly restore it from a local backup. Delete the source VM and have a node failure at the same time, we can still quickly restore the VM from a local backup. Delete the source VM and have the entire site fail, we can quickly restore the VM to the remote site. 
+Three independent copies of the virtual machine, across more than 2 independent media sets, with one independent copy stored off-site. 
+Any of these can be easily and quickly restored. 
+SimpliVity 3, 2, 1 Backups. 
+Want more info on SimpliVity Backups? Check out Brian’s ( @bknudtson ) post When Is A Backup Not A Backup (And When Is It) . Related Posts: 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.vhersey.com/2016/04/simplivity-3-2-1-backups/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+by vHersey 
+The SimpliVity Data Virtualization Platform (DVP) provides native data protection including policy based backup, replication, and recovery. The backup policy engine and the backup catalog are part of the SimpliVity DVP. We are able to easily provide a data protection solution which aligns with a traditional and proven 3-2-1 Backup Strategy: 3 copies, 2 independent media sets, and 1 off-site copy.​ 
+Here is an example of a simple SimpliVity backup policy: In this policy there are two rules: the first rule creates a backup every 4 hours, retains the backup for 7 days, and stores the backup in the Raleigh Datacenter; the second rule creates a backup every 4 hours, retains the backup for 14 days, and stores the backup in the Tampa Datacenter. Each SimpliVity backup policy can be configured with up to 16 rules. So if we also wanted to take a backup every Sunday which we retain for 1 year, we can simply create another rule. If we want to replicate a monthly backup to another datacenter which we retain for 7 years, just create another rule. Backup policies are VM-centric, this allows for a policy to be applied directly to a VM based on that VM’s RPO. 
+So what happens when we take a SimpliVity backup and how can we claim to follow the 3-2-1 strategy? The SimpliVity Data Virtualization Platform (DVP) which is comprised of the SimpliVity File System and Object Store (SVTFS) enables the efficient storage and protection of data by deduplicating, compressing, and optimizing all data, at inception, once and forever, across all tiers, and across all sites. A deeper dive into the SVTFS and how it deduplicates and protects data can be found in Ron Singler’s ( @rsingler_ ) post Deduplication, You Must Unlearn What you Have Learned (Definitely worth a read). 
+First things first, SimpliVity backups are NOT snapshots. A snapshot has some dependency on the original. Snapshots are deltas of the original and maintain a dependency on the original, when the original VM is deleted the snapshots are useless for recovery. A SimpliVity backup of a VM is a full, completely independent (independent is the keyword here and one which will be repeated often throughout this post), copy of the references to data stored on disk (the VM’s metadata – this metadata is an abstraction of the physical dataset – again unlearn what you have learned ). The physical data set is protected within the node and across nodes within the same logical datacenter. Data which is needed for a virtual machine is not removed from a datacenter until all references to the data are removed, this includes the primary and any backups. 
+A properly designed SimpliVity Federation can easily have 3 or more independent copies of data across independent sets of media. A backup can be stored on 2 or more separate standalone independent disk subsystems, managed by separate independent controllers, with separate independent metadata indexes, across multiple sites. 
+Here is a simple example of a SimpliVity Federation comprised of two datacenters: 
+When we take a local backup (manual or policy based) of VM2 in the Primary Datacenter we create a full independent copy of the object across two independent nodes in the datacenter. The data for the VM already exist in the physical dataset so we do not need to recreate any of the data for the point-in-time in which we take the backup. No IO or capacity is consumed but we do have 2 independent, point-in-time copies, of the data across two nodes in the Primary Datacenter. 
+When we backup VM2 and replicate the backup to the Remote Datacenter, the same process happens. A point-in-time independent copy of the VM’s metadata is transferred to the Remote Datacenter. The SimpliVity DVP is globally aware of all data in the environment and only the unique data required for the backup is transferred between the sites (In this case VM2 requires blocks B and C, the remote site already has block C so only block B is transferred). That data is protected within the node at the Remote Datacenter and if the Remote Datacenter has multiple SimpliVity nodes the data is protected across nodes. 
+We now have two copies of the backup in the Production Datacenter and one copy of the backup in the Remote Datacenter. The VM is independently protected across two nodes in the Primary Datacenter with an independent offsite backup in the Remote Datacenter. 
+So what happens when we have to restore a VM? 
+The process is very similar to a backup, we create an independent copy from the backup and present it up through the DVP, to the datastore, and into the hypervisor inventory as a virtual machine. Since the restore is also an independent copy the original point-in-time independent backup is not modified. 
+Delete the source VM and we can quickly restore it from a local backup. Delete the source VM and have a node failure at the same time, we can still quickly restore the VM from a local backup. Delete the source VM and have the entire site fail, we can quickly restore the VM to the remote site. 
+Three independent copies of the virtual machine, across more than 2 independent media sets, with one independent copy stored off-site. 
+Any of these can be easily and quickly restored. 
+SimpliVity 3, 2, 1 Backups. 
+Want more info on SimpliVity Backups? Check out Brian’s ( @bknudtson ) post When Is A Backup Not A Backup (And When Is It) . Related Posts: 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>
