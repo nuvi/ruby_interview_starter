@@ -6,22 +6,24 @@ class UnzipFile
     
     
     
-    def init
+    def initialize
         # sets location and destination
-        @zip_location = "test/files/new.zip"
-        @unzip_dest = 'test/files/extract'
+        @zip_location = "test/files/downloads/"
+        @unzip_dest = 'test/files/extract/'
         
     end
         
     def run
         # for each file in the location extract
-        Zip::File.open("test/files/news.zip") do |zip_file|            
-            zip_file.each do |entry|
-                puts "Extracting #{entry.name}"
-                entry.extract('test/files/extract/' + entry.name)
-            end
+        Dir.glob(@zip_location + '*.xml').each do |files|
+            Zip::File.open(@zip_location + files) do |zip_file|            
+                zip_file.each do |entry|
+                    puts "Extracting #{entry.name}"
+                    entry.extract(@unzip_dest + entry.name)
+                end
 
-            puts "Completed!"
+                puts "Completed!"
+            end
         end
     end
 end
