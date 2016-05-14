@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>TI Especialistas Os pilares de um datacenter moderno -</discussion_title>
+<language>portuguese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.tiespecialistas.com.br/2016/04/os-pilares-de-um-datacenter-moderno/</topic_url>
+<topic_text>
+Os pilares de um datacenter moderno publicado por Marcio Sanchiro 
+Para desempenhar todo o potencial de uma empresa digital, as organizações de TI precisam modernizar, automatizar sua infraestrutura e transformar a operação de seu datacenter em um ambiente de nuvem que conte com autoatendimento. 
+Mas que infraestrutura deve servir de base para esse novo ambiente de nuvem? 
+A má notícia é que a jornada para o universo digital quebra com todas as infraestruturas tradicionais que estão em uso nos últimos 15 ou 20 anos. A boa notícia é que uma rápida mudança pode capacitar as empresas a otimizarem a TI existente e os investimentos anteriores, a fim de liberar recursos da próxima geração de TI que transformarão os negócios. Vemos essas novas tecnologias como pilares do datacenter moderno. 
+Então, quais são os pilares do datacenter moderno? 
+Os meios de armazenamento estão mudando. O Flash – ou, em última análise, seu conceito de memória persistente – será o veículo dominante para armazenar dados. Por quê? Porque possibilita o desempenho exigido pelos aplicativos de última geração e, ao mesmo tempo, fornece aos aplicativos tradicionais um desempenho melhor e com mais economia do que o oferecido pelo disco. 
+A arquitetura de muitos dos sistemas do datacenter moderno será em scale-out (crescimento horizontal) por natureza. Essa plataforma é necessária porque todas as empresas lidarão com clientes que gerarão um volume de dados, em ordem de grandeza, três vezes maior. O scale-out permite que a TI gerencie com eficiência enormes volumes com poucos recursos, de uma forma que os sistemas de scale-up (crescimento vertical) não conseguem. 
+Muitas organizações vão abraçar a ideia de implantar um datacenter definido por software . Mesmo em um hardware comum, um produto definido por software oferece a economia necessária para trabalhar com enormes volumes de dados. Desta forma, os clientes terão mil vezes mais dados, mas não terão um orçamento mil vezes maior. 
+O novo modelo definido por software também automatiza a configuração e implementação dos serviços de TI, proporcionando mais agilidade à empresa e uma abordagem mais rápida e flexível para gerir os serviços de dados. 
+Também é crucial que a infraestrutura do datacenter tradicional seja habilitada para nuvem. Por quê? Para que um datacenter instalado na empresa possa tirar proveito da mesma economia de escala da nuvem pública. 
+Todos esses pilares são integrados a um sólido alicerce de confiança, o que significa que eles precisam ser seguros, altamente disponíveis e com um suporte de nível mundial, pois, no final das contas, este também será o fundamento da marca de cada empresa, uma vez que os negócios inevitavelmente se tornarão on-line. 
+Se uma empresa quer funcionar com a agilidade, a velocidade e a eficiência exigidas pela era digital, sua organização de TI precisa ter um datacenter baseado em tecnologias que estejam à altura dessa missão. 
+Sobre a EMC 
+A EMC Corporation é líder global na capacitação de provedores de serviços e empresas em geral no sentido de transformar suas operações e oferecer TI como serviço. A computação em nuvem é essencial para essa transformação. Com produtos e serviços inovadores, a EMC acelera a jornada rumo à computação em nuvem, ajudando os departamentos de TI a armazenar, gerenciar, proteger e analisar seu bem mais valioso — a informação — com mais rapidez, confiabilidade e economia. Os pilares de um datacenter moderno was last modified: abril 25th, 2016 by Marcio Sanchiro Artigos Relacionados Autor 
+Marcio Sanchiro é gerente sênior especialista de Cloud, Storage &amp; Application para o Brasil &amp; SOLA da EMC Marcio Sanchiro 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.tiespecialistas.com.br/2016/04/os-pilares-de-um-datacenter-moderno/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Marcio Sanchiro</username>
+<post>
+Os pilares de um datacenter moderno publicado por Marcio Sanchiro 
+Para desempenhar todo o potencial de uma empresa digital, as organizações de TI precisam modernizar, automatizar sua infraestrutura e transformar a operação de seu datacenter em um ambiente de nuvem que conte com autoatendimento. 
+Mas que infraestrutura deve servir de base para esse novo ambiente de nuvem? 
+A má notícia é que a jornada para o universo digital quebra com todas as infraestruturas tradicionais que estão em uso nos últimos 15 ou 20 anos. A boa notícia é que uma rápida mudança pode capacitar as empresas a otimizarem a TI existente e os investimentos anteriores, a fim de liberar recursos da próxima geração de TI que transformarão os negócios. Vemos essas novas tecnologias como pilares do datacenter moderno. 
+Então, quais são os pilares do datacenter moderno? 
+Os meios de armazenamento estão mudando. O Flash – ou, em última análise, seu conceito de memória persistente – será o veículo dominante para armazenar dados. Por quê? Porque possibilita o desempenho exigido pelos aplicativos de última geração e, ao mesmo tempo, fornece aos aplicativos tradicionais um desempenho melhor e com mais economia do que o oferecido pelo disco. 
+A arquitetura de muitos dos sistemas do datacenter moderno será em scale-out (crescimento horizontal) por natureza. Essa plataforma é necessária porque todas as empresas lidarão com clientes que gerarão um volume de dados, em ordem de grandeza, três vezes maior. O scale-out permite que a TI gerencie com eficiência enormes volumes com poucos recursos, de uma forma que os sistemas de scale-up (crescimento vertical) não conseguem. 
+Muitas organizações vão abraçar a ideia de implantar um datacenter definido por software . Mesmo em um hardware comum, um produto definido por software oferece a economia necessária para trabalhar com enormes volumes de dados. Desta forma, os clientes terão mil vezes mais dados, mas não terão um orçamento mil vezes maior. 
+O novo modelo definido por software também automatiza a configuração e implementação dos serviços de TI, proporcionando mais agilidade à empresa e uma abordagem mais rápida e flexível para gerir os serviços de dados. 
+Também é crucial que a infraestrutura do datacenter tradicional seja habilitada para nuvem. Por quê? Para que um datacenter instalado na empresa possa tirar proveito da mesma economia de escala da nuvem pública. 
+Todos esses pilares são integrados a um sólido alicerce de confiança, o que significa que eles precisam ser seguros, altamente disponíveis e com um suporte de nível mundial, pois, no final das contas, este também será o fundamento da marca de cada empresa, uma vez que os negócios inevitavelmente se tornarão on-line. 
+Se uma empresa quer funcionar com a agilidade, a velocidade e a eficiência exigidas pela era digital, sua organização de TI precisa ter um datacenter baseado em tecnologias que estejam à altura dessa missão. 
+Sobre a EMC 
+A EMC Corporation é líder global na capacitação de provedores de serviços e empresas em geral no sentido de transformar suas operações e oferecer TI como serviço. A computação em nuvem é essencial para essa transformação. Com produtos e serviços inovadores, a EMC acelera a jornada rumo à computação em nuvem, ajudando os departamentos de TI a armazenar, gerenciar, proteger e analisar seu bem mais valioso — a informação — com mais rapidez, confiabilidade e economia. Os pilares de um datacenter moderno was last modified: abril 25th, 2016 by Marcio Sanchiro Artigos Relacionados Autor 
+Marcio Sanchiro é gerente sênior especialista de Cloud, Storage &amp; Application para o Brasil &amp; SOLA da EMC Marcio Sanchiro 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://imagens.tiespecialistas.com.br/2016/04/datacenter.jpg?ver=1460058327</main_image>
+</document>

@@ -1,13 +1,30 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+require './../lib/ruby_interview_starter'
+
 require 'thor'
+
+
+require './../lib/ruby_interview_starter/unzip'
+require './../lib/ruby_interview_starter/download'
+require './../lib/ruby_interview_starter/push_to_redis'
+
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+  	  
+      program = DownloadFromBitly.new 
+  	  program.download   
+  	  
+      program = UnzipFile.new
+  	  program.run
+      
+      program = RedisEntry.new
+      program.push_to_redis
+    
     end
   end
 end
