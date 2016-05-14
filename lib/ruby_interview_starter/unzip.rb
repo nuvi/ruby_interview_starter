@@ -1,10 +1,6 @@
 require 'rubygems'
 require 'zip'
-class UnzipFile
-    
-    #having problems with cloud9's file system so this is theoretically correct but I havn't been able to debug it
-    
-    
+class UnzipFile    
     
     def initialize
         # sets location and destination
@@ -16,6 +12,7 @@ class UnzipFile
     def run
         # for each file in the location extract
         Dir.glob(@zip_location + '*.zip').each do |files|
+            # extracts each file from the zip folder
             Zip::File.open(@zip_location + files) do |zip_file|            
                 zip_file.each do |entry|
                     puts "Extracting #{entry.name}"

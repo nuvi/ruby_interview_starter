@@ -9,12 +9,14 @@ class RedisEntry
 	end
 
 	def push_to_redis
+		# find all .xml files in /extract
 		Dir.glob(@path + '*.xml') do |item|
+			#read the file and push it to the queue on Redis
 			content = File.read(item)
 			@redis.lpush('xml_files', content)
 		end
-		puts @redis.lindex('xml_files', 0)
-		puts @redis.lindex('xml files', 0)
+
+		puts "Files uploaded to Redis"
 	end
 end
 

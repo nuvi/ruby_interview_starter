@@ -15,12 +15,16 @@ module RubyInterviewStarter
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
-  	  program = DownloadFromBitly.new 
+  	  
+      program = DownloadFromBitly.new 
   	  program.download   
-  	  program = UnzipFile.new
+  	  
+      program = UnzipFile.new
   	  program.run
+      
       program = RedisEntry.new
       program.push_to_redis
+    
     end
   end
 end
