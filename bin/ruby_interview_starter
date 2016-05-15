@@ -8,6 +8,11 @@ module RubyInterviewStarter
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+      url_files = RubyInterviewStarter::DownloadFiles.new
+      url_files.scrape
+
+      files = RubyInterviewStarter::ReadFiles.new
+      files.queue
     end
   end
 end

@@ -72,8 +72,8 @@ end
 # zipped_files = RubyInterviewStarter::GetThoseFiles.new
 # zipped_files.unzip('test/files/news.zip', 'test/files/extract')
 
-url_files = RubyInterviewStarter::DownloadFiles.new
-url_files.scrape
-
-files = RubyInterviewStarter::ReadFiles.new
-files.queue
+# url_files = RubyInterviewStarter::DownloadFiles.new
+# url_files.scrape
+#
+# files = RubyInterviewStarter::ReadFiles.new
+# files.queue
