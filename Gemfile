@@ -4,3 +4,4 @@ source 'https://rubygems.org'
 gemspec
 gem 'rubyzip'
 gem 'mechanize'
+gem 'redis', '~>3.2'
