@@ -27,7 +27,7 @@ module RubyInterviewStarter
       agent = Mechanize.new
       agent.pluggable_parser.default = Mechanize::Download
       page = agent.get('http://bitly.com/nuvi-plz')
-      # iterations = 10
+      # iterations = 4
       page.links.each do |link|
         next unless /\.zip$/ =~ link.text
         # download files to test/files/downloads (deleted them after I knew it was working so I didn't push them to GitHub)
@@ -72,8 +72,8 @@ end
 # zipped_files = RubyInterviewStarter::GetThoseFiles.new
 # zipped_files.unzip('test/files/news.zip', 'test/files/extract')
 
-# url_files = RubyInterviewStarter::DownloadFiles.new
-# url_files.scrape
+url_files = RubyInterviewStarter::DownloadFiles.new
+url_files.scrape
 
 files = RubyInterviewStarter::ReadFiles.new
 files.queue

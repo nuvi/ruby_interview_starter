@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+require './lib/ruby_interview_starter'
 require 'thor'
 
 module RubyInterviewStarter
