@@ -1,10 +1,11 @@
 require 'rubygems'
 require 'zip'
-
+require 'redis'
 
 class Fly
   def initialize(input_dir)
     @input_dir = input_dir
+    @redis = Redis.new
     make_directory
   end
 
@@ -20,9 +21,9 @@ class Fly
         zip.extract(input_path)
       end  
     end  
-  end  
+  end 
 end
 
-fly = Fly.new('test/files/extract')
+# fly = Fly.new('test/files/extract')
 
-fly.unzip('test/files/news.zip')
+# fly.unzip('test/files/news.zip')
