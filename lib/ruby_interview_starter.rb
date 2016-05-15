@@ -43,16 +43,11 @@ module RubyInterviewStarter
 
   class ReadFiles
     def queue
-      agent = Mechanize.new
-      agent.pluggable_parser.default = Mechanize::Download
-      page = agent.get('http://bitly.com/nuvi-plz')
       # zips = 4
-      page.links.each do |link|
-        next unless /\.zip$/ =~ link.text
-        # download files to test/files/downloads (deleted them after I knew it was working so I didn't push them to GitHub)
-        file_holder = agent.get("http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/#{link.href}")
-        file_holder.save("test/files/downloads/#{link.text}")
-        Zip::File.open("test/files/downloads/#{link.text}") do |zip_file|
+      dir = Dir.entries("test/files/downloads/")
+      dir.each do |file|
+        next unless /\.zip$/ =~ file
+        Zip::File.open("test/files/downloads/#{file}") do |zip_file|
           redis = Redis.new(:host => "127.0.0.1", :port => 6379, :db => 8)
           # xml = 10
           zip_file.each do |entry|
