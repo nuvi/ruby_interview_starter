@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Ticketmaster México</discussion_title>
+<language>spanish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://m.ticketmaster.com.mx/ticket/search.do?articles=tmmx&amp;query=martatieneunmarcapasos</topic_url>
+<topic_text>
+
+1999-2016 Ticketmaster. Todos los derechos reservados. Resultados encontrados (62) 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://m.ticketmaster.com.mx/ticket/search.do?articles=tmmx&amp;query=martatieneunmarcapasos</post_url>
+<post_date>20160413</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+
+1999-2016 Ticketmaster. Todos los derechos reservados. Resultados encontrados (62) 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

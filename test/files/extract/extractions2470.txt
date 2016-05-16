@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.jutarnji.hr/rss</forum>
+<forum_title>Jutarnji.hr</forum_title>
+<discussion_title>VIDEO: OVO NIJE ZA SVAČIJI ŽELUDACI Stravična ozljeda igrača Milana kojem je suparnik kramponima &apos;orao&apos; po licu!</discussion_title>
+<language>croatian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.jutarnji.hr/video--ovo-nije-za-svacije-oci-stravicna-ozljeda-igraca-milana-kojem-je-suparnik-kramponima--orao--po-licu-/1567184/</topic_url>
+<topic_text>
+ČISTA JEZA VIDEO: OVO NIJE ZA SVAČIJI ŽELUDACI Stravična ozljeda igrača Milana kojem je suparnik kramponima &apos;orao&apos; po licu! 
+screenshot: youtube 
+Autor: Portal Jutarnji.hr 
+Objavljeno: prije 17 min 
+Milan je (napokon!) došao do pobjede, u ponedjeljak je slavio kod Verone, no da to ne bude glavna vijest pobrinuo se Pavel Wszołek , igrač Verone koji je u 10. minuti susreta doslovce nagazio na na lice Mattije de Sciglija ! VEZANE VIJESTI VIDEO: OVAKO SLAVE MANDŽUKIĆ, BUFFON I DRUŠTVO Juventus frenetično dočekao peti uzastopni naslov prvaka Italije 
+Talijanski reprezentativac je, jasno, napustio igru, pored terena mu je ukazana liječnička pomoć, no nakon povratka u igru, u 34. minuti je morao biti zamijenjen jer krvarenje jednostavno nije stalo... Gak keliatan jelas sih kena sikut atau lutut atau foot, tapi ini kejadian pas De Sciglio pendarahan. pic.twitter.com/ocEkIXlFA3 — Info Rossoneri (@InfoRossoneri) 25 April 2016 Broj preporuka: 0
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.jutarnji.hr/video--ovo-nije-za-svacije-oci-stravicna-ozljeda-igraca-milana-kojem-je-suparnik-kramponima--orao--po-licu-/1567184/</post_url>
+<post_date>20160425</post_date>
+<post_time>1827</post_time>
+<username>Portal Jutarnji.hr</username>
+<post>
+ČISTA JEZA VIDEO: OVO NIJE ZA SVAČIJI ŽELUDACI Stravična ozljeda igrača Milana kojem je suparnik kramponima &apos;orao&apos; po licu! 
+screenshot: youtube 
+Autor: Portal Jutarnji.hr 
+Objavljeno: prije 17 min 
+Milan je (napokon!) došao do pobjede, u ponedjeljak je slavio kod Verone, no da to ne bude glavna vijest pobrinuo se Pavel Wszołek , igrač Verone koji je u 10. minuti susreta doslovce nagazio na na lice Mattije de Sciglija ! VEZANE VIJESTI VIDEO: OVAKO SLAVE MANDŽUKIĆ, BUFFON I DRUŠTVO Juventus frenetično dočekao peti uzastopni naslov prvaka Italije 
+Talijanski reprezentativac je, jasno, napustio igru, pored terena mu je ukazana liječnička pomoć, no nakon povratka u igru, u 34. minuti je morao biti zamijenjen jer krvarenje jednostavno nije stalo... Gak keliatan jelas sih kena sikut atau lutut atau foot, tapi ini kejadian pas De Sciglio pendarahan. pic.twitter.com/ocEkIXlFA3 — Info Rossoneri (@InfoRossoneri) 25 April 2016 Broj preporuka: 0
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>HR</country>
+<main_image>http://www.jutarnji.hr/multimedia/archive/01067/de_sciglio_1067789S1.jpg</main_image>
+</document>

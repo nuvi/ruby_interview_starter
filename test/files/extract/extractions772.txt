@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://dailynews724.com//rss.php</forum>
+<forum_title>Breaking News Updates | Latest News Headlines | Photos - News Videos</forum_title>
+<discussion_title>Warriors Draymond Green to reporter who mentioned Houston floods: Dont ask</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.dailynews724.com/sports/warriors-draymond-green-to-reporter-who-mentioned-houston-floods-dont-ask-h690231.html</topic_url>
+<topic_text>
+  11:00 Warriors&apos; Draymond Green to reporter who mentioned Houston floods: &apos;Don&apos;t ask&apos; He seemed to be trying to make a correlation between the Warriors&apos; success against the Rockets in the playoffs and the floods this year and last year during the Western Conference finals. But before he could get to an actual question, Green cut him off.Green... 
+Draymond Green rebuked a reporter who tried to make a correlation between Golden State&apos;s playoff wins in Houston and recent flooding in the area after the Warriors&apos; Game 4 victory on Sunday. 
+The reporter stumbled over the question that began with: &quot;So Draymond, here&apos;s an interesting question.&quot; 
+He seemed to be trying to make a correlation between the Warriors&apos; success against the Rockets in the playoffs and the floods this year and last year during the Western Conference finals. But before he could get to an actual question, Green cut him off. 
+Green said in part: &quot;I feel sorry for the people of Houston. People are losing their homes, their cars, losing their lives, losing loved ones, and you&apos;re trying to get a controversial statement out of me about the 3s we&apos;re hitting. I know what you&apos;re getting at but you&apos;re not getting that out of me.&quot; 
+He went on for about a minute and seemed to get angrier as he spoke. He ended his comments with: &quot;You keep asking me the same question about this flood. Don&apos;t ask me that no more, man. Because it ain&apos;t cool and you ain&apos;t getting the statement you want out of me.&quot;
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.dailynews724.com/sports/warriors-draymond-green-to-reporter-who-mentioned-houston-floods-dont-ask-h690231.html</post_url>
+<post_date>20160425</post_date>
+<post_time>0800</post_time>
+<username></username>
+<post>
+  11:00 Warriors&apos; Draymond Green to reporter who mentioned Houston floods: &apos;Don&apos;t ask&apos; He seemed to be trying to make a correlation between the Warriors&apos; success against the Rockets in the playoffs and the floods this year and last year during the Western Conference finals. But before he could get to an actual question, Green cut him off.Green... 
+Draymond Green rebuked a reporter who tried to make a correlation between Golden State&apos;s playoff wins in Houston and recent flooding in the area after the Warriors&apos; Game 4 victory on Sunday. 
+The reporter stumbled over the question that began with: &quot;So Draymond, here&apos;s an interesting question.&quot; 
+He seemed to be trying to make a correlation between the Warriors&apos; success against the Rockets in the playoffs and the floods this year and last year during the Western Conference finals. But before he could get to an actual question, Green cut him off. 
+Green said in part: &quot;I feel sorry for the people of Houston. People are losing their homes, their cars, losing their lives, losing loved ones, and you&apos;re trying to get a controversial statement out of me about the 3s we&apos;re hitting. I know what you&apos;re getting at but you&apos;re not getting that out of me.&quot; 
+He went on for about a minute and seemed to get angrier as he spoke. He ended his comments with: &quot;You keep asking me the same question about this flood. Don&apos;t ask me that no more, man. Because it ain&apos;t cool and you ain&apos;t getting the statement you want out of me.&quot;
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://img.cdn34.com/haberler/2016/04/1461606664_news_.jpg</main_image>
+</document>

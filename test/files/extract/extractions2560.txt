@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.lanouvellerepublique.fr/Deux-Sevres</forum>
+<forum_title>Deux Sèvres : faits divers, sport et loisirs. L&apos;actualité du 79 et ses communes - La Nouvelle République</forum_title>
+<discussion_title>En souvenir des tristes heures arméniennes</discussion_title>
+<language>french</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.lanouvellerepublique.fr/Deux-Sevres/Actualite/24-Heures/n/Contenus/Articles/2016/04/25/En-souvenir-des-tristes-heures-armeniennes-2695980</topic_url>
+<topic_text>
+Dans la foule, environ 200 personnes, des femmes et des hommes ont pleuré. En toute discrétion. Hier, à deux pas de l&apos;église Jean-Baptiste dans le quartier du Clou Bouchet, il y avait dans l&apos;air frais du matin une forte dose d&apos;émotion.
+C&apos;est là que le maire Jérôme Baloge, en compagnie d&apos;autres élus, est venu dévoiler la plaque scellée sur une imposante stèle en ardoise noire. Sur cette plaque est inscrit « A la mémoire des 1.500.000 victimes du génocide arménien, 24 avril 1915. Pour les générations futures ». Juste en dessous se trouvent les drapeaux nationaux de la France et de l&apos;Arménie.
+&quot; Une tragédie que nous ne pouvons occulter &quot;
+Cette stèle a été financée (environ 1.000 €) par la communauté arménienne de Niort, qui représente une centaine de familles. Elle a été posée par les services de la Ville. « Pour nous, c&apos;est une vraie marque de reconnaissance » se réjouit l&apos;un des initiateurs de cette cérémonie. « C&apos;est une bonne chose car nous avons désormais un vrai lieu de recueillement, pour nous rappeler de notre histoire et la transmettre à nos enfants ». Histoire ô combien traumatisante…
+Alors que ce premier génocide du XX e siècle, perpétré par la Turquie, a officiellement été reconnu par la France en 2001, Niort rejoint ainsi la liste des villes, comme Poitiers, Lyon ou Paris, qui ont donné leur feu vert à l&apos;érection d&apos;un tel monument commémoratif. « C&apos;est une tragédie que nous ne pouvons occulter » a affirmé Jérôme Baloge, qui a vu dans cette inauguration le moyen idéal de lancer un appel « à la paix et à la réconciliation des peuples ».
+La foule acquiesce. « On en aurait bien besoin » glisse cette mère de famille, arrivée à Niort en 2007 et dont une partie de la famille est toujours en Arménie. Un pays qui est actuellement le théâtre de dures tensions avec son voisin azerbaïdjanais…
+nr.niort@nrco.fr
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.lanouvellerepublique.fr/Deux-Sevres/Actualite/24-Heures/n/Contenus/Articles/2016/04/25/En-souvenir-des-tristes-heures-armeniennes-2695980</post_url>
+<post_date>20160425</post_date>
+<post_time>0546</post_time>
+<username>Xavier Le Roux</username>
+<post>
+Dans la foule, environ 200 personnes, des femmes et des hommes ont pleuré. En toute discrétion. Hier, à deux pas de l&apos;église Jean-Baptiste dans le quartier du Clou Bouchet, il y avait dans l&apos;air frais du matin une forte dose d&apos;émotion.
+C&apos;est là que le maire Jérôme Baloge, en compagnie d&apos;autres élus, est venu dévoiler la plaque scellée sur une imposante stèle en ardoise noire. Sur cette plaque est inscrit « A la mémoire des 1.500.000 victimes du génocide arménien, 24 avril 1915. Pour les générations futures ». Juste en dessous se trouvent les drapeaux nationaux de la France et de l&apos;Arménie.
+&quot; Une tragédie que nous ne pouvons occulter &quot;
+Cette stèle a été financée (environ 1.000 €) par la communauté arménienne de Niort, qui représente une centaine de familles. Elle a été posée par les services de la Ville. « Pour nous, c&apos;est une vraie marque de reconnaissance » se réjouit l&apos;un des initiateurs de cette cérémonie. « C&apos;est une bonne chose car nous avons désormais un vrai lieu de recueillement, pour nous rappeler de notre histoire et la transmettre à nos enfants ». Histoire ô combien traumatisante…
+Alors que ce premier génocide du XX e siècle, perpétré par la Turquie, a officiellement été reconnu par la France en 2001, Niort rejoint ainsi la liste des villes, comme Poitiers, Lyon ou Paris, qui ont donné leur feu vert à l&apos;érection d&apos;un tel monument commémoratif. « C&apos;est une tragédie que nous ne pouvons occulter » a affirmé Jérôme Baloge, qui a vu dans cette inauguration le moyen idéal de lancer un appel « à la paix et à la réconciliation des peuples ».
+La foule acquiesce. « On en aurait bien besoin » glisse cette mère de famille, arrivée à Niort en 2007 et dont une partie de la famille est toujours en Arménie. Un pays qui est actuellement le théâtre de dures tensions avec son voisin azerbaïdjanais…
+nr.niort@nrco.fr
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://www.lanouvellerepublique.fr/var/nrv2/storage/images/contenus/articles/2016/04/25/en-souvenir-des-tristes-heures-armeniennes-2695980/49471007-1-fre-FR/En-souvenir-des-tristes-heures-armeniennes_fb_share_link.jpg</main_image>
+</document>

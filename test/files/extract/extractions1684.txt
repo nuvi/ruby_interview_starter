@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Kruste auf Glaskeramik-Kochfeld erst aufweichen lassen - Bauen &amp; Wohnen - Haus &amp; Garten - Ratgeber - Home - Westdeutsche Zeitung</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.wz.de/home/ratgeber/haus-garten/bauen-wohnen/kruste-auf-glaskeramik-kochfeld-erst-aufweichen-lassen-1.2172234</topic_url>
+<topic_text>
+Sind Herdplatten verkrustet, sollte man sie vor allem erst einmal abkühlen lassen. Foto: Daniel Reinhardt dpa 
+Sind Herdplatten verkrustet, sollte man sie vor allem erst einmal abkühlen lassen. Foto: Daniel Reinhardt 
+Frankfurt/Main (dpa/tmn) - Hartnäckige Reste vom Kochen auf der Glaskeramik-Platte des Herdes weicht man am besten erst mal auf. Das Forum Waschen rät, ein nasses Tuch für fünf Minuten auf die Krusten zu legen. 
+Dann ließen sich Rückstände sogar größtenteils ohne Reinigungsmittel und starkes Rubbeln beseitigen. Trackbacks zu diesem Artikel 
+Schreiben Sie über diesen Artikel und benutzen Sie die Trackback-URL , damit Ihr Eintrag hier erscheint Leserkommentare 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.wz.de/home/ratgeber/haus-garten/bauen-wohnen/kruste-auf-glaskeramik-kochfeld-erst-aufweichen-lassen-1.2172234</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Sind Herdplatten verkrustet, sollte man sie vor allem erst einmal abkühlen lassen. Foto: Daniel Reinhardt dpa 
+Sind Herdplatten verkrustet, sollte man sie vor allem erst einmal abkühlen lassen. Foto: Daniel Reinhardt 
+Frankfurt/Main (dpa/tmn) - Hartnäckige Reste vom Kochen auf der Glaskeramik-Platte des Herdes weicht man am besten erst mal auf. Das Forum Waschen rät, ein nasses Tuch für fünf Minuten auf die Krusten zu legen. 
+Dann ließen sich Rückstände sogar größtenteils ohne Reinigungsmittel und starkes Rubbeln beseitigen. Trackbacks zu diesem Artikel 
+Schreiben Sie über diesen Artikel und benutzen Sie die Trackback-URL , damit Ihr Eintrag hier erscheint Leserkommentare 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.wz.de/polopoly_fs/1.2172220.1461553594!/httpImage/onlineImage.jpg_gen/derivatives/landscape_200/onlineImage.jpg</main_image>
+</document>

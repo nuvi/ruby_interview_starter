@@ -7,7 +7,7 @@ module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
-      puts "This is the Ruby Interview Starter command line script"
+      
     end
   end
 end

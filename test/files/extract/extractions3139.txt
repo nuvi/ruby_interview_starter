@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://sindikasi.okezone.com/index.php/rss/14/RSS2.0</forum>
+<forum_title>Sindikasi bola.okezone.com</forum_title>
+<discussion_title>Susunan Pemain Tottenham vs WBA</discussion_title>
+<language>malay</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://bola.okezone.com/read/2016/04/26/45/1372520/susunan-pemain-tottenham-vs-wba</topic_url>
+<topic_text>
+Selasa, 26 April 2016 - 01:43 wib Susunan Pemain Tottenham vs WBA 
+Tottenham turun dengan skuad terbaik. (Foto: REUTERS/Lee Smith) Ramdani Bur A A A 
+LONDON – Tottenham Hotspur menjamu West Bromwich Albion (WBA) di lanjutan Premier League pekan 35, Selasa (26/4/2016) dini hari WIB. The Liliwhites –julukan Spurs– membutuhkan tiga poin demi bersaing dengan Leicester City memperebutkan trofi Premier League 2015-2016. 
+Untuk memenangi laga ini, manajer Mauricio Pochettino menurunkan skuad terbaik termasuk Dele Alli dan Harry Kane. Sementara itu The Baggies –julukan WB – juga turun dengan personel terbaik termasuk sang bomber, Salomon Rondon. 
+Susunan Pemain: 
+Tottenham: Lloris (c), Walker, Alderweireld, Vertonghen, Rose; Dembele, Dier; Lamela, Alli, Eriksen; Kane. 
+West Bromwich Albion: Myhill; Olsson, Yacob, Evans, Gardner, McClean, McAuley, Fletcher, Dawson, Sessegnon, Rondon. (Ram)
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://bola.okezone.com/read/2016/04/26/45/1372520/susunan-pemain-tottenham-vs-wba</post_url>
+<post_date>20160425</post_date>
+<post_time>1843</post_time>
+<username></username>
+<post>
+Selasa, 26 April 2016 - 01:43 wib Susunan Pemain Tottenham vs WBA 
+Tottenham turun dengan skuad terbaik. (Foto: REUTERS/Lee Smith) Ramdani Bur A A A 
+LONDON – Tottenham Hotspur menjamu West Bromwich Albion (WBA) di lanjutan Premier League pekan 35, Selasa (26/4/2016) dini hari WIB. The Liliwhites –julukan Spurs– membutuhkan tiga poin demi bersaing dengan Leicester City memperebutkan trofi Premier League 2015-2016. 
+Untuk memenangi laga ini, manajer Mauricio Pochettino menurunkan skuad terbaik termasuk Dele Alli dan Harry Kane. Sementara itu The Baggies –julukan WB – juga turun dengan personel terbaik termasuk sang bomber, Salomon Rondon. 
+Susunan Pemain: 
+Tottenham: Lloris (c), Walker, Alderweireld, Vertonghen, Rose; Dembele, Dier; Lamela, Alli, Eriksen; Kane. 
+West Bromwich Albion: Myhill; Olsson, Yacob, Evans, Gardner, McClean, McAuley, Fletcher, Dawson, Sessegnon, Rondon. (Ram)
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>ID</country>
+<main_image>https://img.okezone.com//content/2016/04/26/45/1372520/susunan-pemain-tottenham-vs-wba-ZiMPkEzqVq.jpg</main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://rhein-zeitung.de/feed/5-newsticker.xml</forum>
+<forum_title>NewsTicker</forum_title>
+<discussion_title>Koala Oobi-Ooobi im Zoo Leipzig eingetroffen</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Koala-Oobi-Ooobi-im-Zoo-Leipzig-eingetroffen-_arid,1476678.html</topic_url>
+<topic_text>
+25.04.2016, 20:12 Uhr Koala Oobi-Ooobi im Zoo Leipzig eingetroffen Leipzig (dpa). Der junge Koala Oobi-Ooobi ist der erste Vertreter seiner Art im 138 Jahre alten Zoo in Leipzig. Der im belgischen Tierpark Planckendael geborene Koala sei wohlbehalten in seiner neuen Heimat eingetroffen. Er lebe sich nun in Ruhe ein, bevor am 12. Mai das Koala-Haus eröffnet wird und die Besucher den Neuling sehen dürfen, teilte der Zoo mit. Bislang gab es nur in den Zoss von Duisburg und Dresden Koalas in Deutschland.  
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Koala-Oobi-Ooobi-im-Zoo-Leipzig-eingetroffen-_arid,1476678.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1812</post_time>
+<username></username>
+<post>
+25.04.2016, 20:12 Uhr Koala Oobi-Ooobi im Zoo Leipzig eingetroffen Leipzig (dpa). Der junge Koala Oobi-Ooobi ist der erste Vertreter seiner Art im 138 Jahre alten Zoo in Leipzig. Der im belgischen Tierpark Planckendael geborene Koala sei wohlbehalten in seiner neuen Heimat eingetroffen. Er lebe sich nun in Ruhe ein, bevor am 12. Mai das Koala-Haus eröffnet wird und die Besucher den Neuling sehen dürfen, teilte der Zoo mit. Bislang gab es nur in den Zoss von Duisburg und Dresden Koalas in Deutschland.  
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.rhein-zeitung.de/pu_base/images/facebook_logo.jpg</main_image>
+</document>

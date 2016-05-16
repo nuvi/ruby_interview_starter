@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.dailymail.co.uk/news/articles.rss</forum>
+<forum_title>News Articles | Mail Online</forum_title>
+<discussion_title>Prince&apos;s private jet pilot requested medical help days before singers death</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.dailymail.co.uk/news/article-3557438/Dramatic-audio-reveals-moment-pilot-Prince-s-private-jet-requested-medical-help-emergency-landing-Illinois-six-days-prior-death.html</topic_url>
+<topic_text>
+6 shares 19
+View
+comments
+Audio between the pilot of Prince&apos;s jet and ground control revealed medical personnel would be present as soon as the plane landed
+Audio has emerged of the moment a pilot transporting Prince on a flight six days prior to his death requested emergency medical treatment for his passenger.
+The audio reveals the pilot was requesting permission to land in Moline, Illinois where a &apos;certified first responder&apos; would be waiting on the tarmac.
+Obtained by TMZ , the recording details how traffic controllers organised for the plane to land on the airport&apos;s &apos;north ramp&apos; during the emergency.
+They also ask if the passenger is male or female, suggesting his identity was not revealed during the call.
+He had been suffering from flu for a number of weeks and was believed to be recovering, but took a turn for the worse.
+It comes as the legendary singer&apos;s brother-in-law reportedly claimed Prince did not sleep for six days prior to his death.
+And he also appeared &apos;pale&apos; and &apos;weak&apos; during one of his last public appearances, witnesses said.
+Employees at Electric Fetus record shop in Minneapolis said the musician did not look &apos;in the best shape&apos; when he visited the store five days before he was found at his Paisley Park estate.
+Prince&apos;s brother-in-law Maurice Phillips reportedly claimed the singer had worked for six days without sleep when friends and family held a private service at the compound on Saturday.
+Mr Phillips, who is married to Prince&apos;s sister Tyka Nelson, is said to have told fans outside Paisley Park: &apos;He worked 154 hours straight. I was with him just last weekend. He was a good brother-in-law.&apos;
+ 2 Next &apos;These stupid skits actually dishonor the Great Man&apos;s... The moment Prince&apos;s ashes were carried out beneath a jacket... EXCLUSIVE: &apos;Has anyone ever told you that you look a lot... Max Timander, who works at Electric Fetus, said Prince visited a day after the Purple Rain star was rushed to hospital when his plane made an emergency landing in Atlanta, Georgia.
+TMZ reported that he had overdosed on a painkiller called Percocet at the time.
+Mr Timander told the Press Association: &apos;Everyone I&apos;ve talked to on that Saturday said he looked kind of pale and he was not totally looking in the best shape as he normally is.
+&apos;It sounded like he was looking kind of weak. I know he had just got over the flu supposedly.&apos;
+The mayor of Chanhassen, the city which is home to Paisley Park, said discussions were taking place to stage a public service in honour of Prince in the Minneapolis area.
+&apos;It&apos;s clear his friends and family would support the idea,&apos; Denny Laufenburger said.
+A private funeral service at a local church is expected to take place in early May, he added.
+Prince was found collapsed in a lift by staff members on Thursday morning, more than 12 hours after he was last seen alive when he was dropped off at Paisley Park.
+The 57-year-old singer was pronounced dead at the scene.
+The 57-year-old singer (pictured in 2011) was found dead at his Paisley Park home on Thursday morning
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>10</post_num>
+<post_id>post-10</post_id>
+<post_url>http://www.dailymail.co.uk/news/article-3557438/Dramatic-audio-reveals-moment-pilot-Prince-s-private-jet-requested-medical-help-emergency-landing-Illinois-six-days-prior-death.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1600</post_time>
+<username>Fleurescent</username>
+<post>
+@Biz- This forum is packed with trolls, yet the DM do nothing about it. Just look at the amount of them on any KK article.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>http://i.dailymail.co.uk/i/pix/2016/04/25/11/3381ED7A00000578-0-image-a-23_1461579162515.jpg</main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://vz.lt/RSS.aspx?type=3</forum>
+<forum_title>vz.lt</forum_title>
+<discussion_title>Pirmosios Lietuvos grūdų derliaus prognozės: nuomonės skiriasi</discussion_title>
+<language>lithuanian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://vz.lt/sektoriai/agroverslas/2016/04/25/pirmosios-lietuvos-grudu-derliaus-prognozes-nuomones-skiriasi</topic_url>
+<topic_text>
+Primename, kad Lietuvos Respublikos įstatymai draudžia: platinti, propaguoti ar reklamuoti pornografiją, taip pat propaguoti ir (ar) reklamuoti seksualines paslaugas, lytinius iškrypimus; propaguoti ir (ar) reklamuoti žalingus įpročius ir narkotines ar psichotropines medžiagas. Draudžiama platinti dezinformaciją ir informaciją, šmeižiančią, įžeidžiančią žmogų, žeminančią jo garbę ir orumą. Draudžiama skleisti informaciją, pažeidžiančią nekaltumo prezumpciją ir kliudančią teisminės valdžios nešališkumui.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://vz.lt/sektoriai/agroverslas/2016/04/25/pirmosios-lietuvos-grudu-derliaus-prognozes-nuomones-skiriasi</post_url>
+<post_date>20160425</post_date>
+<post_time>1646</post_time>
+<username>Matas Miknevičius</username>
+<post>
+Primename, kad Lietuvos Respublikos įstatymai draudžia: platinti, propaguoti ar reklamuoti pornografiją, taip pat propaguoti ir (ar) reklamuoti seksualines paslaugas, lytinius iškrypimus; propaguoti ir (ar) reklamuoti žalingus įpročius ir narkotines ar psichotropines medžiagas. Draudžiama platinti dezinformaciją ir informaciją, šmeižiančią, įžeidžiančią žmogų, žeminančią jo garbę ir orumą. Draudžiama skleisti informaciją, pažeidžiančią nekaltumo prezumpciją ir kliudančią teisminės valdžios nešališkumui.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>LT</country>
+<main_image>http://vz.lt/apps/pbcsi.dll/storyimage/VZ/20160425/PREMIUM/160429722/AR/0/AR-160429722.jpg&amp;exactW=600</main_image>
+</document>

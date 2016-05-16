@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.prnewswire.com/rss/rss/usa/louisiana-news.rss</forum>
+<forum_title>PR Newswire:</forum_title>
+<discussion_title>UPS Airline Mechanics Demand No Healthcare Cuts In New Contract</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.prnewswire.com/news-releases/ups-airline-mechanics-demand-no-healthcare-cuts-in-new-contract-300256886.html</topic_url>
+<topic_text>
+UPS Airline Mechanics Demand No Healthcare Cuts In New Contract Workers Pledge To Step Up Campaign 14:44 ET from Teamsters Local 2727 LOUISVILLE, Ky. , April 25, 2016 /PRNewswire-USNewswire/ -- UPS aircraft mechanics and other company workers affiliated with Teamsters Local 2727 are standing up to deeply concessionary contract proposals offered by the shipping giant that would significantly increase health care costs and do little to improve wages for its employees. Efforts to negotiate a fair contract for workers since last month have proven fruitless due to the vast differences in positions over health insurance benefits. Local 2727 President Tim Boyle said the company wants to raise the cost of health insurance as much as 430 percent in the first year of a new contract while only offering slight wage increases in return. &quot;Teamsters Local 2727 has made it clear that our members will not accept cuts to our healthcare for retirees or actives while UPS reaps record profits,&quot; Boyle said. &quot;UPS is also proposing minimal pay increases that would actually reduce our members&apos; earning power. Our members should not be kicked to the street after working many years performing back-breaking work and working in mold-infested areas and other deplorable conditions. What the company is doing is shameful.&quot; The union intends to begin delivering that message not only at the bargaining table but in other ways as well. In the coming weeks, Local 2727 members will begin informing the public of the unmitigated corporate greed UPS is exhibiting through informational pickets and other means. &quot;I had hoped that we would not need to make the strike preparations that have recently been instituted by the pilots&apos; union, but the company is leaving us little choice,&quot; Boyle said. Founded in 1903, the International Brotherhood of Teamsters represents 1.4 million hardworking men and women in the United States and Canada . Visit www.teamster.org for more information. Follow us on Twitter @Teamsters and &quot;like&quot; us on Facebook at www.facebook.com/teamsters . Contact: Tim Boyle
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.prnewswire.com/news-releases/ups-airline-mechanics-demand-no-healthcare-cuts-in-new-contract-300256886.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1844</post_time>
+<username></username>
+<post>
+UPS Airline Mechanics Demand No Healthcare Cuts In New Contract Workers Pledge To Step Up Campaign 14:44 ET from Teamsters Local 2727 LOUISVILLE, Ky. , April 25, 2016 /PRNewswire-USNewswire/ -- UPS aircraft mechanics and other company workers affiliated with Teamsters Local 2727 are standing up to deeply concessionary contract proposals offered by the shipping giant that would significantly increase health care costs and do little to improve wages for its employees. Efforts to negotiate a fair contract for workers since last month have proven fruitless due to the vast differences in positions over health insurance benefits. Local 2727 President Tim Boyle said the company wants to raise the cost of health insurance as much as 430 percent in the first year of a new contract while only offering slight wage increases in return. &quot;Teamsters Local 2727 has made it clear that our members will not accept cuts to our healthcare for retirees or actives while UPS reaps record profits,&quot; Boyle said. &quot;UPS is also proposing minimal pay increases that would actually reduce our members&apos; earning power. Our members should not be kicked to the street after working many years performing back-breaking work and working in mold-infested areas and other deplorable conditions. What the company is doing is shameful.&quot; The union intends to begin delivering that message not only at the bargaining table but in other ways as well. In the coming weeks, Local 2727 members will begin informing the public of the unmitigated corporate greed UPS is exhibiting through informational pickets and other means. &quot;I had hoped that we would not need to make the strike preparations that have recently been instituted by the pilots&apos; union, but the company is leaving us little choice,&quot; Boyle said. Founded in 1903, the International Brotherhood of Teamsters represents 1.4 million hardworking men and women in the United States and Canada . Visit www.teamster.org for more information. Follow us on Twitter @Teamsters and &quot;like&quot; us on Facebook at www.facebook.com/teamsters . Contact: Tim Boyle
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://photos.prnewswire.com/prnvar/20100127/IBTLOGO</main_image>
+</document>

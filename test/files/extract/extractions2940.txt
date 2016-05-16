@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://xiaoxue.xdf.cn/rss.xml</forum>
+<forum_title>小学频道</forum_title>
+<discussion_title>三年级作文：端午节作文</discussion_title>
+<language>chinese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://xiaoxue.xdf.cn/snj/201604/10477247.html</topic_url>
+<topic_text>
+焦点推荐 版权及免责声明 ① 凡本网注明&quot;稿件来源：新东方&quot;的所有文字、图片和音视频稿件，版权均属新东方教育科技集团（含本网和新东方网） 所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转贴或以其他任何方式复制、发表。已经本网协议授权的媒体、网站，在下载使用时必须注明&quot;稿件来源：新东方&quot;，违者本网将依法追究法律责任。 ② 本网未注明&quot;稿件来源：新东方&quot;的文/图等稿件均为转载稿，本网转载仅基于传递更多信息之目的，并不意味着赞同转载稿的观点或证实其内容的真实性。如其他媒体、网站或个人从本网下载使用，必须保留本网注明的&quot;稿件来源&quot;，并自负版权等法律责任。如擅自篡改为&quot;稿件来源：新东方&quot;，本网将依法追究法律责任。 ③ 如本网转载稿涉及版权等问题，请作者见稿后在两周内速来电与新东方网联系，电话：010-60908555。
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://xiaoxue.xdf.cn/snj/201604/10477247.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1456</post_time>
+<username></username>
+<post>
+焦点推荐 版权及免责声明 ① 凡本网注明&quot;稿件来源：新东方&quot;的所有文字、图片和音视频稿件，版权均属新东方教育科技集团（含本网和新东方网） 所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转贴或以其他任何方式复制、发表。已经本网协议授权的媒体、网站，在下载使用时必须注明&quot;稿件来源：新东方&quot;，违者本网将依法追究法律责任。 ② 本网未注明&quot;稿件来源：新东方&quot;的文/图等稿件均为转载稿，本网转载仅基于传递更多信息之目的，并不意味着赞同转载稿的观点或证实其内容的真实性。如其他媒体、网站或个人从本网下载使用，必须保留本网注明的&quot;稿件来源&quot;，并自负版权等法律责任。如擅自篡改为&quot;稿件来源：新东方&quot;，本网将依法追究法律责任。 ③ 如本网转载稿涉及版权等问题，请作者见稿后在两周内速来电与新东方网联系，电话：010-60908555。
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CN</country>
+<main_image></main_image>
+</document>

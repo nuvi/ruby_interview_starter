@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://il.fashionmag.com/rss/feed/il,1.xml</forum>
+<forum_title>News - FashionMag.com Israel</forum_title>
+<discussion_title>NBA to introduce kit sponsorship</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://il.fashionmag.com/news/NBA-to-introduce-kit-sponsorship,685942.html</topic_url>
+<topic_text>
+Print NBA to introduce kit sponsorship The arrival of Nike in 2017-18 (taking over from Adidas) will not be the only change for NBA jerseys. The National Basketball Association, which manages the operations of the US professional basketball league and its clubs, has decided to implement the project of featuring sponsor logos on the kit. Players&apos; kit will be crowded with brand logos in 2017-18 - Rob Foldy / AFP This is a cultural revolution for the USA where, though sports halls and stadia have all benefited from brand naming, athletes&apos; kits have only ever featured team logos. The NBA is treading carefully with this announcement, stating that it is a three-year &apos;test&apos;. Because, though NBA management estimated that the deal could be worth an income of at least $100 million per year, the fans could have a knee-jerk reaction.Sponsors&apos; names will appear in size 6x6 on the players&apos; chest, mirroring the Nike logo, while team logos will continue to feature large on the kit. The NBA also took care of indicating that sponsor-free versions will be available in stores.Such a step has not yet been taken by any of the other major US team sports, but it may mark a turning point in the NBA&apos;s approach.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://il.fashionmag.com/news/NBA-to-introduce-kit-sponsorship,685942.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1517</post_time>
+<username>olivier.guyot@fashionmag.com ( Olivier Guyot)</username>
+<post>
+Print NBA to introduce kit sponsorship The arrival of Nike in 2017-18 (taking over from Adidas) will not be the only change for NBA jerseys. The National Basketball Association, which manages the operations of the US professional basketball league and its clubs, has decided to implement the project of featuring sponsor logos on the kit. Players&apos; kit will be crowded with brand logos in 2017-18 - Rob Foldy / AFP This is a cultural revolution for the USA where, though sports halls and stadia have all benefited from brand naming, athletes&apos; kits have only ever featured team logos. The NBA is treading carefully with this announcement, stating that it is a three-year &apos;test&apos;. Because, though NBA management estimated that the deal could be worth an income of at least $100 million per year, the fans could have a knee-jerk reaction.Sponsors&apos; names will appear in size 6x6 on the players&apos; chest, mirroring the Nike logo, while team logos will continue to feature large on the kit. The NBA also took care of indicating that sponsor-free versions will be available in stores.Such a step has not yet been taken by any of the other major US team sports, but it may mark a turning point in the NBA&apos;s approach.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>FR</country>
+<main_image>http://media.fashionmag.com/m/6845/ec67/37b1/d9be/4ffd/eb1d/c7e8/1620/fa25/cbcf/510x800/cbcf.jpg</main_image>
+</document>

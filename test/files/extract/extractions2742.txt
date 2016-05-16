@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.businessinsider.sg/feed/</forum>
+<forum_title>Business Insider</forum_title>
+<discussion_title>Donald Trump impersonates senator calling Ted Cruz a ‘pain in the ass’</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.businessinsider.sg/trump-ted-cruz-pain-floor-filibuster-2016-4/</topic_url>
+<topic_text>
+Apr. 26, 2016, 2:27 AM Eduardo Munoz Alvarez/Getty Images Republican presidential candidate Donald Trump speaks the 2016 annual New York State Republican Gala on April 14, 2016 in New York City 
+Donald Trump extensively blasted Ted Cruz during a Rhode Island rally on Monday, hours after the Texas senator made a deal with Ohio Gov. John Kasich in hopes of thwarting Trump’s efforts to secure the Republican nomination ahead of the July convention. 
+Trump called Cruz a “failed senator” who “couldn’t get anything passed,” and even impersonated a senator supposedly itching for Cruz to relinquish the Senate floor during a filibuster. 
+“He got nothing passed, and now, all he is is a guy who will go down and stand a filibuster for a day or two,” Trump said. “And all the other senators will look: ‘When’s he getting off the floor, Jim? The guy’s a pain in the ass.’” 
+Perhaps Cruz’s most famous moment as a senator came when he stood on the Senate floor for more than 21 hours in hopes of derailing funding for the Affordable Care Act. 
+Trump also argued during the rally that the pact between Kasich and Cruz showed they are “pathetic.” The Manhattan billionaire said Cruz was “all mixed up” when he held a press conference earlier on Monday discussing the deal with Kasich, which calls for Kasich’s campaign to pull out of the upcoming battleground state of Indiana while Cruz’s camp will recede from Oregon and New Mexico. 
+Trump took aim at each of his rivals’ general-election chances. 
+“Lyin’ Ted Cruz will lose so badly to Crooked Hillary,” Trump said, referencing his monikers for Cruz and Hillary Clinton, the Democratic frontrunner. 
+Both Kasich and Cruz are mathematically eliminated from hitting the needed 1,237 delegates to secure the Republican nomination ahead of the ahead of the GOP convention. The two are hoping that by joining forces, they can stop Trump from reaching the needed number of delegates as well, triggering a potential second ballot where many delegates will be able to vote freely for their candidate of choice. 
+Earlier on Monday , Cruz vehemently defended his decision to join forces with Kasich. 
+“It is abundantly clear that nobody is getting to 1,237,” Cruz said to reporters ahead of a Borden, Indiana, rally. 
+“Donald Trump is in real trouble,” he added. “Why? Because he cannot earn the support of a majority of delegates elected by the people.” 
+Cruz charged that the Trump campaign is “scared” and that the real-estate magnate will “scream and yell” and “cry and whine” about the alliance. 
+“I understand that Donald will whine. That’s what he will do,” Cruz said. “He is a sore loser.” Please enable Javascript to watch this video Share
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.businessinsider.sg/trump-ted-cruz-pain-floor-filibuster-2016-4/</post_url>
+<post_date>20160425</post_date>
+<post_time>1827</post_time>
+<username>Allan Smith</username>
+<post>
+Apr. 26, 2016, 2:27 AM Eduardo Munoz Alvarez/Getty Images Republican presidential candidate Donald Trump speaks the 2016 annual New York State Republican Gala on April 14, 2016 in New York City 
+Donald Trump extensively blasted Ted Cruz during a Rhode Island rally on Monday, hours after the Texas senator made a deal with Ohio Gov. John Kasich in hopes of thwarting Trump’s efforts to secure the Republican nomination ahead of the July convention. 
+Trump called Cruz a “failed senator” who “couldn’t get anything passed,” and even impersonated a senator supposedly itching for Cruz to relinquish the Senate floor during a filibuster. 
+“He got nothing passed, and now, all he is is a guy who will go down and stand a filibuster for a day or two,” Trump said. “And all the other senators will look: ‘When’s he getting off the floor, Jim? The guy’s a pain in the ass.’” 
+Perhaps Cruz’s most famous moment as a senator came when he stood on the Senate floor for more than 21 hours in hopes of derailing funding for the Affordable Care Act. 
+Trump also argued during the rally that the pact between Kasich and Cruz showed they are “pathetic.” The Manhattan billionaire said Cruz was “all mixed up” when he held a press conference earlier on Monday discussing the deal with Kasich, which calls for Kasich’s campaign to pull out of the upcoming battleground state of Indiana while Cruz’s camp will recede from Oregon and New Mexico. 
+Trump took aim at each of his rivals’ general-election chances. 
+“Lyin’ Ted Cruz will lose so badly to Crooked Hillary,” Trump said, referencing his monikers for Cruz and Hillary Clinton, the Democratic frontrunner. 
+Both Kasich and Cruz are mathematically eliminated from hitting the needed 1,237 delegates to secure the Republican nomination ahead of the ahead of the GOP convention. The two are hoping that by joining forces, they can stop Trump from reaching the needed number of delegates as well, triggering a potential second ballot where many delegates will be able to vote freely for their candidate of choice. 
+Earlier on Monday , Cruz vehemently defended his decision to join forces with Kasich. 
+“It is abundantly clear that nobody is getting to 1,237,” Cruz said to reporters ahead of a Borden, Indiana, rally. 
+“Donald Trump is in real trouble,” he added. “Why? Because he cannot earn the support of a majority of delegates elected by the people.” 
+Cruz charged that the Trump campaign is “scared” and that the real-estate magnate will “scream and yell” and “cry and whine” about the alliance. 
+“I understand that Donald will whine. That’s what he will do,” Cruz said. “He is a sore loser.” Please enable Javascript to watch this video Share
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>SG</country>
+<main_image>https://static-ssl.businessinsider.com/image/5716a45391058436008bdb38-2292-1719/gettyimages-521245932-2.jpg</main_image>
+</document>

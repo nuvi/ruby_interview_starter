@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://ngoisao.net/rss/ben-le.rss</forum>
+<forum_title>Bên lề - Ngôi sao RSS</forum_title>
+<discussion_title>Các nhóc tỳ đáng yêu của sao Real</discussion_title>
+<language>vietnamese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://ngoisao.net/tin-tuc/ben-le/ca-c-nho-c-ty-da-ng-yeu-cu-a-sao-real-3393033.html</topic_url>
+<topic_text>
+Mã bảo mật Các nhóc tỳ đáng yêu của sao Real Con gái James Rodriguez, cậu nhóc tinh nghịch của C. Ronaldo hay Ramos là những em bé gây ấn tượng với các fan. C. Ronaldo bị đồn yêu nữ phi công hâm mộ Barca Cậu con trai lém lỉnh của C. Ronaldo đã quá quen thuộc với các fan Real vì hình ảnh của bé xuất hiện hàng ngày trên Instagram của bố. Nhóc Cristiano Ronaldo Junior sắp tròn 6 tuổi nhưng đến giờ vẫn chưa biết mẹ của mình là ai. Gareth Bale và con gái đầu lòng Alba Violet. Tháng trước, tiền vệ đắt giá của xứ Wales đón công chúa nhỏ thứ hai, bé Nava Valentina. &apos;Cục cưng&apos; của James Rodriguez là công chúa nhỏ Salome mũm mĩm đáng yêu. Hai bố con rất gắn bó với nhau và tiền vệ Colombia cũng thường xuyên khoe những khoảnh khắc dễ thương của con gái. Toni Kroos âu yếm cậu con trai đầu lòng Leon trong một lần đi biển. Bạn gái Jessica của sao người Đức đang mang bầu em bé thứ hai. Gia đình Luka Modric hạnh phúc với hai thiên thần nhỏ đáng yêu. Sergio Ramos bên người tình Pilar Rubio và hai cậu con trai kháu khỉnh. Ông bố tóc xù Marcelo vừa ôm bé Liam mới vài tháng tuổi, vừa nhí nhảnh selfie, ghi lại cả khoảnh khắc ngủ dễ thương của cậu nhóc đầu Enzo. Bố con thủ môn Keylor Navas tươi tắn chụp ảnh. Trung vệ Pepe có hai cô con gái xinh xắn Emily và Angeli. Arbeloa có ba nhóc, trong ảnh là hai thiên thần nhỏ đầu lòng Alba và Raul. Isco vui đùa với con trai đáng yêu. Tối nay, Real sẽ bước vào trận bán kết lượt đi với Man City tại tại Anh. Hoàng Trang
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://ngoisao.net/tin-tuc/ben-le/ca-c-nho-c-ty-da-ng-yeu-cu-a-sao-real-3393033.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1800</post_time>
+<username></username>
+<post>
+Mã bảo mật Các nhóc tỳ đáng yêu của sao Real Con gái James Rodriguez, cậu nhóc tinh nghịch của C. Ronaldo hay Ramos là những em bé gây ấn tượng với các fan. C. Ronaldo bị đồn yêu nữ phi công hâm mộ Barca Cậu con trai lém lỉnh của C. Ronaldo đã quá quen thuộc với các fan Real vì hình ảnh của bé xuất hiện hàng ngày trên Instagram của bố. Nhóc Cristiano Ronaldo Junior sắp tròn 6 tuổi nhưng đến giờ vẫn chưa biết mẹ của mình là ai. Gareth Bale và con gái đầu lòng Alba Violet. Tháng trước, tiền vệ đắt giá của xứ Wales đón công chúa nhỏ thứ hai, bé Nava Valentina. &apos;Cục cưng&apos; của James Rodriguez là công chúa nhỏ Salome mũm mĩm đáng yêu. Hai bố con rất gắn bó với nhau và tiền vệ Colombia cũng thường xuyên khoe những khoảnh khắc dễ thương của con gái. Toni Kroos âu yếm cậu con trai đầu lòng Leon trong một lần đi biển. Bạn gái Jessica của sao người Đức đang mang bầu em bé thứ hai. Gia đình Luka Modric hạnh phúc với hai thiên thần nhỏ đáng yêu. Sergio Ramos bên người tình Pilar Rubio và hai cậu con trai kháu khỉnh. Ông bố tóc xù Marcelo vừa ôm bé Liam mới vài tháng tuổi, vừa nhí nhảnh selfie, ghi lại cả khoảnh khắc ngủ dễ thương của cậu nhóc đầu Enzo. Bố con thủ môn Keylor Navas tươi tắn chụp ảnh. Trung vệ Pepe có hai cô con gái xinh xắn Emily và Angeli. Arbeloa có ba nhóc, trong ảnh là hai thiên thần nhỏ đầu lòng Alba và Raul. Isco vui đùa với con trai đáng yêu. Tối nay, Real sẽ bước vào trận bán kết lượt đi với Man City tại tại Anh. Hoàng Trang
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>VN</country>
+<main_image>http://img.f21.ngoisao.vnecdn.net/2016/04/25/real-1461578596_490x294.jpg</main_image>
+</document>

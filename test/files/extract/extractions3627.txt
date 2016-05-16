@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.nieuwsdump.nl/feed/</forum>
+<forum_title>NieuwsDump.nl,Laatste Nieuws,Headlines,Sport,Ajax,Voetbal,Beurs,Politiek,Binnenland,Buitenland,Breaking Nieuws,Brekend</forum_title>
+<discussion_title>Vakbond FNV sleept TSN Thuiszorg voor de rechter</discussion_title>
+<language>dutch</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.nieuwsdump.nl/nieuws/vakbond-fnv-sleept-tsn-thuiszorg-voor-de-rechter</topic_url>
+<topic_text>
+Bron originele artikel:: NU.nl Economie - Vandaag 
+Vakbond de FNV start een kort geding tegen de failliete thuiszorginstelling TSN Thuiszorg om behoud van de arbeidsvoorwaarde van ruim twee...
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.nieuwsdump.nl/nieuws/vakbond-fnv-sleept-tsn-thuiszorg-voor-de-rechter</post_url>
+<post_date>20160425</post_date>
+<post_time>1432</post_time>
+<username></username>
+<post>
+Bron originele artikel:: NU.nl Economie - Vandaag 
+Vakbond de FNV start een kort geding tegen de failliete thuiszorginstelling TSN Thuiszorg om behoud van de arbeidsvoorwaarde van ruim twee...
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CZ</country>
+<main_image></main_image>
+</document>

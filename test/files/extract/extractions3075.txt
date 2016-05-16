@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.ziaresireviste.ro/index.php?page=agentii_turism</forum>
+<forum_title>Agentii Turism, cazare, Paste Craciun Revelion </forum_title>
+<discussion_title>Loteria organizează, de Paști, extrageri duble pentru jocurile Loto 6/49, Joker și Loto 5/40</discussion_title>
+<language>romanian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.ziaresireviste.ro/index.php?page=revista_presei&amp;details=on&amp;id=141857</topic_url>
+<topic_text>
+Loteria Română organizează duminică, 1 mai, Tragerile Speciale Loto ale Sărbătorilor de Paști, astfel că, pentru jocurile Loto 6/49, Joker și Loto 5/40, se organizează câte două trageri, una principală și una suplimentară, se arată într-un comunicat al Loteriei transmis, luni, AGERPRES .
+&apos;Cu fiecare variantă jucată și validată pentru aceste jocuri din data de 1 mai, se participă la ambele trageri organizate pentru jocul respectiv&apos;, se menţionează în comunicat.
+La tragerea suplimentară a fiecăruia dintre cele trei jocuri, fondurile de câștiguri ale categoriei I se suplimentează după cum urmează: pentru Loto 6/49 cu 300.000 lei, pentru Joker cu 200.000 lei și pentru Loto 5/40 cu 100.000 lei, menţionează compania.
+În urma extragerilor de duminică, 24 aprilie, au fost acordate 18.291 de câștiguri, în valoare totală de 1.102.174 lei.
+Astfel, la Loto 6/49, la categoria I, se înregistrează un report în valoare de peste 8,73 milioane de lei (peste 1,95 milioane de euro), iar la Noroc a rămas în joc un report cumulat în valoare de peste 2,45 milioane de lei (aproximativ 550.000 de euro).
+La Joker, la categoria I, se înregistrează un report în valoare de peste 8,8 milioane de lei (peste 1,97 milioane de euro), iar la Noroc Plus reportul categoriei I este de peste 188.500 lei (peste 42.100 de euro).
+La Loto 5/40, la categoria I, reportul este în valoare de peste 175.700 lei (peste 39.100 de euro) iar la jocul Super Noroc, la aceeași categorie, peste 31.600 lei.
+Pe de altă parte, Loteria anunţă că joi, 28 aprilie, nu vor avea loc trageri loto.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.ziaresireviste.ro/index.php?page=revista_presei&amp;details=on&amp;id=141857</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Agerpres.ro</username>
+<post>
+Loteria Română organizează duminică, 1 mai, Tragerile Speciale Loto ale Sărbătorilor de Paști, astfel că, pentru jocurile Loto 6/49, Joker și Loto 5/40, se organizează câte două trageri, una principală și una suplimentară, se arată într-un comunicat al Loteriei transmis, luni, AGERPRES .
+&apos;Cu fiecare variantă jucată și validată pentru aceste jocuri din data de 1 mai, se participă la ambele trageri organizate pentru jocul respectiv&apos;, se menţionează în comunicat.
+La tragerea suplimentară a fiecăruia dintre cele trei jocuri, fondurile de câștiguri ale categoriei I se suplimentează după cum urmează: pentru Loto 6/49 cu 300.000 lei, pentru Joker cu 200.000 lei și pentru Loto 5/40 cu 100.000 lei, menţionează compania.
+În urma extragerilor de duminică, 24 aprilie, au fost acordate 18.291 de câștiguri, în valoare totală de 1.102.174 lei.
+Astfel, la Loto 6/49, la categoria I, se înregistrează un report în valoare de peste 8,73 milioane de lei (peste 1,95 milioane de euro), iar la Noroc a rămas în joc un report cumulat în valoare de peste 2,45 milioane de lei (aproximativ 550.000 de euro).
+La Joker, la categoria I, se înregistrează un report în valoare de peste 8,8 milioane de lei (peste 1,97 milioane de euro), iar la Noroc Plus reportul categoriei I este de peste 188.500 lei (peste 42.100 de euro).
+La Loto 5/40, la categoria I, reportul este în valoare de peste 175.700 lei (peste 39.100 de euro) iar la jocul Super Noroc, la aceeași categorie, peste 31.600 lei.
+Pe de altă parte, Loteria anunţă că joi, 28 aprilie, nu vor avea loc trageri loto.
+</post>
+<signature>
+
+</signature>
+<external_links>
+<external_link>http://www.agerpres.ro/social/2016/04/25/loteria-organizeaza-de-pasti-extrageri-duble-pentru-jocurile-loto-6-49-joker-si-loto-5-40-15-36-59</external_link>
+</external_links>
+<country>RO</country>
+<main_image>http://www.ziaresireviste.ro/images/upload/articol/107024extragere-loto-1.jpg</main_image>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>March for Babies - View Personal Page For Jim McCann</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>https://www.marchforbabies.org/Fundraising/Personal?personId=6419704&amp;participantId=8001794&amp;user=jimbomc</topic_url>
+<topic_text>
+Jim McCann Why I walk 
+MY STORY : I was born nearly 3 months premature in 1974. At that time, less than 10% of premature babies survived being born that early. I was lucky. Despite being administered Baptism and Last Rights in the ambulance on the way to the hospital, my lungs not being fully formed, stopped breathing 3 times, and needing a blood transfusion from my grandfather, the team of an amazing doctor and staff at Vanderbilt Hospital kept me alive after 64 days in an incubator. I not only survived, but became a case study to help other preemies go on to live full and healthy lives globally. This is a cause close to me personally, obviously, and anyone who knows me has been touched by it, whether they realize it or not. Please help me raise funds to assist March of Dimes raise awareness and save more lives. Anything you can donate is greatly appreciated. Thank you! 
+GENERAL INFO : Right now, babies need all the help they can get. Premature birth affects about 380,000 babies here in the United States. I’m walking in March for Babies to get the message out about this terrible problem and you can help. Please make a secure donation to help me reach my goal. Together we can help the March of Dimes fight prematurity so more babies can get the strongest start possible. Your gift matters Funds raised in March for Babies support research and programs that help moms have full-term pregnancies and babies begin healthy lives. And they will be used to bring comfort and information to families with a baby in newborn intensive care. ﻿ 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>https://www.marchforbabies.org/Fundraising/Personal?personId=6419704&amp;participantId=8001794&amp;user=jimbomc</post_url>
+<post_date>20160430</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Jim McCann Why I walk 
+MY STORY : I was born nearly 3 months premature in 1974. At that time, less than 10% of premature babies survived being born that early. I was lucky. Despite being administered Baptism and Last Rights in the ambulance on the way to the hospital, my lungs not being fully formed, stopped breathing 3 times, and needing a blood transfusion from my grandfather, the team of an amazing doctor and staff at Vanderbilt Hospital kept me alive after 64 days in an incubator. I not only survived, but became a case study to help other preemies go on to live full and healthy lives globally. This is a cause close to me personally, obviously, and anyone who knows me has been touched by it, whether they realize it or not. Please help me raise funds to assist March of Dimes raise awareness and save more lives. Anything you can donate is greatly appreciated. Thank you! 
+GENERAL INFO : Right now, babies need all the help they can get. Premature birth affects about 380,000 babies here in the United States. I’m walking in March for Babies to get the message out about this terrible problem and you can help. Please make a secure donation to help me reach my goal. Together we can help the March of Dimes fight prematurity so more babies can get the strongest start possible. Your gift matters Funds raised in March for Babies support research and programs that help moms have full-term pregnancies and babies begin healthy lives. And they will be used to bring comfort and information to families with a baby in newborn intensive care. ﻿ 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>https://www.marchforbabies.org/includes/getFREDDocumentImageFacebook.asp?type=participantimage&amp;id=6E9875EC-94ED-497F-AC4E-423940D6A608&amp;t=150018396</main_image>
+</document>

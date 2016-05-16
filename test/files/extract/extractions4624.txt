@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Mexican douchebag problems: – NerdBits</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>https://www.nerdbits.com/mexican-douchebag-problems/</topic_url>
+<topic_text>
+Get the best viral stories straight into your inbox! 
+Email address: Don&apos;t worry we don&apos;t spam Disclaimer 
+This site is only for entertainment purposes. All images are copyrighted to their respective owners. All content cited is derived from their respective sources. Follow us 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>https://www.nerdbits.com/mexican-douchebag-problems/</post_url>
+<post_date>20160401</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Get the best viral stories straight into your inbox! 
+Email address: Don&apos;t worry we don&apos;t spam Disclaimer 
+This site is only for entertainment purposes. All images are copyrighted to their respective owners. All content cited is derived from their respective sources. Follow us 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

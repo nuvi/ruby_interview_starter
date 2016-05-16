@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.mb.com.ph/category/business/business-news/</forum>
+<forum_title>mb.com.ph | Philippine News | Archive | Business News</forum_title>
+<discussion_title>FWD expands in BGC amid strong momentum</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.mb.com.ph/fwd-expands-in-bgc-amid-strong-momentum/</topic_url>
+<topic_text>
+by Chino Leyco
+April 25, 2016 Driven by the momentum of its ongoing expansion, strong agency growth, and an impressive overall performance from the previous year, FWD Life Insurance Philippines has recently opened its new business hub and Customer Connect Center in Bonifacio Global City.
+In a statement, Peter Grimes, FWD Philippines president and chief executive said the company’s expansion seeks to help widen the insurer’s reach and promote greater awareness about the brand, its products and services.
+“We are continuing to establish a strong presence in various parts of the country through what we call a ‘backbone strategy,” Grimes said. “This is a key milestone for us because we feel like this (BGC) is a market where our proposition can resonate very well.”
+Earlier this month, FWD Philippines made a strong statement in the industry when it finished placed 13th among life insurers in the Philippines in 2015 — barely two years since beginning operations in the country.
+The business center, located at 12th floor of the Del Rosario Law Centre, will house the Salientes-Gonzales Associates (SGA) agency team, which recently became part of the FWD agency force.
+As the fastest growing insurance provider in the country, FWD sees the addition of 129 SGA planners and leaders to its agency force as a welcome development and further attests to its commitment of strengthening its distribution capability.
+“We’re very happy to welcome SGA into our team as we expect them to really provide a significant boost in our efforts to reach out to more Filipinos and change the way they look at and think about insurance,” Grimes said.
+FWD Life Insurance Corp. is the first life insurance company licensed by the Insurance Commission.
+FWD launched its commercial operations in September, 2014.
+FWD Group spans Hong Kong, Macau, Thailand, Indonesia and the Philippines, offering life and medical insurance, employee benefits, and general insurance across a number of its markets.
+Established in Asia in 2013, FWD is the insurance business arm of investment group, Pacific Century Group.
+FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by leading digital technologies.
+Through this customer-led approach, FWD will achieve its vision to become the leading pan-Asian insurer that changes the way people feel about insurance.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.mb.com.ph/fwd-expands-in-bgc-amid-strong-momentum/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Chino Leyco</username>
+<post>
+by Chino Leyco
+April 25, 2016 Driven by the momentum of its ongoing expansion, strong agency growth, and an impressive overall performance from the previous year, FWD Life Insurance Philippines has recently opened its new business hub and Customer Connect Center in Bonifacio Global City.
+In a statement, Peter Grimes, FWD Philippines president and chief executive said the company’s expansion seeks to help widen the insurer’s reach and promote greater awareness about the brand, its products and services.
+“We are continuing to establish a strong presence in various parts of the country through what we call a ‘backbone strategy,” Grimes said. “This is a key milestone for us because we feel like this (BGC) is a market where our proposition can resonate very well.”
+Earlier this month, FWD Philippines made a strong statement in the industry when it finished placed 13th among life insurers in the Philippines in 2015 — barely two years since beginning operations in the country.
+The business center, located at 12th floor of the Del Rosario Law Centre, will house the Salientes-Gonzales Associates (SGA) agency team, which recently became part of the FWD agency force.
+As the fastest growing insurance provider in the country, FWD sees the addition of 129 SGA planners and leaders to its agency force as a welcome development and further attests to its commitment of strengthening its distribution capability.
+“We’re very happy to welcome SGA into our team as we expect them to really provide a significant boost in our efforts to reach out to more Filipinos and change the way they look at and think about insurance,” Grimes said.
+FWD Life Insurance Corp. is the first life insurance company licensed by the Insurance Commission.
+FWD launched its commercial operations in September, 2014.
+FWD Group spans Hong Kong, Macau, Thailand, Indonesia and the Philippines, offering life and medical insurance, employee benefits, and general insurance across a number of its markets.
+Established in Asia in 2013, FWD is the insurance business arm of investment group, Pacific Century Group.
+FWD is focused on creating fresh customer experiences, with easy-to-understand products, supported by leading digital technologies.
+Through this customer-led approach, FWD will achieve its vision to become the leading pan-Asian insurer that changes the way people feel about insurance.
+</post>
+<signature>
+
+</signature>
+<external_links>
+<external_link>http://i.po.st/static/v3/post-widget.js#publisherKey=4qcr4d26tnrf260rqrda&amp;retina=true</external_link>
+</external_links>
+<country>CA</country>
+<main_image>http://www.mb.com.ph/wp-content/uploads/2016/04/FWD-logo.jpg</main_image>
+</document>

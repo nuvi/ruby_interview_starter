@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://dailynews724.com//rss.php</forum>
+<forum_title>Breaking News Updates | Latest News Headlines | Photos - News Videos</forum_title>
+<discussion_title>Donald Trump Defends Tom Brady After Deflategate Suspension Reinstatement</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.dailynews724.com/sports/donald-trump-defends-tom-brady-after-deflategate-suspension-reinstatement-h690242.html</topic_url>
+<topic_text>
+  11:30 Donald Trump Defends Tom Brady After Deflategate Suspension Reinstatement Trump also stuck up for Brady last August as the legendary QB was going through the appeals process to overturn the four-game ban. Robert F. Bukaty/Associated Press 110 Reads 2 Comments New England Patriots quarterback Tom Brady had his four-game suspension for the Deflategate controversy reinstated Monday by a United States Court of Appeals, per Reuters (via CNBC Now). 
+U.S. presidential candidate Donald Trump came to his friend Brady&apos;s defense shortly thereafter at a campaign rally in Warwick, Rhode Island. 
+&quot;Leave Tom Brady alone,&quot; said Trump in front of hundreds of supporters, per the Associated Press (via The Score). Trump added Brady is a &quot;great guy&quot; and said &quot;it&apos;s enough&quot; regarding the Deflategate saga. 
+Trump also stuck up for Brady last August as the legendary QB was going through the appeals process to overturn the four-game ban. 
+Brady said in September it would be &quot;great&quot; if Trump were to be elected the next U.S. president, further fortifying the high-profile friendship. 
+As NFL Network&apos;s Albert Breer reported Monday, Brady can seek an injunction and either appeal to the Supreme Court or ask for a rehearing before the full 2nd Circuit Court. Otherwise the suspension will be upheld. 
+The Patriots have already lost their 2016 first-round pick and a 2017 fourth-round pick and have been fined $1 million as part of the Deflategate punishment. If the NFL&apos;s latest bid to suspend Brady succeeds, 2014 second-round draft choice Jimmy Garoppolo will be in line to fill in under center.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.dailynews724.com/sports/donald-trump-defends-tom-brady-after-deflategate-suspension-reinstatement-h690242.html</post_url>
+<post_date>20160425</post_date>
+<post_time>0830</post_time>
+<username></username>
+<post>
+  11:30 Donald Trump Defends Tom Brady After Deflategate Suspension Reinstatement Trump also stuck up for Brady last August as the legendary QB was going through the appeals process to overturn the four-game ban. Robert F. Bukaty/Associated Press 110 Reads 2 Comments New England Patriots quarterback Tom Brady had his four-game suspension for the Deflategate controversy reinstated Monday by a United States Court of Appeals, per Reuters (via CNBC Now). 
+U.S. presidential candidate Donald Trump came to his friend Brady&apos;s defense shortly thereafter at a campaign rally in Warwick, Rhode Island. 
+&quot;Leave Tom Brady alone,&quot; said Trump in front of hundreds of supporters, per the Associated Press (via The Score). Trump added Brady is a &quot;great guy&quot; and said &quot;it&apos;s enough&quot; regarding the Deflategate saga. 
+Trump also stuck up for Brady last August as the legendary QB was going through the appeals process to overturn the four-game ban. 
+Brady said in September it would be &quot;great&quot; if Trump were to be elected the next U.S. president, further fortifying the high-profile friendship. 
+As NFL Network&apos;s Albert Breer reported Monday, Brady can seek an injunction and either appeal to the Supreme Court or ask for a rehearing before the full 2nd Circuit Court. Otherwise the suspension will be upheld. 
+The Patriots have already lost their 2016 first-round pick and a 2017 fourth-round pick and have been fined $1 million as part of the Deflategate punishment. If the NFL&apos;s latest bid to suspend Brady succeeds, 2014 second-round draft choice Jimmy Garoppolo will be in line to fill in under center.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://img.cdn34.com/haberler/2016/04/1461609035_news_.jpg</main_image>
+</document>

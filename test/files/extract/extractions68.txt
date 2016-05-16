@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://najvesti.com/feed/index.rss</forum>
+<forum_title>NajVesti.com</forum_title>
+<discussion_title>Šikić: Sustav umirovljenja je neodrživ, u mirovinu sa 67 godina od 2028.</discussion_title>
+<language>croatian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.najvesti.com/vesti-iz-srbije/vesti-ekonomija/3037123-Sikic-Sustav-umirovljenja-je-neodrziv-u-mirovinu-sa-67-godina-od-2028.html</topic_url>
+<topic_text>
+Šikić: Sustav umirovljenja je neodrživ, u mirovinu sa 67 godina od 2028. 25.04.2016 20:42 Izvor vesti: SEEbiz ZAGREB - Ministrica rada i mirovinskog sustava Nada Šikić istaknula je u ponedjeljak da je postojeći omjer umirovljenika i zaposlenika u Hrvatskoj dugoročno neodrživ te najavila stupanje na snagu prijedloga o pomicanju dobne granice za umirovljenje na 67 godina starosti od 2028. &quot;U ovom trenutku, osam županija u Hrvatskoj ima veći broj umirovljenika od zaposlenika. Prosjek zaposlenih osoba i umirovljenika je 1: 1,1 i sustav kao takav je u teškoj krizi iz tog razloga što će nam mirovine sve više padati&quot;, kazala je ministrica gostujući u središnjem dnevniku Hrvatske televizije. Populacija stari, i u Hrvatskoj, pa tako koeficijent pune zarađene mirovine u odnosu na posljednju plaću trenutno ...
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.najvesti.com/vesti-iz-srbije/vesti-ekonomija/3037123-Sikic-Sustav-umirovljenja-je-neodrziv-u-mirovinu-sa-67-godina-od-2028.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1842</post_time>
+<username></username>
+<post>
+Šikić: Sustav umirovljenja je neodrživ, u mirovinu sa 67 godina od 2028. 25.04.2016 20:42 Izvor vesti: SEEbiz ZAGREB - Ministrica rada i mirovinskog sustava Nada Šikić istaknula je u ponedjeljak da je postojeći omjer umirovljenika i zaposlenika u Hrvatskoj dugoročno neodrživ te najavila stupanje na snagu prijedloga o pomicanju dobne granice za umirovljenje na 67 godina starosti od 2028. &quot;U ovom trenutku, osam županija u Hrvatskoj ima veći broj umirovljenika od zaposlenika. Prosjek zaposlenih osoba i umirovljenika je 1: 1,1 i sustav kao takav je u teškoj krizi iz tog razloga što će nam mirovine sve više padati&quot;, kazala je ministrica gostujući u središnjem dnevniku Hrvatske televizije. Populacija stari, i u Hrvatskoj, pa tako koeficijent pune zarađene mirovine u odnosu na posljednju plaću trenutno ...
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.najvesti.com/files/images/artikli/54/2016-04-25/slika-25-04-20-42-10_sikicnada_0_0_468x10000.jpg</main_image>
+</document>

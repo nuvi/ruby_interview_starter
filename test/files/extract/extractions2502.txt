@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>https://music.yahoo.com/sitemap/stories/1.xml</forum>
+<forum_title></forum_title>
+<discussion_title>Watch LCD Soundsystem Cover Prince&apos;s &apos;Controversy&apos; at Coachella 2016</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>https://music.yahoo.com/news/watch-lcd-soundsystem-cover-princes-controversy-coachella-2016-103022354.html</topic_url>
+<topic_text>
+Coachella&apos;s second weekend featured no shortage of Prince tributes, and headliner LCD Soundsystem delivered one of the first night&apos;s most memorable covers on the main stage.
+Swathed in purple light, the reunited Brooklyn band treated the Coachella crowd to a powerful rendition of the late pop star&apos;s &quot;Controversy.&quot;
+Coachella 2016 Friday Weekend 2 Recap: Prince Tributes by LCD Soundsystem, Jack U, Ellie Goulding &amp; More
+As they had done the first weekend, the James Murphy-fronted outfit also paid tribute to David Bowie by covering &quot;Heroes.&quot;
+Check out videos of the Prince tribute below:
+A video posted by Jeff miller (@jeffmillerla) on Apr 22, 2016 at 11:39pm PDT
+Epic purple moment @lcdsoundsystem &quot;Controversy&quot; #coachella
+A video posted by Mimi Xu (@mistyrabbitmusic) on Apr 23, 2016 at 3:17am PDT
+More purple tonight. Friday&apos;s @coachella headliner @lcdsoundsystem paying homage to the late @prince by covering &quot;Controversy&quot; -- #ripprince #lcdsoundsystem #coachella #kroq
+A video posted by The World Famous KROQ (@kroq) on Apr 23, 2016 at 12:23am PDT
+LCD Soundsystem paid tribute to his Purple Majesty with an awesome cover of Controversy #RIPPrince #lcdsoundsystem
+A video posted by @fungaishon on Apr 23, 2016 at 3:20am PDT
+#controversy #lcdsoundsystem #prince #coachella --
+A video posted by Michele Manz (@michelemanz) on Apr 23, 2016 at 2:54am PDT
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>https://music.yahoo.com/news/watch-lcd-soundsystem-cover-princes-controversy-coachella-2016-103022354.html</post_url>
+<post_date>20160423</post_date>
+<post_time>1340</post_time>
+<username>Billboard</username>
+<post>
+Coachella&apos;s second weekend featured no shortage of Prince tributes, and headliner LCD Soundsystem delivered one of the first night&apos;s most memorable covers on the main stage.
+Swathed in purple light, the reunited Brooklyn band treated the Coachella crowd to a powerful rendition of the late pop star&apos;s &quot;Controversy.&quot;
+Coachella 2016 Friday Weekend 2 Recap: Prince Tributes by LCD Soundsystem, Jack U, Ellie Goulding &amp; More
+As they had done the first weekend, the James Murphy-fronted outfit also paid tribute to David Bowie by covering &quot;Heroes.&quot;
+Check out videos of the Prince tribute below:
+A video posted by Jeff miller (@jeffmillerla) on Apr 22, 2016 at 11:39pm PDT
+Epic purple moment @lcdsoundsystem &quot;Controversy&quot; #coachella
+A video posted by Mimi Xu (@mistyrabbitmusic) on Apr 23, 2016 at 3:17am PDT
+More purple tonight. Friday&apos;s @coachella headliner @lcdsoundsystem paying homage to the late @prince by covering &quot;Controversy&quot; -- #ripprince #lcdsoundsystem #coachella #kroq
+A video posted by The World Famous KROQ (@kroq) on Apr 23, 2016 at 12:23am PDT
+LCD Soundsystem paid tribute to his Purple Majesty with an awesome cover of Controversy #RIPPrince #lcdsoundsystem
+A video posted by @fungaishon on Apr 23, 2016 at 3:20am PDT
+#controversy #lcdsoundsystem #prince #coachella --
+A video posted by Michele Manz (@michelemanz) on Apr 23, 2016 at 2:54am PDT
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://wn.com/US</forum>
+<forum_title>US News from WN Network</forum_title>
+<discussion_title>No new Utah school near ancient burial ground, many Navajo families say</discussion_title>
+<language>english</language>
+<gmt_offset>0</gmt_offset>
+<topic_url>http://article.wn.com/view/2016/04/25/No_new_Utah_school_near_ancient_burial_ground_many_Navajo_fa/</topic_url>
+<topic_text>
+More than three decades ago, the ancient remains of 18 American Indians were removed from burial grounds west of Bluff to make way for highway construction. Now, San Juan School District officials plan to build a desperately needed elementary school on this land purchased last year from two prominent local families. But the site is unacceptable for many Navajo families, who don’t want their children and grandchildren attending school so close to places where Ancestral Puebloans, or Anasazi, live...
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://article.wn.com/view/2016/04/25/No_new_Utah_school_near_ancient_burial_ground_many_Navajo_fa/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>wn.com</username>
+<post>
+More than three decades ago, the ancient remains of 18 American Indians were removed from burial grounds west of Bluff to make way for highway construction. Now, San Juan School District officials plan to build a desperately needed elementary school on this land purchased last year from two prominent local families. But the site is unacceptable for many Navajo families, who don’t want their children and grandchildren attending school so close to places where Ancestral Puebloans, or Anasazi, live...
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>http://i.ytimg.com/vi/i_TdoI8apgg/0.jpg</main_image>
+</document>

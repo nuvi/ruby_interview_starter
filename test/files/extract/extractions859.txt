@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.krebs-kompass.org/external.php?type=RSS2</forum>
+<forum_title>Krebs-Kompass Forum</forum_title>
+<discussion_title>Bitte gebt mir Rat</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.krebs-kompass.org/showthread.php?p=1354058#post1354058</topic_url>
+<topic_text>
+Liebes Forum.... ich brauche bitte eure Hilfe, euren Rat. Bei meinem Vater wurde vor ca. 2 Jahren Prostatakrebs diagnostiziert. Trotz des Krebs war er fit wie ein Turnschuh. Mein Vater ist 75 Jahre alt. Er war ein sehr sportlicher und aktiver Mann und Vater für uns, auch mit seinen 75 und seinem Krebs. Aufgrund von Metastasen wurde mein Vater vor einigen Monaten ich sage mal am Nacken bestrahlt. Dies war auch völlig ohne Nebenwirkungen. Dann musste er im oberen HWS Bereich bestrahlt werden, woraufhin er dann weder essen noch trinken konnte und ziemlich abgenommen hatte. Zwischenzeitlich nach mehreren Wochen dieser Nebenwirkung also auch aktuell hat mein Vater Zytigia 4 Dtück am Tag verschrieben bekommen. Seit dem, es sind gerade mal ca. 3 Wochen ist mein Vater wie eine Leiche geworden. Er hat keinen Appettit, kann nichts essen, hat Übelkeit und einfach keine Kraft mehr. Er schaut aus wie ein Magersüchtiger. Heute früh wurde er wieder mit Feuerwehr ins Krh gefahren und liegt dort wie ein toter ohne Kraft und gar nichts. Er sagt mir das er diese Zytigia Tabletten nicht mehr einnehmen wird, das diese Tabletten sein Leben zur Hölle gemacht hätten und nicht der Krebs. Ich bin verzweifelt und weiss als seine Tochter nicht was ich machen soll ... . Ich bin ratlos und mir tut meine Seele weh, weil ich meinen Vater nicht so kenne. Er war ein ganz starker Mann und mein Beschützer... Und nun . Er hat auch einen sehr extrem trockenen Mund sagt er. Demnächst wollten sie ihm auch am Becken bestrahlen. Er kann auch nicht mehr laufen aufgrund von Schmerzen. Er kann sich selbst nicht mehr tragen. Und ist dieses Zytigia eine Hormontherapie oder eine Chemotherapie??? Ansonsten kriegt er alle 4 Wochen einen Tropf zur Stabilisierung seiner Knochen. Geändert von gitti2002 (Heute um
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.krebs-kompass.org/showthread.php?p=1354058#post1354058</post_url>
+<post_date>20160425</post_date>
+<post_time>1636</post_time>
+<username>xoceanx</username>
+<post>
+Liebes Forum.... ich brauche bitte eure Hilfe, euren Rat. Bei meinem Vater wurde vor ca. 2 Jahren Prostatakrebs diagnostiziert. Trotz des Krebs war er fit wie ein Turnschuh. Mein Vater ist 75 Jahre alt. Er war ein sehr sportlicher und aktiver Mann und Vater für uns, auch mit seinen 75 und seinem Krebs. Aufgrund von Metastasen wurde mein Vater vor einigen Monaten ich sage mal am Nacken bestrahlt. Dies war auch völlig ohne Nebenwirkungen. Dann musste er im oberen HWS Bereich bestrahlt werden, woraufhin er dann weder essen noch trinken konnte und ziemlich abgenommen hatte. Zwischenzeitlich nach mehreren Wochen dieser Nebenwirkung also auch aktuell hat mein Vater Zytigia 4 Dtück am Tag verschrieben bekommen. Seit dem, es sind gerade mal ca. 3 Wochen ist mein Vater wie eine Leiche geworden. Er hat keinen Appettit, kann nichts essen, hat Übelkeit und einfach keine Kraft mehr. Er schaut aus wie ein Magersüchtiger. Heute früh wurde er wieder mit Feuerwehr ins Krh gefahren und liegt dort wie ein toter ohne Kraft und gar nichts. Er sagt mir das er diese Zytigia Tabletten nicht mehr einnehmen wird, das diese Tabletten sein Leben zur Hölle gemacht hätten und nicht der Krebs. Ich bin verzweifelt und weiss als seine Tochter nicht was ich machen soll ... . Ich bin ratlos und mir tut meine Seele weh, weil ich meinen Vater nicht so kenne. Er war ein ganz starker Mann und mein Beschützer... Und nun . Er hat auch einen sehr extrem trockenen Mund sagt er. Demnächst wollten sie ihm auch am Becken bestrahlen. Er kann auch nicht mehr laufen aufgrund von Schmerzen. Er kann sich selbst nicht mehr tragen. Und ist dieses Zytigia eine Hormontherapie oder eine Chemotherapie??? Ansonsten kriegt er alle 4 Wochen einen Tropf zur Stabilisierung seiner Knochen. Geändert von gitti2002 (Heute um
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image></main_image>
+</document>

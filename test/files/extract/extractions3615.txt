@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>UNCHARTED 4 : A Thief s End - Final Trailer [HD] - GamePlayMotion</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.gameplaymotion.com/uncharted-4-a-thief-s-end-final-trailer-hd/</topic_url>
+<topic_text>
+ARK: Survival Evolved – BEER BARRELS! S... 00:26:55 Augmented Reality, Virtual Reality, High Tech, GamePlay, News and Videos. GamePlayMotion is a leading source for news, information &amp; resources for the Connected Generation and a VR specialist website covering all aspects of the technology. We explore the bleeding edge of VR, AR, video games and human-computer interaction. We’re charting the course between today’s immersive technology and that of the distant future, capable of perfect simulations of reality. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.gameplaymotion.com/uncharted-4-a-thief-s-end-final-trailer-hd/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+ARK: Survival Evolved – BEER BARRELS! S... 00:26:55 Augmented Reality, Virtual Reality, High Tech, GamePlay, News and Videos. GamePlayMotion is a leading source for news, information &amp; resources for the Connected Generation and a VR specialist website covering all aspects of the technology. We explore the bleeding edge of VR, AR, video games and human-computer interaction. We’re charting the course between today’s immersive technology and that of the distant future, capable of perfect simulations of reality. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www.gameplaymotion.com/wp-content/uploads/mvbthumbs/img_44011_uncharted-4-a-thief-s-end-final-trailer-hd.jpg</main_image>
+</document>

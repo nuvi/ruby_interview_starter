@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://feeds.feedburner.com/realhotnewhiphop</forum>
+<forum_title>HotNewHipHop.com</forum_title>
+<discussion_title>Desiigner&apos;s &quot;Panda&quot; Hits #1 On The Billboard Hot 100</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.hotnewhiphop.com/desiigners-panda-hits-1-on-the-billboard-hot-100-news.21273.html</topic_url>
+<topic_text>
+Home &gt; News &gt; Desiigner&apos;s &quot;Panda&quot; Hits #1 On The Billboard Hot 100 Desiigner&apos;s &quot;Panda&quot; Hits #1 On The Billboard Hot 100 5 2 Posted by Trevor Smith , Apr 25, 2016 at 02:46pm Desiigner officially has the biggest song in the country. 
+After 6 weeks on the chart, Desiigner&apos;s debut single, &quot;Panda&quot; has reached the #1 position on the Billboard Hot 100. The single, which was introduced to many through its placement within Kanye West &apos;s &quot;Father Stretch My Hands Pt. 2&quot; on The Life Of Pablo , has ended Rihanna &apos;s streak at the top of the charts, moving from #2 this week.This makes the Brooklyn rapper&apos;s hit the first hip-hop song to hit the top spot since Wiz Khalifa &apos;s &quot;See You Again&quot; in 2015. Billboard had Desiigner announce his achievement via live stream. Congratulations to the rapper on this milestone achievement.How many weeks do you think it can hold on to the top spot? Read our recent feature on every rap song to hit #1 on the Hot 100 here . Stay tuned for the #Hot100 top 10 countdown (with special guest @LifeOfDesiigner ) on Facebook Live! pic.twitter.com/hC1fGm3WOU
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.hotnewhiphop.com/desiigners-panda-hits-1-on-the-billboard-hot-100-news.21273.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1846</post_time>
+<username>Trevor Smith</username>
+<post>
+Home &gt; News &gt; Desiigner&apos;s &quot;Panda&quot; Hits #1 On The Billboard Hot 100 Desiigner&apos;s &quot;Panda&quot; Hits #1 On The Billboard Hot 100 5 2 Posted by Trevor Smith , Apr 25, 2016 at 02:46pm Desiigner officially has the biggest song in the country. 
+After 6 weeks on the chart, Desiigner&apos;s debut single, &quot;Panda&quot; has reached the #1 position on the Billboard Hot 100. The single, which was introduced to many through its placement within Kanye West &apos;s &quot;Father Stretch My Hands Pt. 2&quot; on The Life Of Pablo , has ended Rihanna &apos;s streak at the top of the charts, moving from #2 this week.This makes the Brooklyn rapper&apos;s hit the first hip-hop song to hit the top spot since Wiz Khalifa &apos;s &quot;See You Again&quot; in 2015. Billboard had Desiigner announce his achievement via live stream. Congratulations to the rapper on this milestone achievement.How many weeks do you think it can hold on to the top spot? Read our recent feature on every rap song to hit #1 on the Hot 100 here . Stay tuned for the #Hot100 top 10 countdown (with special guest @LifeOfDesiigner ) on Facebook Live! pic.twitter.com/hC1fGm3WOU
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CA</country>
+<main_image>http://www.hotnewhiphop.com/image/620x412/cover/1461609960_74531539251ec8280355fd0f3eeabbf1.jpg/ec524ac8aea223b37c984d3b5ec8c145/1461609950_2659392eef3202e237513ebad7fa6397.jpg</main_image>
+</document>

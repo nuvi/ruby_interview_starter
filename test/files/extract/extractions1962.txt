@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>How Programming Could Democratize Genetics</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.psfk.com/2016/04/how-programming-could-democratize-genetics.html</topic_url>
+<topic_text>
+Technology 
+A community of scientists and biological engineers at MIT have created a programming language which condenses the time it takes to encode circuits with DNA to provide living cells with new functions. The language works on strains of bacteria and will provide users with a single language to use to work with different organisms. 
+Most importantly, the platform appears to give amateur geneticists access to explore some 60 circuits which replicate environmental conditions on a cellular level, like alcohol or oxygen levels and concentration of glucose. MIT professor of biological engineering Christopher Voigt notes significant top line observations: 
+You could be completely naive as to how any of it works. That’s what’s really different about this. You could be a student in high school and go onto the Web-based server and type out the program you want, and it spits back the DNA sequence… it would take years to build these types of circuits. Now you just hit the button and immediately get a DNA sequence to test. 
+So in the context of this system, let’s say we want the bacteria to stop making insulin once it reaches a desired concentration point, users could essentially code for the baceteria to stop making insulin once it detects that the protein concentration has become too high. Using this language, anyone can write a program to place desired functions and responses to environmental conditions. 
+The project will eventually be optimized for bacteria other than E. coli, which is by far the most studied bacteria. E. coli is particularly effective in biological engineering and coding because the bacteria accepts foreign DNA. As you might know, DNA makes proteins and proteins are actually what do things on a cellular level (bring things in, take them out, split 1 product into two or combine 2 products into 1…etc.) 
+On the horizon are applications with Bacteroides (found in human gut) and Pseudomonas (found in plant roots) to create bacteria which helps with the digestion of lactose or bacteria that can produce insecticide around botanical life. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.psfk.com/2016/04/how-programming-could-democratize-genetics.html</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Plus Aziz</username>
+<post>
+Technology 
+A community of scientists and biological engineers at MIT have created a programming language which condenses the time it takes to encode circuits with DNA to provide living cells with new functions. The language works on strains of bacteria and will provide users with a single language to use to work with different organisms. 
+Most importantly, the platform appears to give amateur geneticists access to explore some 60 circuits which replicate environmental conditions on a cellular level, like alcohol or oxygen levels and concentration of glucose. MIT professor of biological engineering Christopher Voigt notes significant top line observations: 
+You could be completely naive as to how any of it works. That’s what’s really different about this. You could be a student in high school and go onto the Web-based server and type out the program you want, and it spits back the DNA sequence… it would take years to build these types of circuits. Now you just hit the button and immediately get a DNA sequence to test. 
+So in the context of this system, let’s say we want the bacteria to stop making insulin once it reaches a desired concentration point, users could essentially code for the baceteria to stop making insulin once it detects that the protein concentration has become too high. Using this language, anyone can write a program to place desired functions and responses to environmental conditions. 
+The project will eventually be optimized for bacteria other than E. coli, which is by far the most studied bacteria. E. coli is particularly effective in biological engineering and coding because the bacteria accepts foreign DNA. As you might know, DNA makes proteins and proteins are actually what do things on a cellular level (bring things in, take them out, split 1 product into two or combine 2 products into 1…etc.) 
+On the horizon are applications with Bacteroides (found in human gut) and Pseudomonas (found in plant roots) to create bacteria which helps with the digestion of lactose or bacteria that can produce insecticide around botanical life. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://cdn.psfk.com/wp-content/uploads/2016/04/shutterstock_273995360.jpg</main_image>
+</document>

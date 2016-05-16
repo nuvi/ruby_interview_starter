@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.thenorthernecho.co.uk/news/local/northyorkshire/rss</forum>
+<forum_title>The Northern Echo | North Yorkshire</forum_title>
+<discussion_title>Cash call to help save the Lyke Wake Walk</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.thenorthernecho.co.uk/news/local/northyorkshire/14450545.Cash_call_to_help_save_the_Lyke_Wake_Walk/?ref=rss</topic_url>
+<topic_text>
+Cash call to help save the Lyke Wake Walk Eroded path on the Lyke Wake Walk. 0 comments 
+JUST two weeks are left for a crowdfunding campaign to repair a badly eroded section of one of the region’s best-loved walking trails 
+Enthusiasts have so far pledged £1,757 to help improve the Lyke Wake Walk on the North York Moors. 
+And organisers are hoping that with the support of other people with a love for the National Park, they reach the £10,000 target by the deadline of May 9. 
+Loading article content 
+The effort is part of the British Mountaineering Council’s “Mend our Mountains” crowdfunding campaign, which aims to raise money for urgent path repair projects on some of Britain’s most iconic peaks. 
+The scale of work needed on a section of the Lyke Wake Walk on Fylingdales Moor is extensive. 
+The fragile peat moorland has eroded to several metres wide, in the process undermining ancient monuments, including Lilla Cross, possibly the oldest stone cross of its type in northern England. 
+Work to repair the path and make it more sustainable is possible but because of its remote location it will be expensive. 
+Head of park management Karl Gerhardson said: “We’re really pleased to be part of this campaign and it’s great that people are giving so generously. 
+“I’m confident that if everyone who cared about the North York Moors landscape gave a quid, we’d be laughing. 
+“It’s fantastic that we’ve already raised nearly £2,000 but we still have quite a bit to do to meet our target.” 
+For details visit crowdfunder.co.uk/mend-the-north-york-moors/
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.thenorthernecho.co.uk/news/local/northyorkshire/14450545.Cash_call_to_help_save_the_Lyke_Wake_Walk/?ref=rss</post_url>
+<post_date>20160425</post_date>
+<post_time>1416</post_time>
+<username></username>
+<post>
+Cash call to help save the Lyke Wake Walk Eroded path on the Lyke Wake Walk. 0 comments 
+JUST two weeks are left for a crowdfunding campaign to repair a badly eroded section of one of the region’s best-loved walking trails 
+Enthusiasts have so far pledged £1,757 to help improve the Lyke Wake Walk on the North York Moors. 
+And organisers are hoping that with the support of other people with a love for the National Park, they reach the £10,000 target by the deadline of May 9. 
+Loading article content 
+The effort is part of the British Mountaineering Council’s “Mend our Mountains” crowdfunding campaign, which aims to raise money for urgent path repair projects on some of Britain’s most iconic peaks. 
+The scale of work needed on a section of the Lyke Wake Walk on Fylingdales Moor is extensive. 
+The fragile peat moorland has eroded to several metres wide, in the process undermining ancient monuments, including Lilla Cross, possibly the oldest stone cross of its type in northern England. 
+Work to repair the path and make it more sustainable is possible but because of its remote location it will be expensive. 
+Head of park management Karl Gerhardson said: “We’re really pleased to be part of this campaign and it’s great that people are giving so generously. 
+“I’m confident that if everyone who cared about the North York Moors landscape gave a quid, we’d be laughing. 
+“It’s fantastic that we’ve already raised nearly £2,000 but we still have quite a bit to do to meet our target.” 
+For details visit crowdfunder.co.uk/mend-the-north-york-moors/
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>http://www.thenorthernecho.co.uk/resources/images/4837158/</main_image>
+</document>

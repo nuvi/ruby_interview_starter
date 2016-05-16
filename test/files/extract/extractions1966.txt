@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Otte medaljer hædrer Politikens design - Politiken.dk</discussion_title>
+<language>norwegian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://politiken.dk/kultur/medier/ECE3175952/otte-medaljer-haedrer-politikens-design/</topic_url>
+<topic_text>
+25. apr. 2016 KL. 20.44 Otte medaljer hædrer Politikens design Politiken vandt flere priser ved designkonkurrence for aviser på web og print. Følg Cecilie Lund Kristiansen Journalist Skriver om studerende og uddannelser på Politikens indlandsredaktion. Uddannet journalist fra Danmarks Medie- og Journalisthøjskole og Københavns Universitet. 
+Danske Medier har tildelt Politiken otte medaljer ved årets designkonkurrence for print- og webmedier. 
+Politiken blev dermed det mest vindende medie i konkurrencen Årets Avisside og Årets Webavis. Søren Nyeland, designchef på Politiken, fremhæver, at fem af medaljerne gik til politiken.dk. 
+»Det var faktisk en lidt overvældende oplevelse at få overrakt al denne dokumentation for, at vi står så stærkt blandt de hjemlige digitale medier«, siger han. 
+De otte medaljer inkluderer både guld, sølv og hæder. Guldet gik til en feature fra en barbershop i Vollsmose , som den så ud i den trykte avis, og som Miriam Dalsgaard fotograferede og Henriette Lind beskrev. Digitalt sølv 
+Jyllands-Posten vandt guld for gode eksempler på design på både web og print. På print blev et opslag fra 10-års-dagen for offentliggørelsen af Muhammedtegningerne hædret, hvor avisen gengav siden fra 2005, men med hvide huller, hvor de oprindelige tegninger var. 
+På web vandt avisen guld for serien &apos;Konvertitten&apos;, der fortæller om en dansk dreng, som blev islamist og døde i den syriske borgerkrig. 
+Politiken vandt sølv for tre digitale elementer og en forside på printavisen fra den dag, hvor grundloven fyldte 100 år. 
+Appen Politiken Podcast , som Katrine Yde, Frederik Storm, Esben Mosbæk og Nikolaj Lauta står bag, blev rost for en »meget klar og enkel visuel identitet«. 
+Janus Engels fotoessay fra Langeland , der sidste sommer førte til ophedet diskussion og et dialogmøde i Rudkøbing , tager os ifølge juryen »helt tæt på skæbnerne, naturen og kulturen i et lille hjørne af Danmark«, og fortjener derfor også en sølvmedalje. 
+Derudover vandt videoen &apos;Forstå Islamisk Stat på 2 minutter&apos; , som Kristian Jensen, Morten Fogde og Marcus Rubin står bag, også sølv for at »skabe et format og en fortælling, der trænger igennem støjen, fastholder interessen og skaber overblik«. Desuden fik to digitale elementer, 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://politiken.dk/kultur/medier/ECE3175952/otte-medaljer-haedrer-politikens-design/</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+25. apr. 2016 KL. 20.44 Otte medaljer hædrer Politikens design Politiken vandt flere priser ved designkonkurrence for aviser på web og print. Følg Cecilie Lund Kristiansen Journalist Skriver om studerende og uddannelser på Politikens indlandsredaktion. Uddannet journalist fra Danmarks Medie- og Journalisthøjskole og Københavns Universitet. 
+Danske Medier har tildelt Politiken otte medaljer ved årets designkonkurrence for print- og webmedier. 
+Politiken blev dermed det mest vindende medie i konkurrencen Årets Avisside og Årets Webavis. Søren Nyeland, designchef på Politiken, fremhæver, at fem af medaljerne gik til politiken.dk. 
+»Det var faktisk en lidt overvældende oplevelse at få overrakt al denne dokumentation for, at vi står så stærkt blandt de hjemlige digitale medier«, siger han. 
+De otte medaljer inkluderer både guld, sølv og hæder. Guldet gik til en feature fra en barbershop i Vollsmose , som den så ud i den trykte avis, og som Miriam Dalsgaard fotograferede og Henriette Lind beskrev. Digitalt sølv 
+Jyllands-Posten vandt guld for gode eksempler på design på både web og print. På print blev et opslag fra 10-års-dagen for offentliggørelsen af Muhammedtegningerne hædret, hvor avisen gengav siden fra 2005, men med hvide huller, hvor de oprindelige tegninger var. 
+På web vandt avisen guld for serien &apos;Konvertitten&apos;, der fortæller om en dansk dreng, som blev islamist og døde i den syriske borgerkrig. 
+Politiken vandt sølv for tre digitale elementer og en forside på printavisen fra den dag, hvor grundloven fyldte 100 år. 
+Appen Politiken Podcast , som Katrine Yde, Frederik Storm, Esben Mosbæk og Nikolaj Lauta står bag, blev rost for en »meget klar og enkel visuel identitet«. 
+Janus Engels fotoessay fra Langeland , der sidste sommer førte til ophedet diskussion og et dialogmøde i Rudkøbing , tager os ifølge juryen »helt tæt på skæbnerne, naturen og kulturen i et lille hjørne af Danmark«, og fortjener derfor også en sølvmedalje. 
+Derudover vandt videoen &apos;Forstå Islamisk Stat på 2 minutter&apos; , som Kristian Jensen, Morten Fogde og Marcus Rubin står bag, også sølv for at »skabe et format og en fortælling, der trænger igennem støjen, fastholder interessen og skaber overblik«. Desuden fik to digitale elementer, 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DK</country>
+<main_image>http://multimedia.pol.dk/archive/01022/barbershop_1022488w.jpg</main_image>
+</document>

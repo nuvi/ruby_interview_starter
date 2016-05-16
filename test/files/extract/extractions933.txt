@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www1.wdr.de/nachrichten/ruhrgebiet/uebersicht-ruhrgebiet-100.feed</forum>
+<forum_title>Ruhrgebiet - WDR.de</forum_title>
+<discussion_title>Fluchtversuch gescheitert</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www1.wdr.de/nachrichten/ruhrgebiet/haeftling-weg-und-eingefangen-100.html</topic_url>
+<topic_text>
+Neuer Abschnitt Fluchtversuch gescheitert Ein Häftling der JVA Bochum ist heute bei einem Arztbesuch geflüchtet. Er konnte aber wenig später wieder festgenommen werden. Verurteilt ist der Mann wegen schweren Raubes. Neuer Abschnitt Wegen einer Fußverletzung befand sich der 44-Jährige in ärztlicher Behandlung. Die ihn begleitenden JVA-Mitarbeiter hatten dazu auf Handfesseln verzichtet. Auf dem Weg zur Arztpraxis hatte der Gefangene dann seine Gehhilfen weggeworfen und war in die Bochumer Fußgängerzone gerannt, wo er mit Hilfe von zwei Passanten wieder festgenommen wurde. Stand: 25.04.2016, 16:12
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www1.wdr.de/nachrichten/ruhrgebiet/haeftling-weg-und-eingefangen-100.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1412</post_time>
+<username>WDR</username>
+<post>
+Neuer Abschnitt Fluchtversuch gescheitert Ein Häftling der JVA Bochum ist heute bei einem Arztbesuch geflüchtet. Er konnte aber wenig später wieder festgenommen werden. Verurteilt ist der Mann wegen schweren Raubes. Neuer Abschnitt Wegen einer Fußverletzung befand sich der 44-Jährige in ärztlicher Behandlung. Die ihn begleitenden JVA-Mitarbeiter hatten dazu auf Handfesseln verzichtet. Auf dem Weg zur Arztpraxis hatte der Gefangene dann seine Gehhilfen weggeworfen und war in die Bochumer Fußgängerzone gerannt, wo er mit Hilfe von zwei Passanten wieder festgenommen wurde. Stand: 25.04.2016, 16:12
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www1.wdr.de/fernsehen/aktuelle-stunde/gefaengnisausbruch-jva-bochum-102~_v-ARDFotogalerie.jpg</main_image>
+</document>

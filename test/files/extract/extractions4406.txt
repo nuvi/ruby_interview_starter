@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.dogsnow.com/miniaustralianshepherd.xml</forum>
+<forum_title>Mini Australian Shepherd Puppies for Sale</forum_title>
+<discussion_title>Rd M Splitfa</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.dogsnow.com/dog-ad-o4205182645</topic_url>
+<topic_text>
+  
+This red merle has a split face, half color, half white. full collar, lots of white on legs. ASDR. very flashy, too much white to show, but is beautiful companion. Tail and dew claws done. Will come with two puppy shots and dewormed. household raised/ Sire is 2x International Champion, dam is double blue eyed red merle. Mature 12-13&quot; should be blue eyed. you are welcome to come and visit while he is growing old enough to leave here at eight weeks.  
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.dogsnow.com/dog-ad-o4205182645</post_url>
+<post_date>20160424</post_date>
+<post_time>0442</post_time>
+<username></username>
+<post>
+  
+This red merle has a split face, half color, half white. full collar, lots of white on legs. ASDR. very flashy, too much white to show, but is beautiful companion. Tail and dew claws done. Will come with two puppy shots and dewormed. household raised/ Sire is 2x International Champion, dam is double blue eyed red merle. Mature 12-13&quot; should be blue eyed. you are welcome to come and visit while he is growing old enough to leave here at eight weeks.  
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://i.oodleimg.com/item/4205182645t_1j_dogs_in_phillipsburg_nj/?1461590295</main_image>
+</document>

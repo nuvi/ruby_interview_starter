@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>TAKE-out.IT • cosmicdesigners: Shipp Pattern Budi Tanrim</discussion_title>
+<language>korean</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://take-out.it/post/143388175157</topic_url>
+<topic_text>
+별다방, 콩다방에서 커피만 테이크-아웃 하시나요? 이제, 재미있는 IT 뉴스도 테이크-아웃 하세요! TAKE-out IT Pages 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://take-out.it/post/143388175157</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+별다방, 콩다방에서 커피만 테이크-아웃 하시나요? 이제, 재미있는 IT 뉴스도 테이크-아웃 하세요! TAKE-out IT Pages 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://40.media.tumblr.com/40f70a97c0ec5299c636d6b2a180cf01/tumblr_o67cbutmle1s6mi2go1_500.jpg</main_image>
+</document>

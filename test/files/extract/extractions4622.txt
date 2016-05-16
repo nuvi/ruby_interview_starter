@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Proponen doble multa para funcionarios que agredan a peatones | La Crónica de Hoy</discussion_title>
+<language>spanish</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.cronica.com.mx/notas/2016/957275.html</topic_url>
+<topic_text>
+Proponen doble multa para funcionarios que agredan a peatones por 2016-04-25 - 00:00:00 Foto: Tomada de Internet 
+El Grupo Parlamentario del Partido de la Revolución Democrática (PRD) en la Asamblea Legislativa del Distrito Federal (ALDF) propondrá sanciones para los servidores públicos que no respeten a los peatones. Para ello, esta semana presentarán ante el Pleno una iniciativa para crear la Ley de la Carta para la Protección de los Derechos de las y los Peatones y el Espacio Público, en la que castigará con multas económicas o despido, a los servidores públicos del Gobierno capitalino y las 16 delegaciones que no respeten a los peatones. “Las sanciones derivadas de un mal desempeño en el manejo de vehículos oficiales serán pagadas por el conductor del vehículo a doble monto que establezca el Reglamento de Tránsito sin posibilidad de descuento por pronto pago, pudiendo ser descontado el pago de su salario. La violación reiterada a esta ley por parte de un servidor público de la Ciudad de México será motivo suficiente para su despido”, comentó el diputado Víctor Hugo Romo. Los servidores públicos serán capacitados con regularidad a fin de salvaguardar la vida de las personas en la calle y proteger los derechos de los peatones, pues de acuerdo con el Instituto de Políticas para el Transporte y Desarrollo, el año pasado mil 30 personas murieron por atropellamientos en la ciudad. El asambleísta comentó que con esta Carta también se busca que los peatones tenga una sola obligación, convivir con respeto.“Los derechos a garantizar convivencia respetuosa como única obligación de los peatones, los peatones solo tendrán en su condición de personas usuarias del espacio público la obligación de convivir con respeto con las demás personas, la condición del peatón no genera nuevas obligaciones”, dijo. Esta Carta definirá el concepto de espacio público y establecerá la obligación de Crear en un año un Plan Maestro de Espacio Público, y crea la figura de espacio privado de uso público, en el que se revisará el rol que juegan los espacios privados para poder alcanzar un espacio público, por ejemplo las plazas comerciales. Al respecto, Roberto Remes, titular de la Autoridad del Espacio Público (AEP), aplaudió la iniciativa ya que incluye —dijo— la visión de la ciudadanía y establece el derecho de las y los peatones de transitar con libertad. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.cronica.com.mx/notas/2016/957275.html</post_url>
+<post_date>20160424</post_date>
+<post_time></post_time>
+<username></username>
+<post>
+Proponen doble multa para funcionarios que agredan a peatones por 2016-04-25 - 00:00:00 Foto: Tomada de Internet 
+El Grupo Parlamentario del Partido de la Revolución Democrática (PRD) en la Asamblea Legislativa del Distrito Federal (ALDF) propondrá sanciones para los servidores públicos que no respeten a los peatones. Para ello, esta semana presentarán ante el Pleno una iniciativa para crear la Ley de la Carta para la Protección de los Derechos de las y los Peatones y el Espacio Público, en la que castigará con multas económicas o despido, a los servidores públicos del Gobierno capitalino y las 16 delegaciones que no respeten a los peatones. “Las sanciones derivadas de un mal desempeño en el manejo de vehículos oficiales serán pagadas por el conductor del vehículo a doble monto que establezca el Reglamento de Tránsito sin posibilidad de descuento por pronto pago, pudiendo ser descontado el pago de su salario. La violación reiterada a esta ley por parte de un servidor público de la Ciudad de México será motivo suficiente para su despido”, comentó el diputado Víctor Hugo Romo. Los servidores públicos serán capacitados con regularidad a fin de salvaguardar la vida de las personas en la calle y proteger los derechos de los peatones, pues de acuerdo con el Instituto de Políticas para el Transporte y Desarrollo, el año pasado mil 30 personas murieron por atropellamientos en la ciudad. El asambleísta comentó que con esta Carta también se busca que los peatones tenga una sola obligación, convivir con respeto.“Los derechos a garantizar convivencia respetuosa como única obligación de los peatones, los peatones solo tendrán en su condición de personas usuarias del espacio público la obligación de convivir con respeto con las demás personas, la condición del peatón no genera nuevas obligaciones”, dijo. Esta Carta definirá el concepto de espacio público y establecerá la obligación de Crear en un año un Plan Maestro de Espacio Público, y crea la figura de espacio privado de uso público, en el que se revisará el rol que juegan los espacios privados para poder alcanzar un espacio público, por ejemplo las plazas comerciales. Al respecto, Roberto Remes, titular de la Autoridad del Espacio Público (AEP), aplaudió la iniciativa ya que incluye —dijo— la visión de la ciudadanía y establece el derecho de las y los peatones de transitar con libertad. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image>http://www.cronica.com.mx/nimagenes/2/2016-04-24_09-04-13___6562.jpg</main_image>
+</document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.ziaresireviste.ro/index.php?page=agentii_turism</forum>
+<forum_title>Agentii Turism, cazare, Paste Craciun Revelion </forum_title>
+<discussion_title>Franţa: Citroen și Peugeot, investigate de autorităţi privind emisiile vehiculelor</discussion_title>
+<language>romanian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.ziaresireviste.ro/index.php?page=revista_presei&amp;details=on&amp;id=141848</topic_url>
+<topic_text>
+Sediul grupului auto PSA din Franţa a fost percheziţionat de către inspectorii antifraudă din cadrul Guvernului, într-o investigaţie privind emisile vehiculelor. În urma controlului efectuat de autorităţi, acţiunile grupului au scăzut cu circa 4,5%, relatează Bloomberg.
+Inspectorii francezi au declarat că au verificat mai multe sedii ale grupului auto, după ce au observat anumite anomalii în cadrul testelor de emisii. PSA, producătorul mărcilor Peugeot și Citroen, a afirmat că va coopera în totalitate cu autorităţile cât timp va acea loc investigaţia. „A fost neașteptat, a fost o surpriză“, a declarat un purtător de cuvânt al companiei. Acţiunile Pegeot au scăzut, joi, până la valoarea de 13,47 de euro. Producătorii de automobile sunt supravegheaţi îndeaproape după ce anul trecut Volkswagen a recunoscut că a manipulat testele privind emisiile poluante ale motoarelor diesel timp de ani de zile. Totodată, Volkswagen a admis că la nivel mondial sunt afectate circa 11 milioane de vehicule ale grupului. Compania a fost dată în judecată în SUA și, în prezent, este investigată în cel puţin șapte state. În Franţa, producătorul Renault a fost ţinta unei investigaţii similare în luna ianuarie. Autorităţile au declarat în martie că nu există nicio dovadă că Renault ar fi falsificat testele de poluare. Separat, în urma scandalului Volkswagen, autoritatea de mediu din Franţa a început să verifice aleatoriu vehiculele existente pe piaţa franceză pentru a vedea dacă existe diferenţe între rezultatele testelor de laborat și emisiile poluante în condiţii reale de trafic. Ministerul Mediului a anunţat în această lună că o comisie numită să verifice nivelul emisiilor audiază producătorii auto, urmând să fie testate 100 de vehicule. Directorul pentru cercetare și dezvoltare al PSA, Gilles Le Borgne, și directorul pentru transmisii, punţi și șasiuri, Christian Chapelle, vor fi audiaţi în comisia ministerială pe 28 aprilie.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.ziaresireviste.ro/index.php?page=revista_presei&amp;details=on&amp;id=141848</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Adevarul.ro</username>
+<post>
+Sediul grupului auto PSA din Franţa a fost percheziţionat de către inspectorii antifraudă din cadrul Guvernului, într-o investigaţie privind emisile vehiculelor. În urma controlului efectuat de autorităţi, acţiunile grupului au scăzut cu circa 4,5%, relatează Bloomberg.
+Inspectorii francezi au declarat că au verificat mai multe sedii ale grupului auto, după ce au observat anumite anomalii în cadrul testelor de emisii. PSA, producătorul mărcilor Peugeot și Citroen, a afirmat că va coopera în totalitate cu autorităţile cât timp va acea loc investigaţia. „A fost neașteptat, a fost o surpriză“, a declarat un purtător de cuvânt al companiei. Acţiunile Pegeot au scăzut, joi, până la valoarea de 13,47 de euro. Producătorii de automobile sunt supravegheaţi îndeaproape după ce anul trecut Volkswagen a recunoscut că a manipulat testele privind emisiile poluante ale motoarelor diesel timp de ani de zile. Totodată, Volkswagen a admis că la nivel mondial sunt afectate circa 11 milioane de vehicule ale grupului. Compania a fost dată în judecată în SUA și, în prezent, este investigată în cel puţin șapte state. În Franţa, producătorul Renault a fost ţinta unei investigaţii similare în luna ianuarie. Autorităţile au declarat în martie că nu există nicio dovadă că Renault ar fi falsificat testele de poluare. Separat, în urma scandalului Volkswagen, autoritatea de mediu din Franţa a început să verifice aleatoriu vehiculele existente pe piaţa franceză pentru a vedea dacă existe diferenţe între rezultatele testelor de laborat și emisiile poluante în condiţii reale de trafic. Ministerul Mediului a anunţat în această lună că o comisie numită să verifice nivelul emisiilor audiază producătorii auto, urmând să fie testate 100 de vehicule. Directorul pentru cercetare și dezvoltare al PSA, Gilles Le Borgne, și directorul pentru transmisii, punţi și șasiuri, Christian Chapelle, vor fi audiaţi în comisia ministerială pe 28 aprilie.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>RO</country>
+<main_image>http://www.ziaresireviste.ro/images/upload/articol/107011volkswagen-1.jpg</main_image>
+</document>

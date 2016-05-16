@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.newschannel10.com/category/120652/money?clienttype=rss</forum>
+<forum_title>KFDA - Money</forum_title>
+<discussion_title>Correction: China-Ford Pickup story</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.newschannel10.com/story/31809820/correction-china-ford-pickup-story</topic_url>
+<topic_text>
+Correction: China-Ford Pickup story - KFDA - NewsChannel 10 / Amarillo News, Weather, Sports Member Center: 2016-04-25T17:43:21Z 2016-04-25T17:43:21Z 
+DETROIT (AP) - In a story April 22 about Ford Motor Co. selling its F-150 pickup in China for the first time, The Associated Press reported erroneously - based on incorrect information from Ford - that the Ford Ranger pickup is sold in China. 
+A corrected version of the story is below: 
+For the first time, Ford&apos;s F-150 pickup truck will be sold in China. 
+Ford Motor Co. said Friday that it&apos;s bringing the beefy, off-road version of its F-150 - the F-150 Raptor SuperCrew - to China next year. 
+The Raptor has been popular in China&apos;s gray market, where buyers are known to pay triple the list price. But it&apos;s never been officially sold in the country. 
+Ford introduced the Raptor in 2009 and it quickly gained a following among off-road enthusiasts. It was discontinued in the 2014 model year as Ford prepared to launch a new, aluminum-bodied F-150. 
+The new version of the Raptor goes on sale later this year. It has a more powerful 3.5-liter V6 EcoBoost engine, a new 10-speed transmission and a terrain management system for driving in sand, rocks or snow. Its aluminum body also makes it faster and lighter. 
+Ford didn&apos;t announce pricing, but the Raptor is expected to start around $50,000. Chinese buyers will face additional import duties, since the truck will be built in Dearborn, Michigan. 
+The automaker makes multiple versions of the F-150, but it only plans to send the Raptor to China for now. The F-150 pickup is sold in 95 countries - and has been one of the best-selling vehicles in the U.S. for three decades. 
+Ford made the Raptor announcement ahead of this week&apos;s Beijing Motor Show. Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. AP National News Video More&gt;&gt; Questions swirl about Prince&apos;s health with unexplained death 
+Prince&apos;s unexplained death at 57 has raised questions about whether he was hiding health problems from his fans 
+Prince&apos;s unexplained death at 57 has raised questions about whether he was hiding health problems from his fans Prince&apos;s death raises numerous questions about prior health 
+Prince&apos;s unexplained death at age 57 has raised a multitude of questions of whether he was hiding health problems from his fans 
+Prince&apos;s unexplained death at age 57 has raised a multitude of questions of whether he was hiding health problems from his fans
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.newschannel10.com/story/31809820/correction-china-ford-pickup-story</post_url>
+<post_date>20160425</post_date>
+<post_time>1743</post_time>
+<username></username>
+<post>
+Correction: China-Ford Pickup story - KFDA - NewsChannel 10 / Amarillo News, Weather, Sports Member Center: 2016-04-25T17:43:21Z 2016-04-25T17:43:21Z 
+DETROIT (AP) - In a story April 22 about Ford Motor Co. selling its F-150 pickup in China for the first time, The Associated Press reported erroneously - based on incorrect information from Ford - that the Ford Ranger pickup is sold in China. 
+A corrected version of the story is below: 
+For the first time, Ford&apos;s F-150 pickup truck will be sold in China. 
+Ford Motor Co. said Friday that it&apos;s bringing the beefy, off-road version of its F-150 - the F-150 Raptor SuperCrew - to China next year. 
+The Raptor has been popular in China&apos;s gray market, where buyers are known to pay triple the list price. But it&apos;s never been officially sold in the country. 
+Ford introduced the Raptor in 2009 and it quickly gained a following among off-road enthusiasts. It was discontinued in the 2014 model year as Ford prepared to launch a new, aluminum-bodied F-150. 
+The new version of the Raptor goes on sale later this year. It has a more powerful 3.5-liter V6 EcoBoost engine, a new 10-speed transmission and a terrain management system for driving in sand, rocks or snow. Its aluminum body also makes it faster and lighter. 
+Ford didn&apos;t announce pricing, but the Raptor is expected to start around $50,000. Chinese buyers will face additional import duties, since the truck will be built in Dearborn, Michigan. 
+The automaker makes multiple versions of the F-150, but it only plans to send the Raptor to China for now. The F-150 pickup is sold in 95 countries - and has been one of the best-selling vehicles in the U.S. for three decades. 
+Ford made the Raptor announcement ahead of this week&apos;s Beijing Motor Show. Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. AP National News Video More&gt;&gt; Questions swirl about Prince&apos;s health with unexplained death 
+Prince&apos;s unexplained death at 57 has raised questions about whether he was hiding health problems from his fans 
+Prince&apos;s unexplained death at 57 has raised questions about whether he was hiding health problems from his fans Prince&apos;s death raises numerous questions about prior health 
+Prince&apos;s unexplained death at age 57 has raised a multitude of questions of whether he was hiding health problems from his fans 
+Prince&apos;s unexplained death at age 57 has raised a multitude of questions of whether he was hiding health problems from his fans
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>US</country>
+<main_image></main_image>
+</document>

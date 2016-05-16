@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://ilcentro.gelocal.it/rss/sport/</forum>
+<forum_title>Sport - Il Centro</forum_title>
+<discussion_title>La Proger senza scampo contro la Fortitudo</discussion_title>
+<language>italian</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://ilcentro.gelocal.it/sport/2016/04/24/news/la-proger-senza-scampo-contro-la-fortitudo-1.13359354</topic_url>
+<topic_text>
+La Proger senza scampo contro la... La Proger senza scampo contro la Fortitudo Nella gara conclusiva vincono le motivazioni dei felsinei, ai play off da settimi. Chieti rinunciatario 24 aprile 2016 
+BOLOGNA. Senza storia. Come era ampiamente preventivabile. Bologna asfalta Chieti nell’ultima gara della regular season . Un match in cui la Proger non aveva nulla da chiedere, tanto il suo campionato è già concluso da un pezzo con una salvezza già raggiunta da tempo. 
+Al PalaDozza non c’è storia, perché il roster di Boniciolli voleva raggiungere il miglior piazzamento play off. Post season che non ci sarà, ovviamente, per Chieti, che però può rimproverare poco alla sua stagione. Come del resto alla partita di ieri, quella in cui i padroni di casa hanno messo subito in chiaro le cose, spegnendo sul nascere le timide velleità degli ospiti. Bologna ha motivazioni a palla, non per niente a inaugurare i tabelloni è una bomba, quella di Flowers. L’andazzo della serata per la Proger è chiaro e infatti il roster di coach Galli fatica a entrare in partita. A metà primo quarto, Amoroso fissa già il vantaggio sulla doppia cifra (13-3), con Chieti che soltanto nel finale della prima frazione riesce a ridurre lo svantaggio e a restare aggrappato al match grazie a Monaldi e Sergio a cavallo col secondo quarto (18-14). Il tutto dura poco, perché le due triple di Carraretto e Candi fanno ripartire Bologna. I felsinei, con la schiacciata di Flowers al 17’, vanno sul massimo vantaggio (34-20) e, come nel primo quarto, cedono nel finale, mantenendo comunque un discreto vantaggio (+12). 
+Poca storia anche nel terzo quarto. A inizio ripresa la Proger prova a rientrare, ma la maggiore qualità, precisione e determinazione della Eternedile prevale, avendo la meglio. È però nella seconda parte del terzo periodo che Bologna ingrana la marcia, con un parziale di 14-7, grazie a un Daniel indiavolato. 
+Nell’ultimo quarto Chieti davvero non ne ha più e non riesce ad avere neppure un briciolo di reazione che sia uno. Monaldi tenta qualcosa, ma è davvero troppo poco. E così soltanto dopo 4’ la Proger riesce a bucare la retina. La tripla di Piccoli arriva nel momento in cui la gara è già bella compromessa, a spezzare quel +25 realizzato da Flowers dai liberi. Il vantaggio dei felsinei resta sempre sopra i venti punti, tranne per la solita bomba di Piccoli (72-55), fino a che Bologna non prende il largo e chiude con un vantaggio più che consistente. 24 aprile 2016
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://ilcentro.gelocal.it/sport/2016/04/24/news/la-proger-senza-scampo-contro-la-fortitudo-1.13359354</post_url>
+<post_date>20160424</post_date>
+<post_time>0219</post_time>
+<username></username>
+<post>
+La Proger senza scampo contro la... La Proger senza scampo contro la Fortitudo Nella gara conclusiva vincono le motivazioni dei felsinei, ai play off da settimi. Chieti rinunciatario 24 aprile 2016 
+BOLOGNA. Senza storia. Come era ampiamente preventivabile. Bologna asfalta Chieti nell’ultima gara della regular season . Un match in cui la Proger non aveva nulla da chiedere, tanto il suo campionato è già concluso da un pezzo con una salvezza già raggiunta da tempo. 
+Al PalaDozza non c’è storia, perché il roster di Boniciolli voleva raggiungere il miglior piazzamento play off. Post season che non ci sarà, ovviamente, per Chieti, che però può rimproverare poco alla sua stagione. Come del resto alla partita di ieri, quella in cui i padroni di casa hanno messo subito in chiaro le cose, spegnendo sul nascere le timide velleità degli ospiti. Bologna ha motivazioni a palla, non per niente a inaugurare i tabelloni è una bomba, quella di Flowers. L’andazzo della serata per la Proger è chiaro e infatti il roster di coach Galli fatica a entrare in partita. A metà primo quarto, Amoroso fissa già il vantaggio sulla doppia cifra (13-3), con Chieti che soltanto nel finale della prima frazione riesce a ridurre lo svantaggio e a restare aggrappato al match grazie a Monaldi e Sergio a cavallo col secondo quarto (18-14). Il tutto dura poco, perché le due triple di Carraretto e Candi fanno ripartire Bologna. I felsinei, con la schiacciata di Flowers al 17’, vanno sul massimo vantaggio (34-20) e, come nel primo quarto, cedono nel finale, mantenendo comunque un discreto vantaggio (+12). 
+Poca storia anche nel terzo quarto. A inizio ripresa la Proger prova a rientrare, ma la maggiore qualità, precisione e determinazione della Eternedile prevale, avendo la meglio. È però nella seconda parte del terzo periodo che Bologna ingrana la marcia, con un parziale di 14-7, grazie a un Daniel indiavolato. 
+Nell’ultimo quarto Chieti davvero non ne ha più e non riesce ad avere neppure un briciolo di reazione che sia uno. Monaldi tenta qualcosa, ma è davvero troppo poco. E così soltanto dopo 4’ la Proger riesce a bucare la retina. La tripla di Piccoli arriva nel momento in cui la gara è già bella compromessa, a spezzare quel +25 realizzato da Flowers dai liberi. Il vantaggio dei felsinei resta sempre sopra i venti punti, tranne per la solita bomba di Piccoli (72-55), fino a che Bologna non prende il largo e chiude con un vantaggio più che consistente. 24 aprile 2016
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>IT</country>
+<main_image>http://ilcentro.gelocal.it/polopoly_fs/1.13359352.1461539392!/httpImage/image.jpg_gen/derivatives/detail_558/image.jpg</main_image>
+</document>

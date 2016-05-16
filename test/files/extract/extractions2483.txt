@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Warriors await MRI result on Currys injured knee</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://slam.canoe.com/Slam/Basketball/NBA/Playoffs/2016/04/25/22627103.html</topic_url>
+<topic_text>
+Latest news Warriors await MRI result on Currys injured knee Golden State Warriors guard Stephen Curry defends Houston Rockets guard Patrick Beverley during the NBA playoffs Sunday at the Toyota Center in Houston. (Thomas B. Shea/USA TODAY Sports) Latest News Apr 25, 2016 , Last Updated: 1:52 PM ET 
+The Golden State Warriors run toward a second consecutive NBA championship may come down to the MRI results on the right knee of star guard Stephen Curry. 
+Curry underwent an MRI exam on Monday after injuring his knee against the Houston Rockets on Sunday. The results are expected later in the afternoon. 
+The reigning league MVP is expected to miss Game 5 on Wednesday night. The Warriors defeated the Rockets 121-94 on Sunday to take a 3-1 lead in the Western Conference first-round series. 
+Curry slipped on a wet spot while guarding Trevor Ariza at the first-half buzzer and banged his right knee on the floor. He grabbed the knee and limped off to the locker room. 
+Curry returned to the court after halftime and moved laterally to test the joint but shook his head toward the bench and returned to the locker room. He was ruled out just after the second half began. 
+Curry missed Games 2 and 3 with a right ankle injury. He returned to the starting lineup for Game 4 and missed 7 of 9 shots in the first half, shooting just 1 of 7 on 3-pointers while pairing six points with five assists in 18 minutes before suffering the knee injury. 
+I thought his movement looked good. His conditioning was better than I expected, Warriors coach Steve Kerr said of Curry after the game. And then he slips on the wet spot unfortunately, and back to square one. 
+When you have a team that is as together as ours is and cares about each other like ours does, you tend to pick up the fight a little bit. Our guys sensed that we needed to come together. 
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://slam.canoe.com/Slam/Basketball/NBA/Playoffs/2016/04/25/22627103.html</post_url>
+<post_date>20160425</post_date>
+<post_time></post_time>
+<username>Canoe Inc.</username>
+<post>
+Latest news Warriors await MRI result on Currys injured knee Golden State Warriors guard Stephen Curry defends Houston Rockets guard Patrick Beverley during the NBA playoffs Sunday at the Toyota Center in Houston. (Thomas B. Shea/USA TODAY Sports) Latest News Apr 25, 2016 , Last Updated: 1:52 PM ET 
+The Golden State Warriors run toward a second consecutive NBA championship may come down to the MRI results on the right knee of star guard Stephen Curry. 
+Curry underwent an MRI exam on Monday after injuring his knee against the Houston Rockets on Sunday. The results are expected later in the afternoon. 
+The reigning league MVP is expected to miss Game 5 on Wednesday night. The Warriors defeated the Rockets 121-94 on Sunday to take a 3-1 lead in the Western Conference first-round series. 
+Curry slipped on a wet spot while guarding Trevor Ariza at the first-half buzzer and banged his right knee on the floor. He grabbed the knee and limped off to the locker room. 
+Curry returned to the court after halftime and moved laterally to test the joint but shook his head toward the bench and returned to the locker room. He was ruled out just after the second half began. 
+Curry missed Games 2 and 3 with a right ankle injury. He returned to the starting lineup for Game 4 and missed 7 of 9 shots in the first half, shooting just 1 of 7 on 3-pointers while pairing six points with five assists in 18 minutes before suffering the knee injury. 
+I thought his movement looked good. His conditioning was better than I expected, Warriors coach Steve Kerr said of Curry after the game. And then he slips on the wet spot unfortunately, and back to square one. 
+When you have a team that is as together as ours is and cares about each other like ours does, you tend to pick up the fight a little bit. Our guys sensed that we needed to come together. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>IL</country>
+<main_image>http://slam.canoe.com/Slam/Basketball/NBA/Playoffs/2016/04/25/curry650.jpg</main_image>
+</document>

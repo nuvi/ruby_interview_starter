@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://rhein-zeitung.de/feed/5-newsticker.xml</forum>
+<forum_title>NewsTicker</forum_title>
+<discussion_title>Italien fordert Nato-Einsatz vor der libyschen Küste</discussion_title>
+<language>german</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Italien-fordert-Nato-Einsatz-vor-der-libyschen-Kueste-_arid,1476667.html</topic_url>
+<topic_text>
+25.04.2016, 19:14 Uhr Italien fordert Nato-Einsatz vor der libyschen Küste Brüssel (dpa). Aus Furcht vor neuen Flüchtlingstragödien plädiert Italien für eine Ausweitung des Nato-Einsatzes im Mittelmeer. Nach Angaben von Verteidigungsministerin Roberta Pinotti regte Rom an, aus der laufenden Anti-Terror-Operation im östlichen Mittelmeer einen Einsatz vor der Küste Libyens zu machen. Bereits beim Nato-Gipfel Anfang Juli in Warschau könnte eine Entscheidung fallen, sagte sie der Zeitung «La Stampa». Der Seeweg von der libyschen Küste nach Italien gilt als eine wichtige Schleuserroute.  
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Italien-fordert-Nato-Einsatz-vor-der-libyschen-Kueste-_arid,1476667.html</post_url>
+<post_date>20160425</post_date>
+<post_time>1714</post_time>
+<username></username>
+<post>
+25.04.2016, 19:14 Uhr Italien fordert Nato-Einsatz vor der libyschen Küste Brüssel (dpa). Aus Furcht vor neuen Flüchtlingstragödien plädiert Italien für eine Ausweitung des Nato-Einsatzes im Mittelmeer. Nach Angaben von Verteidigungsministerin Roberta Pinotti regte Rom an, aus der laufenden Anti-Terror-Operation im östlichen Mittelmeer einen Einsatz vor der Küste Libyens zu machen. Bereits beim Nato-Gipfel Anfang Juli in Warschau könnte eine Entscheidung fallen, sagte sie der Zeitung «La Stampa». Der Seeweg von der libyschen Küste nach Italien gilt als eine wichtige Schleuserroute.  
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>DE</country>
+<main_image>http://www.rhein-zeitung.de/pu_base/images/facebook_logo.jpg</main_image>
+</document>
