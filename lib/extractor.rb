@@ -2,8 +2,8 @@ require 'rubygems'
 require 'zip'
 # require 'pry' #uncomment to debug
 
-module NewsExtractorTest
-	class ExtractZip
+module Extractor
+	class Zip
 		class << self
 			attr_accessor :counter
 		end
@@ -34,6 +34,6 @@ module NewsExtractorTest
 	end
 end
 
-file_path = File.expand_path('../../test/files/news.zip', __FILE__)
+# file_path = File.expand_path('../../test/files/news.zip', __FILE__)
 
-NewsExtractorTest::ExtractZip.unzip( file_path ) #supply abs file path and an optional {extract_path:}. default xtract path is test/files/extract
+# Extractor::Zip.unzip( file_path ) #supply abs file path and an optional {extract_path:}. default xtract path is test/files/extract

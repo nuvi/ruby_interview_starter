@@ -1,13 +1,29 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+# require 'ruby_interview_starter'
 require 'thor'
+require_relative '../lib/downloader'
+require_relative '../lib/extractor'
+
+require 'pry'
 
 module RubyInterviewStarter
+
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+      # binding.pry
+      url = "http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/"
+
+			connection = Downloader::Connection.new(url)
+
+			connection.get_resources(type: :zip)
+
+			destination_path = File.expand_path("../../test/files/downloads", __FILE__)
+
+			connection.get( destination_path )
+
     end
   end
 end

@@ -24,7 +24,7 @@ module Downloader
 			end
 		end
 
-		def get(dir, thread_count: 50)
+		def get(dir, thread_count: 100)
 			Downloader::Connection.create_dir(dir)
 
 			queue = Queue.new
@@ -34,24 +34,25 @@ module Downloader
 		    Thread.new do
 	        while !queue.empty? && url = queue.pop
 	          file_name = url.split('/')[-1]
-						Downloader::Connection.download(file_name, @uri)
+          	uri = URI.parse(url)
+						Downloader::Connection.download(file_name, uri)
 	        end
 		    end
 			end
-
 			threads.each(&:join)
-
 		end
 
 		def self.download(filename, uri)
 			Net::HTTP.start(uri.host, uri.port) do |http|
-	      request = Net::HTTP::Get.new uri.request_uri
+	      # request = Net::HTTP::Get.new uri.request_uri
+	      request = Net::HTTP::Get.new uri
 	      http.read_timeout = 500
 	      http.request request do |response|
 	        open filename, 'w' do |io|
-	          response.read_body do |chunk|
-	            io.write chunk	
-	          end
+	        	io.write response.body
+	          # response.read_body do |chunk|
+	            # io.write chunk	
+	          # end
 	        end
 	      end
 	    end
@@ -70,12 +71,12 @@ module Downloader
 
 end
 
-url = "http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/"
+# url = "http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/"
 
-connection = Downloader::Connection.new(url)
+# connection = Downloader::Connection.new(url)
 
-connection.get_resources(type: :zip)
+# connection.get_resources(type: :zip)
 
-destination_path = File.expand_path("../../test/files/downloads", __FILE__)
+# destination_path = File.expand_path("../../test/files/downloads", __FILE__)
 
-connection.get( destination_path )
+# connection.get( destination_path )

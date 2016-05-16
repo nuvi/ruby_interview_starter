@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 
 gem 'rubyzip'
+gem 'redis'
 
 group :development, :test do
 	gem 'pry'
