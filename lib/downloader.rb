@@ -27,10 +27,19 @@ module Downloader
 		def get(dir, thread_count: 50)
 			Downloader::Connection.create_dir(dir)
 
-			@resources.each do |resource|
-				file_name = resource.split('/')[-1]
-				Downloader::Connection.download(file_name, @uri)
+			queue = Queue.new
+			@resources.map { |url| queue << url }
+
+			threads = thread_count.times.map do 
+		    Thread.new do
+	        while !queue.empty? && url = queue.pop
+	          file_name = url.split('/')[-1]
+						Downloader::Connection.download(file_name, @uri)
+	        end
+		    end
 			end
+
+			threads.each(&:join)
 
 		end
 
