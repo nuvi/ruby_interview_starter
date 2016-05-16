@@ -9,7 +9,7 @@ class RubyBitlyUnzipper
   
   redis = Redis.new
 
-  def main
+  def self.execute
     unzipped_files = unzip_files(FILE_LIST, DESTINATION_FOLDER)
     store_files = redis_store(UNZIPPED_LIST)
   end
@@ -26,8 +26,8 @@ class RubyBitlyUnzipper
     end
   end
 
-  def redis_store file_arr    
-    file_arr.each do |file|
+  def redis_store unzipped_arr
+    unzipped_arr.each do |file|
       redis.set File.basename(file), File.read(file)
     end
   end
