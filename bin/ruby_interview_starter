@@ -1,14 +1,48 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+# require 'ruby_interview_starter'
 require 'thor'
+require_relative '../lib/downloader'
+require_relative '../lib/extractor'
+require_relative '../lib/publish'
+
+require 'pry'
 
 module RubyInterviewStarter
+
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+
+      endpoint = "http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/"
+			connection = Downloader::Connection.new(endpoint)
+			connection.get_resources(type: :zip)
+			destination_path = File.expand_path("../../test/files/downloads", __FILE__)
+      puts "Downloading files to #{destination_path}"
+			connection.get( destination_path )
+
+			puts "Starting extraction"
+			Dir.chdir(destination_path)
+			Dir.foreach(destination_path) do |f|
+				next if f == '.' or f == '..'
+				file_path = destination_path + '/' + f
+				Extractor::ZipExtract.unzip( file_path ) if File.file?(f) #supply abs file path and an optional {extract_path:}. default xtract path is /extract
+			end
+
+			puts "Publishing"
+			extract_path = destination_path + "/extract"
+			Dir.chdir("extract")
+			Dir.foreach(extract_path) do |f|
+				next if f == '.' or f == '..'
+				file_path = extract_path + '/' + f
+				publish = Publish::RedisPush.new(file_path)
+				data = publish.serialize_xml
+				puts "Published #{f}" if publish.persist(:list, "NEWS_XML", data)
+			end
+
     end
+
   end
 end
 
