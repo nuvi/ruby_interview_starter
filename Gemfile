@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 # gem 'ruby_interview_starter'
 gem 'rubyzip'
-gem 'pry'
 gem 'test_helper'
 gem 'mechanize'
 gem 'redis'

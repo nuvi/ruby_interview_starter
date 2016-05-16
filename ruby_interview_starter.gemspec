@@ -26,7 +26,11 @@ Gem::Specification.new do |spec|
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
-
+  spec.add_dependency "rubyzip"
+  spec.add_dependency "test_helper"
+  spec.add_dependency "mechanize"
+  spec.add_dependency "redis"
+  spec.add_dependency "redis-objects"
   spec.add_dependency "thor"
 
   spec.add_development_dependency "bundler"
