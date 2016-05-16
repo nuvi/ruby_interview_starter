@@ -19,8 +19,8 @@ class DownloadReader
   def save_to_redis
     Dir.foreach(@new_dir) do |zip_file|
       zip_file_contents = File.open("#{@new_dir}/#{zip_file}")
+      puts "Saving #{zip_file} tod Redis"
       @redis.set(zip_file, zip_file_contents)
-      # puts @redis.get(zip_file)
     end  
   end  
 end  
