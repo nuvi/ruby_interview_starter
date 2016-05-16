@@ -1,13 +1,9 @@
 require 'zip'
 require 'fileutils'
 require 'redis'
-require 'pry'
-require 'pry-byebug'
 
 class RubyBitlyUnzipper
-  # FILE_LIST = Dir.glob(__dir__ + '/test/files/downloads/*.zip')
   DESTINATION_FOLDER = File.expand_path('../test/files/unzipped_downloads/', "lib")
-  UNZIPPED_LIST = Dir.glob(__dir__ + '/test/files/unzipped_downloads/*')
   
   redis = Redis.new
 
