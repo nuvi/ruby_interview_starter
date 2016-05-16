@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.techworld.com.au/rss/latest/</forum>
+<forum_title>TechWorld Latest Articles</forum_title>
+<discussion_title>Slack is letting its users take their chat credentials to other apps</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.techworld.com.au/article/599598/slack-letting-its-users-take-their-chat-credentials-other-apps/</topic_url>
+<topic_text>
+Slack is letting its users take their chat credentials to other apps The new feature pits the popular chat app against the likes of Facebook, Twitter and Google Comments 
+Slack is offering its users a new way to sign into other applications. The company announced Tuesday that it has launched a new &quot;Sign in with Slack&quot; feature that lets people use their login for the chat app to sign in to participating applications. 
+Developers of applications like Quip can now enable their users to sign in with Slack credentials, which can make it easier for people to get started with applications -- and therefore more likely to try them out. The new feature makes it possible for independent developers and startups focused on workplace productivity to get an easier foothold with new users. 
+Those developers include the aforementioned productivity suite Quip, along with Sigma, Office Vibe, Slackline and Smooz. In addition to being able to simplify their sign-in processes, companies that take advantage of the new feature can also request access to things like users&apos; Slack avatars and Slack team information. That, in turn, can be used to easily personalize an application for those people, without requiring them to fill out forms. 
+When users go to sign into an app with Slack, they&apos;ll be asked to authorize its access to information the chat app has about them. How much information an app gets through the integration will depend on what the developer asks for, and users will be able to see exactly what they&apos;re giving up. Slack 
+The authorization dialog that shows up when someone uses the Sign in with Slack feature. 
+What&apos;s interesting about this integration is that Slack itself integrates with other single sign-on providers like OneLogin, Okta and Azure Active Directory. That means developers implementing Sign in with Slack will actually get the advantage of integrating with those systems as well, without being required to actually do the heavy lifting to support them. 
+The feature could be a boon for business-focused developers that want to tap into Slack&apos;s massively growing user base. But it&apos;s hard to say right now whether this feature will stand out from all of the other social sign-on options on the market, especially with Facebook working on its own business-focused product.
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.techworld.com.au/article/599598/slack-letting-its-users-take-their-chat-credentials-other-apps/</post_url>
+<post_date>20160510</post_date>
+<post_time>2248</post_time>
+<username>Blair Hanley Frank</username>
+<post>
+Slack is letting its users take their chat credentials to other apps The new feature pits the popular chat app against the likes of Facebook, Twitter and Google Comments 
+Slack is offering its users a new way to sign into other applications. The company announced Tuesday that it has launched a new &quot;Sign in with Slack&quot; feature that lets people use their login for the chat app to sign in to participating applications. 
+Developers of applications like Quip can now enable their users to sign in with Slack credentials, which can make it easier for people to get started with applications -- and therefore more likely to try them out. The new feature makes it possible for independent developers and startups focused on workplace productivity to get an easier foothold with new users. 
+Those developers include the aforementioned productivity suite Quip, along with Sigma, Office Vibe, Slackline and Smooz. In addition to being able to simplify their sign-in processes, companies that take advantage of the new feature can also request access to things like users&apos; Slack avatars and Slack team information. That, in turn, can be used to easily personalize an application for those people, without requiring them to fill out forms. 
+When users go to sign into an app with Slack, they&apos;ll be asked to authorize its access to information the chat app has about them. How much information an app gets through the integration will depend on what the developer asks for, and users will be able to see exactly what they&apos;re giving up. Slack 
+The authorization dialog that shows up when someone uses the Sign in with Slack feature. 
+What&apos;s interesting about this integration is that Slack itself integrates with other single sign-on providers like OneLogin, Okta and Azure Active Directory. That means developers implementing Sign in with Slack will actually get the advantage of integrating with those systems as well, without being required to actually do the heavy lifting to support them. 
+The feature could be a boon for business-focused developers that want to tap into Slack&apos;s massively growing user base. But it&apos;s hard to say right now whether this feature will stand out from all of the other social sign-on options on the market, especially with Facebook working on its own business-focused product.
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>AU</country>
+<main_image>http://cdn.techworld.com.au/article/images/800x800/dimg/slack-icon-100633620-orig_1.jpg</main_image>
+</document>

@@ -4,7 +4,7 @@ class RubyBitlyDownloader
   PAGE_URL = 'http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/'
 
 
-  def self.execute
+  def main
     response = get_response(PAGE_URL)
     parsed_response = parse_response(response)
     cleaned_response = clean_up_response_array(parsed_response)
