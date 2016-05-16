@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 
 gem 'rubyzip'
 gem 'redis'
+gem 'nokogiri'
 
 group :development, :test do
 	gem 'pry'

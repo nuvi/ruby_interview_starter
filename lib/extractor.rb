@@ -3,7 +3,7 @@ require 'zip'
 # require 'pry' #uncomment to debug
 
 module Extractor
-	class Zip
+	class ZipExtract
 		class << self
 			attr_accessor :counter
 		end
@@ -20,7 +20,8 @@ module Extractor
 			      self.counter += 1
 
 	        	f_path = File.join(extract_path, file.name)
-			      FileUtils::mkdir_p(File.dirname(f_path))
+	        	dir = File.dirname(f_path)
+			      FileUtils::mkdir_p( dir ) unless Dir.exists?( dir )
 			      zip_file.extract(file, f_path) 
 			    end
 			  end
@@ -30,10 +31,5 @@ module Extractor
 
 		end
 
-
 	end
 end
-
-# file_path = File.expand_path('../../test/files/news.zip', __FILE__)
-
-# Extractor::Zip.unzip( file_path ) #supply abs file path and an optional {extract_path:}. default xtract path is test/files/extract

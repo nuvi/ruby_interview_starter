@@ -3,7 +3,6 @@ require 'net/http'
 require 'pry'
 
 module Downloader
-
 	class Connection
 
 		def initialize(endpoint)
@@ -66,17 +65,4 @@ module Downloader
 		end
 
 	end
-
-
-
 end
-
-# url = "http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/"
-
-# connection = Downloader::Connection.new(url)
-
-# connection.get_resources(type: :zip)
-
-# destination_path = File.expand_path("../../test/files/downloads", __FILE__)
-
-# connection.get( destination_path )
