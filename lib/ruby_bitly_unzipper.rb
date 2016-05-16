@@ -3,12 +3,13 @@ require 'fileutils'
 require 'redis'
 
 class RubyBitlyUnzipper
-  redis = Redis.new
   FILE_LIST = Dir.glob(__dir__ + '/test/files/downloads/*.zip')
   DESTINATION_FOLDER = File.expand_path('../test/files/unzipped_downloads/', "lib")
   UNZIPPED_LIST = Dir.glob(__dir__ + '/test/files/unzipped_downloads/*')
+  
+  redis = Redis.new
 
-  def init
+  def main
     unzipped_files = unzip_files(FILE_LIST, DESTINATION_FOLDER)
     store_files = redis_store(UNZIPPED_LIST)
   end
