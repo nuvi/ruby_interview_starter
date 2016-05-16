@@ -25,14 +25,12 @@ end
 
 
   def download  
-    b = 0
     agent = Mechanize.new
     page = agent.get('http://bitly.com/nuvi-plz')
 
     page.links.each do |link|
-      if (link.href.include?(".zip")) && (b < 1)
+      if (link.href.include?(".zip"))
         filer(link)
-        b += 1
       end
     end
   end
