@@ -1,4 +1,3 @@
-# I know I know... everyone loves nokogiri and I do too, but why use it when you can use a standard library, so I decided why not not use nokogiri... so that is this.
 require 'net/http'
 
 class RubyBitlyDownloader
