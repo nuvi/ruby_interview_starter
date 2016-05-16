@@ -1,13 +1,15 @@
 #!/usr/bin/env ruby
-
-require 'ruby_interview_starter'
+# require 'ruby_interview_starter'
 require 'thor'
+require_relative '../web_downloader_and_redis_saver'
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
       puts "This is the Ruby Interview Starter command line script"
+      web_downloader = FetchAndSave.new('test/files/downloads', 'test/files/web_extracted', 'http://feed.omgili.com/5Rh5AMTrc4Pv/mainstream/posts/')
+      web_downloader.fetch_and_save
     end
   end
 end
