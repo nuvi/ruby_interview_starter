@@ -7,3 +7,8 @@
 /pkg/
 /spec/reports/
 /tmp/
+
+**/.DS_Store
+**/downloads
+**/unzipped_downloads
+.ruby-gemset
