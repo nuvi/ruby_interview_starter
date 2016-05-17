@@ -1,16 +1,14 @@
 #!/usr/bin/env ruby
 
-require 'ruby_interview_starter'
+require_relative '../lib/ruby_interview_starter'
 require 'thor'
-require '../lib/ruby_bitly_downloader'
-require '../lib/ruby_bitly_unzip'
 
 module RubyInterviewStarter
   class CLI < Thor
     desc "execute", "Executes Interview Starter"
     def execute
-      puts "This is the Ruby Interview Starter command line script"
-      
+      puts "This is the Ruby Interview Starter cli script, It will now start downloading your files..."
+      RubyInterviewStarter.execute
     end
   end
 end
