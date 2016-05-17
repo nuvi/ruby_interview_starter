@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To run execute the ```./bin/ruby_interview_starter execute``` script. It will then download everything that you need so that your can load your computer full of near endless .xml files!!! And if that isnt enough this wonderfull gem will then take 10Gigs of xml and put in into a redis server for you!! 
 
 ## Development
 
