@@ -1,8 +1,7 @@
 # RubyInterviewStarter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ruby_interview_starter`. To experiment with that code, run `bin/console` for an interactive prompt.
+This jem is what happens when jedi decided what programming language to use.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To run execute the ```./bin/ruby_interview_starter execute``` script. It will then download everything that you need so that your can load your computer full of near endless .xml files!!! And if that isnt enough this wonderfull gem will then take 10Gigs of xml and put in into a redis server for you!! 
 
 ## Development
 
